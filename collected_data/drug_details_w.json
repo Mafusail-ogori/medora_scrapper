@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Wainua",
+    "genericName": "eplontersen injection",
+    "description": "Wainua (eplontersen) is a transthyretin-directed antisense oligonucleotide indicated for the treatment of the polyneuropathy of hereditary transthyretin-mediated amyloidosis in adults.",
+    "sideEffects": "The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling: Reduced Serum Vitamin A Levels and Recommended Supplementation [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": ""
+  },
+  {
+    "name": "Wakix",
+    "genericName": "pitolisant tablets",
+    "description": "Wakix (pitolisant) is a histamine-3 (H3) receptor antagonist/inverse agonist indicated for the treatment of excessive daytime sleepiness (EDS) in adult patients with narcolepsy.",
+    "sideEffects": "The following adverse reactions are discussed in more detail in other sections of the labeling: QT Interval Prolongation [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dosage range for Wakix is 17.8 mg to 35.6 mg daily."
+  },
+  {
+    "name": "Coumadin",
+    "genericName": "warfarin sodium",
+    "description": "Coumadin (warfarin) is a blood anticoagulant that inhibits the function of Vitamin K dependent coagulation used to inhibit the coagulation of blood to reduce or prevent the chance of developing heart attacks (myocardial infarctions), strokes, and venous and other blood clots (deep venous thromboses, pulmonary emboli and thrombi produced with atrial fibrillation). Coumadin is also used to treat these conditions if they develop. Coumadin is available as a generic.",
+    "sideEffects": "The following serious adverse reactions to COUMADIN are discussed in greater detail in other\nsections of the labeling: Hemorrhage [see BOX WARNING, WARNINGS AND PRECAUTIONS and OVERDOSE] Tissue Necrosis [see WARNINGS AND PRECAUTIONS] Calciphylaxis [see WARNINGS AND PRECAUTIONS] Acute Kidney Injury [see WARNINGS AND PRECAUTIONS] Systemic Atheroemboli and Cholesterol Microemboli [see WARNINGS AND PRECAUTIONS] Limb Ischemia, Necrosis, and Gangrene in Patients with HIT and HITTS [see WARNINGS AND PRECAUTIONS] Other Clinical Settings with Increased Risks [see WARNINGS AND PRECAUTIONS] Other adverse reactions to COUMADIN include: Immune system disorders: hypersensitivity/allergic reactions (including urticaria and anaphylactic\nreactions) Vascular disorders: vasculitis Hepatobiliary disorders: hepatitis, elevated liver enzymes. Cholestatic hepatitis has been associated\nwith concomitant administration of COUMADIN and ticlopidine. Gastrointestinal disorders: nausea, vomiting, diarrhea, taste perversion, abdominal pain, flatulence,\nbloating Skin disorders: rash, dermatitis (including bullous eruptions), pruritus, alopecia Respiratory disorders: tracheal or tracheobronchial calcification General disorders: chills",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Coumadin has a wide range of tablets: 2, 2.5, 3, 4, 5, 6, 7.5 and 10 mg tablets are available.  An injectable form of the drug (5 mg) is also available. The dose of Coumadin is determined in each individual by administering a trial dose and ten measuring the patient's INR (International Normalized Ratio), a lab test that is standardized by the WHO (world Health Organization) and recognized worldwide. Therapeutic ranges for this test are between 2.0 to 3.0 when a patient is taking Coumadin. INR levels below 2 may allow easier blood clotting to occur while levels above 3 may cause excessive tendency for the patient to bleed."
+  },
+  {
+    "name": "Jantoven",
+    "genericName": "warfarin sodium tablets",
+    "description": "Jantoven (warfarin sodium) is an anticoagulant (blood thinner) used to prevent heart attacks, strokes, and blood clots in veins and arteries. Jantoven is available in generic form.",
+    "sideEffects": "The following serious adverse reactions to JANTOVEN are\ndiscussed in greater detail in other sections of the labeling: Hemorrhage [see BOXED WARNING, WARNINGS AND\n    PRECAUTIONS, and OVERDOSAGE] Tissue Necrosis [see WARNINGS AND PRECAUTIONS] Calciphylaxis [see WARNINGS AND PRECAUTIONS] Acute Kidney Injury [see WARNINGS AND PRECAUTIONS] Systemic Atheroemboli and Cholesterol Microemboli [see WARNINGS\n    AND PRECAUTIONS] Limb Ischemia, Necrosis, and Gangrene in Patients with\n    HIT and HITTS [see WARNINGS AND PRECAUTIONS] Other Clinical Settings with Increased Risks [see WARNINGS\n    AND PRECAUTIONS] Other adverse reactions to JANTOVEN include: Immune system disorders: hypersensitivity/allergic\n    reactions (including urticaria and anaphylactic reactions) Vascular disorders: vasculitis Hepatobiliary disorders: hepatitis, elevated liver\n    enzymes. Cholestatic hepatitis has been associated with concomitant\n    administration of warfarin sodium and ticlopidine. Gastrointestinal disorders: nausea, vomiting, diarrhea,\n    taste perversion, abdominal pain, flatulence, bloating Skin disorders: rash, dermatitis (including bullous\n    eruptions), pruritus, alopecia Respiratory disorders: tracheal or tracheobronchial\n    calcification General disorders: chills",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dose of Jantoven is individualized, and is based on clinical findings."
+  },
+  {
+    "name": "Wegovy",
+    "genericName": "semaglutide injection",
+    "description": "What Is Wegovy?",
+    "sideEffects": "The following serious adverse reactions are described below or elsewhere in the prescribing information: Risk of Thyroid C-Cell Tumors [see WARNINGS AND PRECAUTIONS] Acute Pancreatitis [see WARNINGS AND PRECAUTIONS] Acute Gallbladder Disease [see WARNINGS AND PRECAUTIONS] Hypoglycemia [see WARNINGS AND PRECAUTIONS] Acute Kidney Injury [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Diabetic Retinopathy Complications in Patients with Type 2 Diabetes [see WARNINGS AND PRECAUTIONS] Heart Rate Increase [see WARNINGS AND PRECAUTIONS] Suicidal Behavior and Ideation [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": ""
+  },
+  {
+    "name": "Welchol",
+    "genericName": "colesevelam hcl",
+    "description": "Welchol (colesevelam hydrochloride) is a lipid-lowering and glucose-lowering agent used to lower \"bad\" cholesterol in the blood. Welchol is sometimes used together with other cholesterol-lowering medications. Welchol is also used to improve glycemic control in people with type 2 diabetes.",
+    "sideEffects": "The following important adverse reactions are described below and elsewhere in the labeling: Hypertriglyceridemia and Pancreatitis [see WARNINGS AND PRECAUTIONS] Gastrointestinal Obstruction [see WARNINGS AND PRECAUTIONS] Vitamin K or Fat-Soluble Vitamin deciencies [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Welchol to treat primary hyperlipidemia or type 2 diabetes mellitus in adults is 6 tablets once daily or 3 tablets twice daily. Take with a meal and liquid. Do not take other medications at the same time unless your doctor has told you to, as Welchol may make it harder for your body to absorb certain other medications."
+  },
+  {
+    "name": "Welireg",
+    "genericName": "belzutifan  tablets",
+    "description": "What Is Welireg?",
+    "sideEffects": "The following clinically significant adverse reactions are discussed elsewhere in the labeling: Anemia [see WARNINGS AND PRECAUTIONS] Hypoxia [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": ""
+  },
+  {
+    "name": "Wellbutrin",
+    "genericName": "bupropion hcl",
+    "description": "Wellbutrin (bupropion) is an antidepressant in the aminoketone class used for the management of major depression and seasonal affective disorder. Wellbutrin is available in generic form.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Suicidal thoughts and behaviors in adolescents and young adults [see BOXED WARNING, WARNINGS AND PRECAUTIONS] Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see WARNINGS AND PRECAUTIONS] Seizure [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Activation of mania or hypomania [see WARNINGS AND PRECAUTIONS] Psychosis and other neuropsychiatric reactions [see WARNINGS AND PRECAUTIONS] Angle-closure glaucoma [see WARNINGS AND PRECAUTIONS] Hypersensitivity reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The usual dose of Wellbutrin is 150 to 450 mg daily."
+  },
+  {
+    "name": "Wellbutrin SR",
+    "genericName": "bupropion hydrochloride sustained-release",
+    "description": "Wellbutrin SR (bupropion hydrochloride) is an antidepressant used to treat major depressive disorder and seasonal affective disorder. At least one brand of bupropion (Zyban) is used to help people stop smoking by reducing cravings and other withdrawal effects. Wellbutrin SR is available in generic form.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Suicidal thoughts and behaviors in adolescents and young adults [see BOXED WARNING, WARNINGS AND PRECAUTIONS] Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see WARNINGS AND PRECAUTIONS] Seizure [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Activation of mania or hypomania [see WARNINGS AND PRECAUTIONS] Psychosis and other neuropsychiatric reactions [see WARNINGS AND PRECAUTIONS] Angle-closure glaucoma [see WARNINGS AND PRECAUTIONS] Hypersensitivity reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The usual adult dose for Wellbutrin SR is 300 mg/day, given as 150 mg twice daily. The full antidepressant effect may not be evident until 4 weeks of treatment or longer."
+  },
+  {
+    "name": "Wellbutrin XL",
+    "genericName": "bupropion hydrochloride extended-release",
+    "description": "Wellbutrin XL (bupropion hydrochloride extended-release) is an antidepressant used to treat major depressive disorder and seasonal affective disorder. At least one brand of bupropion (Zyban) is used to help people stop smoking by reducing cravings and other withdrawal effects. Wellbutrin XL is available in generic form.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Suicidal thoughts and behaviors in children, adolescents, and young adults [see WARNINGS AND PRECAUTIONS] Neuropsychiatric adverse events and suicide risk in smoking cessation treatment [see WARNINGS AND PRECAUTIONS] Seizure [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Activation of mania or hypomania [see WARNINGS AND PRECAUTIONS] Psychosis and other neuropsychiatric events [see WARNINGS AND PRECAUTIONS] Angle-Closure Glaucoma [see WARNINGS AND PRECAUTIONS] Hypersensitivity reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The initial dose of Wellbutrin XL is 150 mg/day as a single dose. The target dose is 300-mg/day."
+  },
+  {
+    "name": "Westcort",
+    "genericName": "hydrocortisone valerate cream",
+    "description": "Westcort (hydrocortisone valerate) Cream, 0.2% is a corticosteroid used to treat inflammation of the skin caused by a number of conditions such as allergic reactions, eczema, or psoriasis. The brand name Westcort is discontinued, but generic versions may be available.",
+    "sideEffects": "The following local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. In controlled clinical studies involving pediatric patients one month to 2 years of age (n=29), the incidence of adverse experiences, regardless of relationship to the use of WESTCORT Cream (hydrocortisone valerate cream) , was approximately 21%. Reported reactions included stinging (10%), eczema (7%), fungal infection (3%), and gastrointestinal disorder (3%). In controlled clinical studies involving pediatric patients 2 to 12 years of age (n=153), the sincidence of adverse experiences, regardless of relationship to the use of WESTCORT Cream (hydrocortisone valerate cream) , was approximately 10%. Reported reactions included stinging (3%), burning skin (2%), infection (Body as a Whole) (2%). Skin irritation, eczema, pruritus, application site reaction, rash, rash maculopapular, and dry skin were all reported at incidences of approximately 1%.",
+    "warnings": "No information provided.",
+    "dosage": "Westcort Cream should be applied to the affected area as a thin film two or three times daily depending on the severity of the condition."
+  },
+  {
+    "name": "Westcort Ointment",
+    "genericName": "hydrocortisone valerate ointment",
+    "description": "Westcort (hydrocortisone valerate) Ointment, 0.2% is a topical steroid used to treat inflammation of the skin caused by a number of conditions such as allergic reactions, eczema, or psoriasis. The brand name Westcort Ointment is discontinued, but generic versions may be available.",
+    "sideEffects": "In controlled clinical trials, the total incidence of adverse reactions associated with the use of WESTCORT Ointment was approximately 12%. These included worsening of condition (2%), transient itching (2%), irritation (1%) and redness (1%). In controlled clinical studies involving pediatric atopic dermatitis patients \n  2 through 12 years of age (n=64), the incidence of adverse experiences was approximately \n  28.1%, which is higher than that seen in adult patients. Reported reactions \n  included eczema (12.5%), pruritis (6%), stinging (2%), and dry skin (2%). Patients \n  were not specifically evaluated for signs of atrophy (thinning, telangiectasia, \n  erythema). No studies were performed to assess adrenal suppression and/or growth \n  suppression. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.",
+    "warnings": "No information provided.",
+    "dosage": "Westcort Ointment should be applied to the affected area as a thin film two or three times daily depending on the severity of the condition."
+  },
+  {
+    "name": "Westhroid",
+    "genericName": "thyroid tablets, usp",
+    "description": "Westhroid (thyroid) is a hormone used to treat underactive thyroid (hypothyroidism), to treat or prevent goiters, or as a diagnostic agent used in suppression tests to differentiate suspected mild hyperthyroidism or thyroid gland anatomy.",
+    "sideEffects": "Adverse reactions other than those indicative of\nhyperthyroidism because of therapeutic overdosage, either initially or during\nthe maintenance period, are rare (See OVERDOSAGE).",
+    "warnings": "Drugs with thyroid hormone activity, alone or together\nwith other therapeutic agents, have been used for the treatment of obesity. In\n euthyroid patients, doses within the range of daily hormonal requirements are ineffective\nfor weight reduction. Larger doses may produce serious or even life-threatening\nmanifestations of toxicity, particularly when given in association with\nsympathomimetic amines such as those used for their anorectic effects.",
+    "dosage": "The usual starting dose of Westhroid to treat hypothyroidism is 32.5 mg, with increments of 16.25 mg every 2 to 3 weeks."
+  },
+  {
+    "name": "Wezlana",
+    "genericName": "ustekinumab-auub injection",
+    "description": "Wezlana (ustekinumab-auub) is a human interleukin -12 and -23 antagonist indicated for the treatment of adult patients with moderate to severe plaque psoriasis (Ps) who are candidates for phototherapy or systemic therapy, active psoriatic arthritis (PsA), moderately to severely active Crohn’s disease (CD), and moderately to severely active ulcerative colitis. Wezlana is also indicated for the treatment of pediatric patients 6 years and older with moderate to severe plaque psoriasis, who are candidates for phototherapy or systemic therapy, and active psoriatic arthritis (PsA).",
+    "sideEffects": "The following serious adverse reactions are discussed elsewhere in the label: Infections [see WARNINGS AND PRECAUTIONS] Malignancies [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Posterior Reversible Encephalopathy Syndrome (PRES) [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dosage of Wezlana to treat psoriasis in adult patients weighing less than or equal to 100 kg is 45 mg administered subcutaneously initially and 4 weeks later, followed by 45 mg administered subcutaneously every 12 weeks"
+  },
+  {
+    "name": "Wigraine",
+    "genericName": "ergotamine and caffeine",
+    "description": "Wigraine (ergotamine and caffeine) is a combination of an ergot alkaloid and a stimulant used to treat or prevent vascular headaches such as migraine headaches and cluster headaches. The brand name Wigraine is discontinued, but generic versions may be available.",
+    "sideEffects": "In order of decreasing severity; precordial distress and pain, muscle pains in the extremities, numbness and tingling in fingers and toes, transient tachycardia or bradycardia, vomiting, nausea, weakness in the legs, diarrhea, localized edema and itching.",
+    "warnings": "No Information Provided.",
+    "dosage": "The average adult dose is 2 tablets at the start of a vascular headache (migraine) attack; followed by 1 additional tablet every ½ hour if needed, up to 6 tablets per attack. Total weekly dosage should not exceed 10 tablets."
+  },
+  {
+    "name": "Wilate",
+    "genericName": "von willebrand factor/coagulation factor viii complex (human)",
+    "description": "Wilate, von Willebrand Factor/Coagulation Factor VIII Complex (Human) is indicated in children and adults with von Willebrand disease for on-demand treatment and control of bleeding episodes and perioperative management of bleeding. Wilate is not indicated for treatment of hemophilia A.",
+    "sideEffects": "The most common adverse reactions to treatment with\nWILATE ( ≥  1%) in patients with VWD were hypersensitivity reactions,\n urticaria, and dizziness. Seroconversions for antibodies to parvovirus B19 not\naccompanied by clinical signs of disease have been observed. The most serious adverse reactions to treatment with\nWILATE in patients with VWD were hypersensitivity reactions [see WARNINGS\nAND PRECAUTIONS].",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dose of Wilate is based on the patient's body weight combined with the desired VWF:RCo rise (%) (IU/dL) x 0.5 (IU/kg per IU/dL). The dosage and duration of the substitution therapy is adjusted depending on the severity of the VWD, on the location and extent of the bleeding, and on the patient's clinical condition."
+  },
+  {
+    "name": "Winlevi",
+    "genericName": "clascoterone cream",
+    "description": "Winlevi (clascoterone) cream is an androgen receptor inhibitor used for topical treatment of acne vulgaris in patients 12 years of age and older.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Apply a thin layer dose of Winlevi cream (approximately 1 gram) to the affected area twice daily (morning and evening)."
+  },
+  {
+    "name": "Winrevair",
+    "genericName": "sotatercept-csrk for injection",
+    "description": "Winrevair (sotatercept-csrk) is an activin signaling inhibitor indicated for the treatment of adults with pulmonary arterial hypertension (PAH, WHO Group 1) to increase exercise capacity, improve WHO functional class (FC) and reduce the risk of clinical worsening events.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Erythrocytosis [see WARNINGS AND PRECAUTIONS] Severe Thrombocytopenia [see WARNINGS AND PRECAUTIONS] Serious Bleeding [see WARNINGS AND PRECAUTIONS] Embryo-Fetal Toxicity [see WARNINGS AND PRECAUTIONS] Impaired Fertility [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended starting dose of Winrevair is 0.3 mg/kg by subcutaneous injection."
+  },
+  {
+    "name": "WinRho SDF",
+    "genericName": "[rh (d) immune globulin intravenous (human)] (winrho sdf) solution for  injection",
+    "description": "WinRho SDF [Rho(D) Immune Globulin Intravenous (Human)] Solution For Intravenous or Intramuscular Injection is a Rho(D) Immune Globulin Intravenous (Human) indicated for Immune Thrombocytopenic Purpura (ITP), raising platelet counts in Rho(D) positive, non-splenectomized children with chronic or acute ITP, adults with chronic ITP and children and adults with ITP secondary to HIV infection. WinRho SDF is also used for suppression of rhesus (Rh) isoimmunization in pregnancy and other obstetric conditions in non-sensitized, Rho(D)-negative women with an Rh-incompatible pregnancy including routine antepartum and postpartum Rh prophylaxis, Rh prophylaxis in obstetric complications or invasive procedures, and incompatible transfusions in Rho(D)-negative individuals transfused with blood components containing Rho(D)-positive red blood cells (RBCs).",
+    "sideEffects": "Serious adverse reactions, some of these cases resulted in fatal outcome, have been observed in\npatients receiving WinRho SDF for the treatment of ITP. These include: intravascular hemolysis (IVH),\nclinically compromising anemia, acute renal insufficiency and DIC [see  Post-Marketing Experience]. The most common adverse reactions observed for all indications are: headache, chills, fever, asthenia,\npallor, diarrhea, nausea, vomiting, arthralgia, myalgia, dizziness, hyperkinesia, abdominal or back pain,\nhypotension, hypertension, increased LDH, somnolence, vasodilation, pruritus, rash and sweating. All\nadverse reactions listed occurred in ≤ 2% of WinRho® doses administered in clinical trials Adverse reactions observed in the use of WinRho SDF for Suppression of Rh Isoimmunization are <\n0.1% in Rho (D)-negative individuals.",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of WinRho SDF is 250 international unit/kg (50mcg/kg) body weight, given as a single injection over 3 to 5 minutes."
+  },
+  {
+    "name": "Winstrol",
+    "genericName": "anabolic steroids",
+    "description": "Winstrol (anabolic steroids) is a synthetic steroid, similar to testosterone, used in the treatment of hereditary angioedema, which causes episodes of swelling of the face, extremities, genitals, bowel wall, and throat. Winstrol may decrease the frequency and severity of these attacks. The drug brand name Winstrol is no longer available in the U.S. Generic versions may still be available.",
+    "sideEffects": "Hepatic: Cholestatic jaundice with, rarely, hepatic necrosis and death. Hepatocellular neoplasms and peliosis hepatis have been reported in association with long-term androgenic-anabolic steroid therapy (see WARNINGS). Reversible changes in liver function tests also occur including increased bromsulphalein (BSP) retention and increases in serum bilirubin, glutamic oxaloacetic transaminase (SGOT), and alkaline phosphatase. Genitourinary System:   In men. Prepubertal: Phallic enlargement and increased frequency of erections. Postpubertal:   Inhibition of testicular function, testicular atrophy and oligospermia, impotence, chronic priapism, epididymitis and bladder irritability. In women:   Clitoral enlargement, menstrual irregularities. In both sexes:   Increased or decreased libido. CNS:   Habituation, excitation, insomnia, depression. Gastrointestinal:   Nausea, vomiting, diarrhea. Hematologic:   Bleeding in patients on concomitant anticoagulant therapy. Breast:   Gynecomastia. Larynx:   Deepening of the voice in women. Hair:   Hirsutism and male pattern baldness in women. Skin:   Acne (especially in women and prepubertal boys). Skeletal:   Premature closure of epiphyses in children (see PRECAUTIONS, Pediatric Use ). Fluid and Electrolytes:   Edema, retention of serum electrolytes (sodium, chloride, potassium, phosphate, calcium). Metabolic/Endocrine:   Decreased glucose tolerance (see PRECAUTIONS), increased serum levels of low-density lipoproteins and decreased levels of high-density lipoproteins (see PRECAUTIONS, Laboratory Tests ), increased creatine and creatinine excretion, increased serum levels of creatinine phosphokinase (CPK). Some virilizing changes in women are irreversible even after prompt discontinuance of therapy and are not prevented by concomitant use of estrogens (see PRECAUTIONS).",
+    "warnings": "PELIOSIS HEPATIS, A CONDITION IN WHICH LIVER AND SOMETIMES SPLENIC TISSUE IS REPLACED WITH BLOOD-FILLED CYSTS, HAS BEEN REPORTED IN PATIENTS RECEIVING ANDROGENIC ANABOLIC STEROID THERAPY. THESE CYSTS ARE SOMETIMES PRESENT WITH MINIMAL HEPATIC DYSFUNCTION, BUT AT OTHER TIMES THEY HAVE BEEN ASSOCIATED WITH LIVER FAILURE. THEY ARE OFTEN NOT RECOGNIZED UNTIL LIFE-THREATENING LIVER FAILURE OR INTRA-ABDOMINAL HEMORRHAGE DEVELOPS. WITHDRAWAL OF DRUG USUALLY RESULTS IN COMPLETE DISAPPEARANCE OF LESIONS.",
+    "dosage": "The use of anabolic steroids such as Winstrol may be associated with serious adverse reactions, many of which are dose related. Patients should be placed on the lowest possible effective dose."
+  },
+  {
+    "name": "Wixela Inhub",
+    "genericName": "fluticasone propionate and salmeterol inhalation powder",
+    "description": "Wixela Inhub (fluticasone propionate and salmeterol inhalation powder) contains a combination of a corticosteroid and a long-acting beta-adrenergic agonist (LABA) indicated for twice-daily treatment of asthma in patients aged 4 years and older or maintenance treatment of airflow obstruction and reducing exacerbations in patients with chronic obstructive pulmonary disease (COPD). Wixela Inhub is available in generic form.",
+    "sideEffects": "Use of LABA may result in the following: Serious asthma-related events - hospitalizations, intubations, death [see WARNINGS AND PRECAUTIONS] Cardiovascular and central nervous system effects [see WARNINGS AND PRECAUTIONS] Systemic and local corticosteroid use may result in the following: Candida albicans infection [see WARNINGS AND PRECAUTIONS] Pneumonia in patients with COPD [see WARNINGS AND PRECAUTIONS] Immunosuppression [see WARNINGS AND PRECAUTIONS] Hypercorticism and adrenal suppression [see WARNINGS AND PRECAUTIONS] Reduction in bone mineral density [see WARNINGS AND PRECAUTIONS] Growth effects [see WARNINGS AND PRECAUTIONS] Glaucoma and cataracts [see WARNINGS AND PRECAUTIONS] Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dose of Wixela Inhub for treatment of asthma in patients aged 12 years and older is 1 inhalation of Wixela Inhub 100/50, Wixela Inhub 250/50, or Wixela Inhub 500/50 twice daily. The dose of Wixela Inhub for treatment of asthma in patients aged 4 to 11 years is 1 inhalation of Wixela Inhub 100/50 twice daily. The dose of Wixela Inhub for maintenance treatment of COPD is 1 inhalation of Wixela Inhub 250/50 twice daily."
+  },
+  {
+    "name": "WP-Thyroid",
+    "genericName": "thyroid tablets",
+    "description": "WP Thyroid (thyroid tablets) is a natural product made from animal thyroid glands used to treat hypothyroidism (low thyroid hormone), to treat or prevent goiter (enlarged thyroid gland). It is also given as part of a medical test for thyroid disorders.",
+    "sideEffects": "Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either\ninitially or during the maintenance period, are rare (See OVERDOSE).",
+    "warnings": "Drugs with thyroid hormone activity, alone or together with other therapeutic agents, have been used for\nthe treatment of obesity. In euthyroid patients, doses within the range of daily hormonal requirements are\nineffective for weight reduction. Larger doses may produce serious or even life-threatening manifestations\nof toxicity, particularly when given in association with sympathomimetic amines such as those used for\ntheir anorectic effects.",
+    "dosage": "The dosage of WP Thyroid is determined by the indication and is individualized based on patient response and laboratory findings."
+  },
+  {
+    "name": "Wymzya Fe",
+    "genericName": "norethindrone and ethinyl estradiol tablets (chewable) and ferrous fumarate] tablets",
+    "description": "Wymzya Fe (norethindrone and ethinyl estradiol tablets and ferrous fumarate tablets) is a combined oral contraceptive (COC) indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.",
+    "sideEffects": "The following serious adverse reactions with the use of COCs are discussed elsewhere in the labeling: Serious cardiovascular events and stroke [see BOXED WARNING and WARNINGS AND PRECAUTIONS] Vascular events [see WARNINGS AND PRECAUTIONS] Liver disease [see WARNINGS AND PRECAUTIONS] The following adverse reactions are commonly reported by COC users. Because these reactions are voluntarily reported by from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Irregular uterine bleeding Nausea Breast tenderness Headache",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dose of Wymzya Fe is one tablet by mouth taken at the same time every day. Tablets may be chewed or swallowed. Take tablets in the order directed on the wallet. Take white active tablets once daily at the same time each day for a total of 21 days. Take one brown placebo tablet daily for 7 days and at the same time of day that active tablets were taken. Begin each subsequent pack on the same day of the week as the first cycle pack (i.e., on the day after taking the last inactive tablet)."
+  },
+  {
+    "name": "Wynzora",
+    "genericName": "calcipotriene and betamethasone dipropionate cream",
+    "description": "Wynzora (calcipotriene and betamethasone dipropionate cream) is a combination of a vitamin D analog and a corticosteroid used for the topical treatment of plaque psoriasis in patients 18 years of age and older.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose of Wynzora Cream is to apply to affected areas once daily for up to 8 weeks. Do not use more than 100 g per week."
+  },
+  {
+    "name": "Wyost",
+    "genericName": "denosumab-bbdz injection",
+    "description": "Wyost (denosumab-bbdz) is a RANK ligand (RANKL) inhibitor indicated for prevention of skeletal-related events in patients with multiple myeloma and in patients with bone metastases from solid tumors, treatment of adults and skeletally mature adolescents with giant cell tumor of bone that is unresectable or where surgical resection is likely to result in severe morbidity, and for treatment of hypercalcemia of malignancy refractory to bisphosphonate therapy.",
+    "sideEffects": "The following adverse reactions are discussed below and elsewhere in the labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS] Hypocalcemia [see WARNINGS AND PRECAUTIONS and Use In Specific Populations] Osteonecrosis of the Jaw [see WARNINGS AND PRECAUTIONS] Atypical Subtrochanteric and Diaphyseal Femoral Fracture [see WARNINGS AND PRECAUTIONS] Hypercalcemia following treatment discontinuation in patients with giant cell tumor of bone and in patients with growing skeletons [see WARNINGS AND PRECAUTIONS and Use In Specific Populations] Multiple vertebral fractures (MVF) following treatment discontinuation [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose of Wyost to treat multiple myeloma and bone metastasis from solid tumors is 120 mg administered every 4 weeks as a subcutaneous injection in the upper arm, upper thigh, or abdomen."
+  }
+]

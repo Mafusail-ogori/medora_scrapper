@@ -1,0 +1,994 @@
+[
+  {
+    "name": "K-LOR",
+    "genericName": "potassium chloride",
+    "description": "K-Lor (potassium chloride) is a mineral used to prevent or to treat low blood levels of potassium (hypokalemia). Potassium levels can be low as a result of a disease or from taking certain medicines, or after a prolonged illness with diarrhea or vomiting. K-Lor is available in generic form.",
+    "sideEffects": "The following adverse reactions have been identified with\nuse of oral potassium salts. Because these reactions are reported voluntarily\nfrom a population of uncertain size, it is not always possible to reliably\nestimate their frequency or establish a causal relationship to drug exposure. The most common adverse reactions to oral potassium salts\nare nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. There have been reports of hyperkalemia and of upper and\nlower gastrointestinal conditions including, obstruction, bleeding, ulceration,\nand perforation. Skin rash has been reported rarely.",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dose of K-Lor for the prevention of hypokalemia is typically in the range of 20 mEq per day. Doses of 40-100 mEq per day or more are used for the treatment of potassium depletion."
+  },
+  {
+    "name": "K-Phos Neutral",
+    "genericName": "potassium and sodium phosphate",
+    "description": "K-Phos Neutral (potassium and sodium phosphate) is a mineral supplement used to acidify the urine and lower the urinary calcium concentration. K-Phos Neutral may also increase the antibiotic effect of methenamine. K-Phos Neutral is also used as a phosphorus supplement to prevent and/or treat a phosphorus deficiency. K-Phos Neutral is available in generic form.",
+    "sideEffects": "Gastrointestinal upset (diarrhea, nausea, stomach pain, and vomiting) may occur with phosphate therapy. Also, bone and joint pain (possible phosphate-induced osteomalacia) could occur. The following adverse effects may be observed (primarily from sodium or potassium): headaches; dizziness; mental confusion; seizures; weakness or heaviness of legs; unusual tiredness or weakness; muscle cramps; numbness, tingling, pain, or weakness of hands or feet; numbness or tingling around lips; fast or irregular heartbeat; shortness of breath or troubled breathing; swelling of feet or lower legs; unusual weight gain; low urine output; unusual thirst.",
+    "warnings": "No Information Provided.",
+    "dosage": "The adult dose of K-Phos Neutral is one or two tablets four times daily. For pediatric patients over 4 years of age, dose is one tablet four times daily. Under 4 years of age, use only as directed by a physician."
+  },
+  {
+    "name": "K-Tab",
+    "genericName": "potassium chloride extended-release tablets",
+    "description": "K-Tab (potassium chloride) Extended-Release Tablets is a form of the mineral potassium used to prevent or to treat low blood levels of potassium (hypokalemia). Potassium levels can be low as a result of a disease or from taking certain medicines, or after a prolonged illness with diarrhea or vomiting.",
+    "sideEffects": "One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, \n  WARNINGS, and OVERDOSAGE). \n  There also have been reports of upper and lower gastrointestinal conditions \n  including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS \n  and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by taking the dose with meals, or reducing the amount taken at one time. Skin rash has been reported rarely.",
+    "warnings": "Hyperkalemia",
+    "dosage": "Dosage of K-Tab is adjusted to the needs of each patient. The usual dose for the prevention of hypokalemia is 20 mEq per day. Doses of 40-100 mEq per day or more are used for the treatment of potassium depletion."
+  },
+  {
+    "name": "Kabiven",
+    "genericName": "amino acids, electrolytes, dextrose and lipid injectable emulsion",
+    "description": "Kabiven (amino acids, electrolytes, dextrose and lipid) Injectable Emulsion is indicated as a source of calories, protein, electrolytes and essential fatty acids for adult patients requiring parenteral nutrition when oral or enteral nutrition is not possible, insufficient, or contraindicated. Kabiven may be used to prevent essential fatty acid deficiency or treat negative nitrogen balance in adult patients.",
+    "sideEffects": "The following serious adverse reactions are discussed in greater detail in other sections of the prescribing information. Clinical Decompensation with Rapid Infusion of Intravenous Lipid Emulsion in Neonates and Infants [see WARNINGS AND PRECAUTIONS]. Parenteral Nutrition-Associated Liver Disease and Other Hepatobiliary Disorders [see WARNINGS AND PRECAUTIONS]. Pulmonary Embolism and Respiratory Distress due to Pulmonary Vascular Precipitates [see WARNINGS AND PRECAUTIONS]. Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS]. Precipitation with Ceftriaxone [see WARNINGS AND PRECAUTIONS]. Infections [see WARNINGS AND PRECAUTIONS]. Fat Overload Syndrome [see WARNINGS AND PRECAUTIONS]. Refeeding Syndrome [see WARNINGS AND PRECAUTIONS]. Diabetes and Hyperglycemia [see WARNINGS AND PRECAUTIONS]. Hypertriglyceridemia [see WARNINGS AND PRECAUTIONS]. Vein Damage and Thrombosis [see WARNINGS AND PRECAUTIONS]. Electrolyte Imbalance and Fluid Overload in Patients with Decreased Renal Function [see WARNINGS AND PRECAUTIONS]. Aluminum Toxicity [see WARNINGS AND PRECAUTIONS].",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dosage of Kabiven is individualized based on the patient's clinical condition, body weight and nutritional/fluid requirements, as well as additional energy given orally/enterally to the patient."
+  },
+  {
+    "name": "Kadcyla",
+    "genericName": "ado-trastuzumab emtansine injection for iv use",
+    "description": "Kadcyla (ado-trastuzumab emtansine) is a new class of chemotherapy drug called an antibody-drug conjugate used to treat breast cancer.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the label: Hepatotoxicity [See WARNINGS AND PRECAUTIONS] Left Ventricular Dysfunction [See WARNINGS AND PRECAUTIONS] Embryo-Fetal Toxicity [See WARNINGS AND PRECAUTIONS] Pulmonary Toxicity [See WARNINGS AND PRECAUTIONS] Infusion-Related Reactions, Hypersensitivity Reactions [See WARNINGS AND PRECAUTIONS] Hemorrhage [See WARNINGS AND PRECAUTIONS] Thrombocytopenia [See WARNINGS AND PRECAUTIONS] Neurotoxicity [See WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kadcyla is for intravenous infusion only. Kadcyla is given as an intravenous infusion in 21-day cycles."
+  },
+  {
+    "name": "Kadian",
+    "genericName": "morphine sulfate extended-release",
+    "description": "Kadian (morphine sulfate) is a narcotic pain reliever used to treat moderate to severe pain. Short-acting morphine is taken as needed for pain. Extended-release morphine is for use when around-the-clock pain relief is needed. Kadian is available in generic form.",
+    "sideEffects": "The following serious adverse reactions are described, or described in greater detail, in other sections: Addiction, Abuse, and Misuse [see WARNINGS AND PRECAUTIONS] Life Threatening Respiratory Depression [see WARNINGS AND PRECAUTIONS] Neonatal Opioid Withdrawal Syndrome [see WARNINGS AND PRECAUTIONS] Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see WARNINGS AND PRECAUTIONS] Adrenal Insufficiency [see WARNINGS AND PRECAUTIONS] Severe Hypotension [see WARNINGS AND PRECAUTIONS] Risks of Use in Patients with Gastrointestinal Conditions [see WARNINGS AND PRECAUTIONS] Increased Risk of Seizures in Patients with Seizure Disorders [see WARNINGS AND PRECAUTIONS] Withdrawal [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Physicians will individualize treatment with Kadian using a progressive plan of pain management."
+  },
+  {
+    "name": "Kaitlib Fe",
+    "genericName": "norethindrone and ethinyl estradiol  and ferrous fumarate chewables",
+    "description": "Kaitlib Fe (norethindrone and ethinyl estradiol chewable tablets and ferrous fumarate chewable tablets) are a combined oral contraceptive (COC) indicated for use by women to prevent pregnancy.",
+    "sideEffects": "The following serious adverse reactions with the use of COCs are discussed elsewhere in the labeling: Serious cardiovascular events and smoking [see BOXED WARNING, and WARNINGS AND PRECAUTIONS] Vascular events [see WARNINGS AND PRECAUTIONS] Liver disease[see WARNINGS AND PRECAUTIONS] Adverse reactions commonly reported by COC users are: Irregular uterine bleeding Nausea Breast tenderness Headache",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Patient begin taking Kaitlib Fe on Day 1 of the menstrual cycle (that is, the first day of menstrual bleeding). One light green tablet should be taken daily for 24 consecutive days followed by one brown tablet daily for 4 consecutive days. Instruct the patient to use a non-hormonal contraceptive as back-up during the first 7 days if they start taking Kaitlib Fe other than on the first day of the menstrual cycle."
+  },
+  {
+    "name": "Kalbitor",
+    "genericName": "ecallantide injection",
+    "description": "Kalbitor (ecallantide) Injection is a human plasma kallikrein inhibitor used to treat attacks of hereditary angioedema (an immune system disorder) in people who are at least 16 years old. Kalbitor is not a cure for hereditary angioedema.",
+    "sideEffects": "Hypersensitivity reactions, including anaphylaxis, have occurred in patients treated with KALBITOR [see CONTRAINDICATIONS and WARNINGS AND PRECAUTIONS].",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Kalbitor is 30 mg (3 mL), administered subcutaneously in three 10 mg (1 mL) injections."
+  },
+  {
+    "name": "Kaletra Capsules",
+    "genericName": "lopinavir, ritonavir capsules",
+    "description": "Kaletra (lopinavir/ritonavir) is a combination of two antiviral medications called protease inhibitors used to treat HIV, which causes acquired immunodeficiency syndrome (AIDS). Kaletra is not a cure for HIV or AIDS.",
+    "sideEffects": "The following adverse reactions are discussed in greater\ndetail in other sections of the labeling. QT Interval Prolongation, PR Interval Prolongation [see\n     WARNINGS AND PRECAUTIONS] Drug Interactions [see CONTRAINDICATIONS, WARNINGS\n    AND PRECAUTIONS, DRUG INTERACTIONS, and CLINICAL PHARMACOLOGY] Pancreatitis [see  WARNINGS AND PRECAUTIONS] Hepatotoxicity [see  WARNINGS AND PRECAUTIONS, and Use In Specific Populations]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Kaletra tablets is 400/100 mg (given as two 200/50 mg tablets) twice daily. The recommended dose of Kaletra oral solution is 400/100 mg (5 mL) twice daily."
+  },
+  {
+    "name": "Kaletra Tablets",
+    "genericName": "lopinavir, ritonavir tablets",
+    "description": "Kaletra (lopinavir/ritonavir) is a combination of two antiviral medications called protease inhibitors used to treat HIV, which causes acquired immunodeficiency syndrome (AIDS). Kaletra is not a cure for HIV or AIDS.",
+    "sideEffects": "The following adverse reactions are discussed in greater\ndetail in other sections of the labeling. QT Interval Prolongation, PR Interval Prolongation [see WARNINGS AND PRECAUTIONS] Drug Interactions [see WARNINGS\n    AND PRECAUTIONS] Pancreatitis [see WARNINGS\n    AND PRECAUTIONS] Hepatotoxicity [see WARNINGS\n    AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Kaletra tablets is 400/100 mg (given as two 200/50 mg tablets) twice daily. The recommended dose of Kaletra oral solution is 400/100 mg (5 mL) twice daily."
+  },
+  {
+    "name": "Kalliga",
+    "genericName": "desogestrel and ethinyl estradiol tablets",
+    "description": "Kalliga (desogestrel and ethinyl estradiol tablets 0.15 mg/0.03 mg) is an oral contraceptive regimen indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception. Kalliga is available in generic form.",
+    "sideEffects": "An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see WARNINGS). Thrombophlebitis and venous thrombosis with or without embolism Arterial thromboembolism Pulmonary embolism Myocardial infarction Cerebral hemorrhage Cerebral thrombosis Hypertension Gallbladder disease Hepatic adenomas or benign liver tumors There is evidence of an association between the following conditions and the use of oral contraceptives: Mesenteric thrombosis Retinal thrombosis The following adverse reactions have been reported in patients receiving oral contraceptives and are believed to be drug-related: Nausea Vomiting Gastrointestinal symptoms (such as abdominal cramps and bloating) Breakthrough bleeding Spotting Change in menstrual flow Amenorrhea Temporary infertility after discontinuation of treatment Edema Melasma which may persist Breast changes: tenderness, enlargement, secretion Change in weight (increase or decrease) Change in cervical erosion and secretion Diminution in lactation when given immediately postpartum Cholestatic jaundice Migraine Allergic reaction, including rash, urticaria, and angioedema Mental depression Reduced tolerance to carbohydrates Vaginal candidiasis Change in corneal curvature (steepening) Intolerance to contact lenses The following adverse reactions have been reported in users of oral contraceptives and a causal association has been neither confirmed nor refuted: Pre-menstrual syndrome Cataracts Changes in appetite Cystitis-like syndrome Headache Nervousness Dizziness Hirsutism Loss of scalp hair Erythema multiforme Erythema nodosum Hemorrhagic eruption Vaginitis Porphyria Impaired renal function Hemolytic uremic syndrome Acne Changes in libido Colitis Budd-Chiari Syndrome",
+    "warnings": "Cigarette smoking increases the risk of serious\ncardiovascular events from combination oral contraceptive use. This risk increases\nwith age, particularly in women over 35 years of age, and with the number of\ncigarettes smoked. For this reason, combination oral contraceptives, including\nKalliga™, should not be used by women who are over 35 years of age and smoke.",
+    "dosage": "The dosage of Kalliga for the initial cycle of therapy is one white to off-white “active” tablet administered daily from the 1st day through the 21st day of the menstrual cycle, counting the first day of menstrual flow as \"Day 1\", then one green “reminder” tablet daily for 7 days. After 28 tablets have been taken, a new course is started. To achieve maximum contraceptive effectiveness, Kalliga must be taken exactly as directed and at intervals not exceeding 24 hours."
+  },
+  {
+    "name": "Kalydeco",
+    "genericName": "ivacaftor",
+    "description": "Kalydeco (ivacaftor) film-coated tablets are a CFTR potentiator indicated for the treatment of a rare form of cystic fibrosis (CF) in patients ages 6 years and older who have the specific G551D mutation in the Cystic Fibrosis Transmembrane Regulator (CFTR) gene.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Transaminase Elevations [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions, Including Anaphylaxis [see WARNINGS AND PRECAUTIONS] Cataracts [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "In adults and pediatric patients age 6 years and older, one 150 mg Kalydeco tablet should be given orally every 12 hours with fat-containing food. Dosage of Kalydeco should be reduced when co-administered with moderate and severe hepatic impairment."
+  },
+  {
+    "name": "Kantrex",
+    "genericName": "kanamycin",
+    "description": "Kantrex (kanamycin) Injection is an aminoglycoside antibiotic used to treat serious infections caused by bacteria. The brand name Kantrex is discontinued, but generic versions may be available.",
+    "sideEffects": "Kanamycin has the potential to induce auditory and sometimes vestibular toxicity, renal toxicity, and neuromuscular blockade. The risks are higher for patients with a present or past history of renal impairment (especially if hemodialysis is required): for those receiving concomitant or sequential treatment with other ototoxic or nephrotoxic drugs or rapid acting diuretic agents given intravenously (ethacrynic acid, furosemide, and mannitol), and for patients treated for longer periods and/or with higher doses than recommended.",
+    "warnings": "See WARNING box.",
+    "dosage": "Dosage of Kantrex is based on the patient's body weight."
+  },
+  {
+    "name": "Kanjinti",
+    "genericName": "trastuzumab-anns for injection",
+    "description": "Kanjinti (trastuzumab-anns) is a HER2/neu receptor antagonist indicated for the treatment of HER2 overexpressing breast cancer and the treatment of HER2 overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the label: Cardiomyopathy [see WARNINGS AND PRECAUTIONS] Infusion Reactions [see WARNINGS AND PRECAUTIONS] Embryo-Fetal Toxicity [see WARNINGS AND PRECAUTIONS] Pulmonary Toxicity [see WARNINGS AND PRECAUTIONS] Exacerbation of Chemotherapy-Induced Neutropenia [see WARNINGS AND PRECAUTIONS] The most common adverse reactions in patients receiving trastuzumab products in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia. Adverse reactions requiring interruption or discontinuation of trastuzumab product treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see DOSAGE AND ADMINISTRATION]. In the metastatic gastric cancer setting, the most common adverse reactions (≥ 10%) that were increased (≥ 5% difference) in patients receiving trastuzumab as compared to patients receiving chemotherapy alone were neutropenia, diarrhea, fatigue, anemia, stomatitis, weight loss, upper respiratory tract infections, fever, thrombocytopenia, mucosal inflammation, nasopharyngitis, and dysgeusia. The most common adverse reactions which resulted in discontinuation of trastuzumab treatment in the absence of disease progression were infection, diarrhea, and febrile neutropenia.",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose and regimen of Kanjinti depends on the condition being treated."
+  },
+  {
+    "name": "Kantrex",
+    "genericName": "kanamycin",
+    "description": "Kantrex (kanamycin) Injection is an aminoglycoside antibiotic used to treat serious infections caused by bacteria. The brand name Kantrex is discontinued, but generic versions may be available.",
+    "sideEffects": "Kanamycin has the potential to induce auditory and sometimes vestibular toxicity, renal toxicity, and neuromuscular blockade. The risks are higher for patients with a present or past history of renal impairment (especially if hemodialysis is required): for those receiving concomitant or sequential treatment with other ototoxic or nephrotoxic drugs or rapid acting diuretic agents given intravenously (ethacrynic acid, furosemide, and mannitol), and for patients treated for longer periods and/or with higher doses than recommended.",
+    "warnings": "See WARNING box.",
+    "dosage": "Dosage of Kantrex is based on the patient's body weight."
+  },
+  {
+    "name": "Kanuma",
+    "genericName": "kanuma sebelipase alfa",
+    "description": "Kanuma (sebelipase alfa) injection is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose of Kanuma injection is 20 mg/10 mL (2 mg/mL) solution in single-use vials."
+  },
+  {
+    "name": "Kanuma",
+    "genericName": "kanuma sebelipase alfa",
+    "description": "Kanuma (sebelipase alfa) injection is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose of Kanuma injection is 20 mg/10 mL (2 mg/mL) solution in single-use vials."
+  },
+  {
+    "name": "Kapidex",
+    "genericName": "dexlansoprazole delayed release capsules",
+    "description": "Kapidex (dexlansoprazole delayed release capsules) (now known as Dexilant) decreases the amount of acid produced in the stomach and is used to treat heartburn caused by gastroesophageal reflux disease (GERD), and to heal erosive esophagitis (damage to the esophagus from stomach acid).",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "What Drugs, Substances, or Supplements Interact with Kapidex?"
+  },
+  {
+    "name": "Kapspargo Sprinkle",
+    "genericName": "metoprolol succinate capsules",
+    "description": "Kapspargo Sprinkle (metoprolol succinate) is a beta-selective adrenoceptor blocking agent indicated for the treatment of high blood pressure (hypertension), to lower blood pressure; angina pectoris; and heart failure.",
+    "sideEffects": "The following adverse reactions are described elsewhere in labeling: Worsening angina or myocardial infarction [see WARNINGS AND PRECAUTIONS] Worsening heart failure [see WARNINGS AND PRECAUTIONS] Worsening AV block [see CONTRAINDICATIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The usual initial dosage of Kapspargo Sprinkle to treat hyptertension in adults is 25 to 100 mg once daily. The recommended starting dose of Kapspargo Sprinkle to treat pediatric hypertension in children 6 years of age and older is 1 mg/kg, once daily and adjust to response. The usual initial dosage of Kapspargo Sprinkle to treat angina pectoris is 100 mg once daily. The recommended starting dose Kapspargo Sprinkle to treat heart failure is 25 mg once daily doubled every two weeks to the highest dose tolerated or up to 200 mg."
+  },
+  {
+    "name": "Kapvay",
+    "genericName": "clonidine hydrochloride extended-release tablets",
+    "description": "Kapvay (clonidine hydrochloride) extended-release is a centrally acting alpha2-adrenergic agonist used to treat attention deficit hyperactivity disorder (ADHD). Kapvay is available in generic form.",
+    "sideEffects": "The following serious adverse reactions are described in greater detail elsewhere in labeling: Hypotension/bradycardia [see WARNINGS AND PRECAUTIONS] Sedation and somnolence [see WARNINGS AND PRECAUTIONS] Rebound hypertension [see WARNINGS AND PRECAUTIONS] Allergic reactions [see WARNINGS AND PRECAUTIONS] Cardiac Conduction Abnormalities [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dose of Kapvay is individualized according to the needs and response of the patient. Dosing is initiated with one 0.1 mg tablet at bedtime, and the daily dosage is adjusted in increments of 0.1 mg/day at weekly intervals until the desired response is achieved."
+  },
+  {
+    "name": "Karbinal ER",
+    "genericName": "carbinoxamine maleate extended-release oral suspension",
+    "description": "Karbinal ER (carbinoxamine maleate) is an H1 antagonist, a type of antihistamine, used to treat a wide variety of allergic reactions, including seasonal and perennial allergic rhinitis, vasomotor rhinitis, allergic conjunctivitis, allergic skin manifestations of urticaria and angioedema, dermatographism, as therapy for anaphylactic reactions, and to improve the severity of allergic reactions to blood or plasma.",
+    "sideEffects": "The following clinically significant adverse reactions are described else where in the labeling: Somnolence and Impaired Mental Alertness [see WARNINGS AND PRECAUTIONS] Allergic Reactions due to Sulfites, including Anaphylaxis [see WARNINGS AND PRECAUTIONS] The most frequent adverse reactions include: sedation, sleepiness, dizziness, disturbed coordination, epigastic distress, and thickening of bronchial secretions. In clinical use, younger children and older adults may be particularly sensitive to adverse reactions [see Pediatric Use and Geriatric Use]. The following adverse reactions,listed by body system, have been identified in case reports and during the use of carbinoxamine in observational studies. Because these reactions are reported voluntarily from a population of uncertainsize, it is notalways possible to reliably estimate their frequencyor establish a causal relationship to drug exposure. Body as a Whole: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat. Cardiovascular: Hypotension, headache, palpitations, tachycardia, extrasystoles. Central Nervous System: Fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. Gastrointestinal: Anorexia,nausea, vomiting,diarrhea, constipation. Hematologic: Hemolytic anemia, thrombocytopenia, agranulocytosis. Laboratory: Increase in uric acid levels. Respiratory: Tightness of chest and wheezing, nasal stuffiness. Urogenital: Urinary frequency, difficult urination, urinaryretention, earlymenses.",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Karbinal ER is available as an extended-release oral suspension of 4 mg carbinoxamine maleate per 5 mL. Dosage depends of the age of the patient."
+  },
+  {
+    "name": "Kariva",
+    "genericName": "desogestrel and ethinyl estradiol and ethinyl estradiol",
+    "description": "Kariva (desogestrel/ethinyl estradiol and ethinyl estradiol) Tablets are a combination of female hormones used as contraception to prevent pregnancy. Kariva is available in generic form.",
+    "sideEffects": "An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see WARNINGS section): Thrombophlebitis and venous thrombosis with or without embolism Arterial thromboembolism Pulmonary embolism Myocardial infarction Cerebral hemorrhage Cerebral thrombosis Hypertension Gallbladder disease Hepatic adenomas or benign liver tumors There is evidence of an association between the following conditions and the use of oral contraceptives: Mesenteric thrombosis Retinal thrombosis The following adverse reactions have been reported in patients receiving oral contraceptives and are believed to be drug-related: Nausea Vomiting Gastrointestinal symptoms (such as abdominal cramps and bloating) Breakthrough bleeding Spotting Change in menstrual flow Amenorrhea Temporary infertility after\n\tdiscontinuation of treatment Edema Melasma which may persist Breast changes: tenderness, enlargement, secretion Change in weight (increase or decrease) Change in cervical erosion and secretion Diminution in lactation when given immediately postpartum Cholestatic jaundice Migraine Rash (allergic) Mental depression Reduced tolerance to carbohydrates Vaginal candidiasis Change in corneal curvature (steepening) Intolerance to contact lenses The following adverse reactions have been reported in users of oral contraceptives and the association has been neither confirmed nor refuted: Pre-menstrual syndrome Cataracts Changes in appetite Cystitis-like syndrome Headache Nervousness Dizziness Hirsutism Loss of scalp hair Erythema multiforme Erythema nodosum Hemorrhagic eruption Vaginitis Porphyria Impaired renal function Hemolytic uremic syndrome Acne Changes in libido Colitis Budd-Chiari Syndrome",
+    "warnings": "Cigarette smoking increases the risk of serious cardiovascular side effects\n  from oral contraceptive use. This risk increases with age and with heavy smoking\n  (15 or more cigarettes per day) and is quite marked in women over 35 years of\n  age. Women who use oral contraceptives should be strongly advised not to smoke.",
+    "dosage": "Kariva must be taken as directed. Dose is one white tablet daily for 21 days, one light-green (inert) tablet daily for 2 days followed by 1 light-blue (ethinyl estradiol) tablet daily for 5 days. One tablet is taken every day, at the same time, with no interruption between pill packs."
+  },
+  {
+    "name": "Katerzia",
+    "genericName": "amlodipine oral suspension",
+    "description": "Katerzia (amlodipine) is a calcium channel blocker and may be used alone or in combination with other antihypertensive and antianginal agents for the treatment of hypertension in adults and children 6 years and older, to lower blood pressure and coronary artery disease, including chronic stable angina, vasospastic angina (Prinzmetal's or variant angina), and angiographically documented coronary artery disease in patients without heart failure or an ejection fraction less than 40%.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The adult recommended starting dose of Katerzia is 5 mg orally once daily with a maximum dose of 10 mg once daily."
+  },
+  {
+    "name": "Kayexalate",
+    "genericName": "sodium polystyrene",
+    "description": "Kayexalate (sodium polystyrene) is a cation-exchange resin used to treat high levels of potassium in the blood, also called hyperkalemia. Kayexalate works by helping your body get rid of extra potassium. Kayexalate is available in generic form.",
+    "sideEffects": "The following adverse reactions are discussed elsewhere\nin the labeling: Intestinal Necrosis [see WARNINGS AND PRECAUTIONS] Electrolyte Disturbances [see WARNINGS AND PRECAUTIONS] Aspiration [see WARNINGS AND PRECAUTIONS] The following adverse reactions have been identified\nduring post-approval use of KAYEXALATE. Because these reactions are reported\nvoluntarily from a population of uncertain size, it is not always possible to\nestimate their frequency reliably or establish a causal relationship to drug\nexposure. Gastrointestinal: anorexia, constipation, diarrhea, fecal impaction,\ngastrointestinal concretions (bezoars), ischemic colitis, nausea, ulcerations,\nvomiting, gastric irritation, intestinal obstruction (due to concentration of\naluminium hydroxide) Metabolic: systemic alkalosis",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The average daily adult dose of Kayexalate is 15 g to 60 g, taken as 15 g (approximately 4 level teaspoons) one to four times daily."
+  },
+  {
+    "name": "Kazano",
+    "genericName": "alogliptin and metformin hcl tablets",
+    "description": "Kazano (alogliptin and metformin HCl) is an antidiabetic medication used to treat type 2 diabetes mellitus, along with diet and exercise.",
+    "sideEffects": "The following serious adverse reactions are described below or elsewhere in the prescribing information: Pancreatitis [see WARNINGS AND PRECAUTIONS] Heart Failure [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Hepatic Effects [see WARNINGS AND PRECAUTIONS] Severe and Disabling Arthralgia [see WARNINGS AND PRECAUTIONS] Bullous Pemphigoid [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kazano is available in doses of 12.5 mg alogliptin and 500 mg metformin HCl; and 12.5 mg alogliptin and 1000 mg metformin HCl. Kazano should be taken twice a day with a meal. Lactic acidosis is a rare, but serious complication. The risk increases with conditions such as sepsis, dehydration, excess alcohol intake, hepatic impairment, renal impairment, and acute congestive heart failure."
+  },
+  {
+    "name": "Kcentra",
+    "genericName": "prothrombin complex concentrate (human)",
+    "description": "Kcentra Prothrombin Complex Concentrate (Human) contains the Vitamin K dependent Coagulation Factors II, VII, IX and X, and the antithrombotic Proteins C and S and is used for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding.",
+    "sideEffects": "The most common adverse reactions (ARs) (frequency ≥2.8%) observed in subjects receiving KCENTRA were headache, nausea/vomiting, hypotension, and anemia. The most serious ARs were thromboembolic events including stroke, pulmonary embolism, and deep vein thrombosis. The following serious adverse reactions are described below and/or elsewhere in the labeling: Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Arterial and venous thromboembolic complications [see BOX WARNING and WARNINGS AND PRECAUTIONS] Possible transmission of infectious agents [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose of Kcentra is individualized based on the patient's current pre-dose International Normalized Ratio (INR) value, and body weight."
+  },
+  {
+    "name": "KCL in D5NS",
+    "genericName": "potassium chloride in 5% dextrose and sodium chloride injection",
+    "description": "KCL in D5NS (potassium chloride in 5% dextrose and sodium chloride injection) is a fluid and electrolyte replenishment and caloric supply used as a source of water, electrolytes and calories.",
+    "sideEffects": "Reactions which may occur because of the solution or the technique of administration\n  include febrile response, infection at the site of injection, venous thrombosis \n  or phlebitis extending from the site of injection, extravasation, and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient,\n  institute appropriate therapeutic countermeasures, and save the remainder of\n  the fluid for examination if deemed necessary.",
+    "warnings": "Potassium Chloride in 5% Dextrose and Sodium Chloride Injection, USP should\n  be used with great care, if at all, in patients with congestive heart failure,\n  severe renal insufficiency, and in clinical states in which there exists edema \n  with sodium retention.",
+    "dosage": "Dosage of KCL in D5NS is dependent upon the age, weight and clinical condition of the patient as well as laboratory determinations."
+  },
+  {
+    "name": "KCL in D5W",
+    "genericName": "potassium chloride in 5% dextrose injection",
+    "description": "KCL in D5W (potassium chloride in 5% dextrose injection) is a fluid and electrolyte replenishment and caloric supply, used as a source of water, electrolytes and calories.",
+    "sideEffects": "Reactions which may occur because of the solution or the technique of administration \n  include febrile response, infection at the site of injection, venous thrombosis \n  or phlebitis extending from the site of injection, extravasation and hypervolemia. Symptoms may result from an excess or deficit of one or more of the ions present \n  in the solution; therefore, frequent monitoring of electrolyte levels is essential. Reactions reported with the use of potassium-containing solutions include nausea, \n  vomiting, abdominal pain and diarrhea. The signs and symptoms of potassium intoxication \n  include paresthesias of the extremities, areflexia, muscular or respiratory paralysis, mental confusion, weakness, hypotension, cardiac arrhythmias, heart \n  block, electrocardiographic abnormalities and cardiac arrest. Potassium deficits \n  result in disruption of neuromuscular function, and intestinal ileus and dilatation. If infused in large amounts, chloride ions may cause a loss of bicarbonate \n  ions, resulting in an acidifying effect. Dextrose may be administered at a rate of 0.5 g/kg/hour without producing glycosuria. \n  Hyperglycemia and glycosuria may be a function of rate of administration or \n  metabolic insufficiency. Appropriate therapy may include slowing of the infusion \n  rate and administration of insulin. The physician should also be alert to the possibility of adverse reactions \n  to drug additives. Prescribing information for drug additives to be administered \n  in this manner should be consulted. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, \n  institute appropriate therapeutic countermeasures and save the remainder of \n  the fluid for examination if deemed necessary.",
+    "warnings": "The administration of intravenous solutions can cause fluid and/or solute overload \n  resulting in dilution of serum electrolyte concentrations, overhydration, congested \n  states or pulmonary edema. The risk of dilutional states is inversely proportional \n  to the electrolyte concentration. The risk of solute overload causing congested \n  states with peripheral and pulmonary edema is directly proportional to the electrolyte \n  concentration.",
+    "dosage": "Dosage of KCL in D5W is dependent upon the age, weight and clinical condition of the patient as well as laboratory determinations."
+  },
+  {
+    "name": "KCL in NS",
+    "genericName": "potassium chloride in sodium chloride injection",
+    "description": "KCL in NS (potassium chloride in sodium chloride injection) is a fluid and electrolyte replenisher used as a source of water and electrolytes.",
+    "sideEffects": "Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.",
+    "warnings": "Potassium Chloride in Sodium Chloride Injection, USP should be used with great care, if at all, in patients with congestive heart failure, severe renal insufficiency and in clinical states in which there exists edema with sodium retention.",
+    "dosage": "Dosage of KCL in NS is dependent upon the age, weight and clinical condition of the patient as well as laboratory determinations."
+  },
+  {
+    "name": "Kedbumin",
+    "genericName": "albumin (human) u.s.p.] sterile, aqueous solution for single dose intravenous administration",
+    "description": "Kedbumin (albumin- human injection, solution) is a 25% albumin solution indicated for hypovolemia and hypoalbuminemia, prevention of central volume depletion after paracentesis due to cirrhotic ascites, ovarian hyperstimulation syndrome (OHSS), adult respiratory distress syndrome (ARDS), burns, hemodialysis patients undergoing long term dialysis, patients who cannot tolerate substantial volumes of salt solution, and priming as part of a cardiopulmonary bypass fluids.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Concentration, dosage, and infusion-rate of Kedbumin is adjusted to the patient's individual requirements and indication. The daily dosage of Kedbumin should not exceed 2g per kg body weight."
+  },
+  {
+    "name": "Kedrab",
+    "genericName": "rabies immune globulin solution for intramuscular injection",
+    "description": "KedRAB Rabies Immune Globulin (Human) is a human rabies immunoglobulin (HRIG) indicated for passive, transient post-exposure prophylaxis (PEP) of rabies infection, when given immediately after contact with a rabid or possibly rabid animal. KedRAB should be administered concurrently with a full course of rabies vaccine.",
+    "sideEffects": "The most common adverse reactions (>5%) observed in adult subjects were injection site pain, headache, muscle pain, joint pain, dizziness, and fatigue. The most common adverse reactions (>5%) observed in pediatric patients were injection site pain, headache, pyrexia, plain in extremity, bruising, fatigue and vomiting.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dosage of KedRAB is 20 IU/kg body weight."
+  },
+  {
+    "name": "Keflex",
+    "genericName": "cephalexin",
+    "description": "Keflex (cephalexin) is a cephalosporin antibiotic prescribed to treat bacterial infections. Keflex is also used before dental procedures in patients identified with certain heart-related conditions to prevent bacterial infections of the heart known as endocarditis. Keflex is available as a generic drug.",
+    "sideEffects": "The following serious events are described in greater\ndetail in the Warning and Precautions section: Hypersensitivity reactions [see WARNINGS AND\n    PRECAUTIONS] Clostridium difficile-associated diarrhea [see WARNINGS\n    AND PRECAUTIONS] Direct Coombs' Test Seroconversion [see WARNINGS AND\n    PRECAUTIONS] Seizure Potential [see WARNINGS AND PRECAUTIONS] Effect on Prothrombin Activity [see WARNINGS AND\n    PRECAUTIONS] Development of Drug-Resistant Bacteria [see WARNINGS\n    AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "Keflex dosage depends on the condition being treated. Keflex should be used with caution in patients who have kidney disease and those who report a history of penicillin allergy."
+  },
+  {
+    "name": "Kemadrin",
+    "genericName": "procyclidine hydrochloride tablets",
+    "description": "",
+    "sideEffects": "Anticholinergic effects can be produced by therapeutic doses\nalthough these can frequently be minimized or eliminated by careful dosage.\nThey include: dryness of the mouth, mydriasis, blurring of vision, giddiness,\n lightheadedness, and gastrointestinal disturbances such as nausea, vomiting,\nepigastric distress, and constipation. Occasionally an allergic reaction such\nas a skin rash may be encountered. Feelings of muscular weakness may occur.\nAcute suppurative parotitis as a complication of dry mouth has been reported.",
+    "warnings": "Use in Children: Safety and efficacy have not been\nestablished in the pediatric age group; therefore, the use of procyclidine\nhydrochloride in this age group requires that the potential benefits be weighed\nagainst the possible hazards to the child.",
+    "dosage": ""
+  },
+  {
+    "name": "Kemstro",
+    "genericName": "baclofen",
+    "description": "Kemstro (baclofen orally disintegrating tablets) is a muscle relaxant and antispastic used to alleviate signs and symptoms of spasticity resulting from multiple sclerosis, particularly for the relief of flexor spasms and concomitant pain, clonus, and muscular rigidity. The brand name Kemstro is discontinued, but generic versions may be available.",
+    "sideEffects": "The most common adverse reaction during treatment with baclofen is transient drowsiness (10-63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen tablets compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5-15%), weakness (5-15%) and fatigue (2-4%). Others reported: Neuropsychiatric: Confusion (1-11%), headache (4-8%), insomnia \n  (2-7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia,\n  muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity,\n  dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis,\n  diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0-9%). Rare instances of dyspnea,\n  palpitation, chest pain, syncope. Gastrointestinal: Nausea (4-12%), constipation (2-6%); and, rarely,\n  dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and\n  positive test for occult blood in stool. Genitourinary: Urinary frequency (2-6%); and, rarely, enuresis,\n  urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration,\n  weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may\n  be related to the underlying disease rather than to drug therapy. The following\n  laboratory tests have been found to be abnormal in a few patients receiving\n  baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood\n  sugar. The adverse experience profile seen with KEMSTRO™ was similar to that seen with baclofen tablets.",
+    "warnings": "Abrupt Drug Withdrawal",
+    "dosage": "Start therapy with Kemstro at a low dosage and increase gradually until optimum effect is achieved (usually between 40-80 mg daily)."
+  },
+  {
+    "name": "Kenalog 10 Injection",
+    "genericName": "triamcinolone acetonide injectable suspension",
+    "description": "Prednisolone is an adrenocortical steroid used for multiple conditions including endocrine disorders, rheumatic disorders, collagen diseases, skin diseases, allergies, eye diseases, respiratory diseases, blood disorders, cancers, edematous states, gastrointestinal diseases, and nervous system disorders, among others. The brand name of this medication is discontinued, but generic versions may be available.",
+    "sideEffects": "(listed alphabetically under each subsection) The following adverse reactions may be associated with corticosteroid therapy: Allergic reactions: Anaphylactoid reaction, anaphylaxis including anaphylactic\n  reactions and anaphylactic shock, angioedema. Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac\n  enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension,\n  hypertrophic cardiomyopathy in premature infants, myocardial rupture following\n  recent myocardial infarction (see WARNINGS), pulmonary edema, syncope,\n  tachycardia, thromboembolism, thrombophlebitis, vasculitis. Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation,\n  hypopigmentation, impaired wound healing, increased sweating, lupus erythematosus-like\n  lesions, purpura, rash, sterile abscess, striae, suppressed reactions to skin\n  tests, thin fragile skin, thinning scalp hair, urticaria. Endocrine: Decreased carbohydrate and glucose tolerance, development\n  of cushingoid state, glycosuria, hirsutism, hypertrichosis, increased requirements\n  for insulin or oral hypoglycemic agents in diabetes, manifestations of latent \n  diabetes mellitus, menstrual irregularities, secondary adrenocortical and pituitary \n  unresponsiveness (particularly in times of stress, as in trauma, surgery, or\n  illness), suppression of growth in pediatric patients. Fluid and electrolyte disturbances: Congestive heart failure in susceptible\n  patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention. Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after\n  intrathecal administration [see WARNINGS: Neurologic]), elevation\n  in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly,\n  increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation\n  and hemorrhage, perforation of the small and large intestine (particularly in\n  patients with inflammatory bowel disease), ulcerative esophagitis. Metabolic: Negative nitrogen balance due to protein catabolism. Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis \n  (following intra- articular or intralesional use), Charcot-like arthropathy,\n  loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long\n  bones, post injection flare (following intra-articular use), steroid myopathy,\n  tendon rupture, vertebral compression fractures. Neurologic/Psychiatric: Convulsions, depression, emotional instability,\n  euphoria, headache, increased intracranial pressure with papilledema (pseudotumor\n  cerebri) usually following discontinuation of treatment, insomnia, mood swings,\n  neuritis, neuropathy, paresthesia, personality changes, psychiatric disorders,\n  vertigo. Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances\n  have occurred after intrathecal administration. Spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke \n  (including brainstem) have been reported after epidural administration of corticosteroids\n  (see WARNINGS: Neurologic). Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure,\n  posterior subcapsular cataracts, rare instances of blindness associated with\n  periocular injections. Other: Abnormal fat deposits, decreased resistance to infection, hiccups,\n  increased or decreased motility and number of spermatozoa, malaise, moon face,\n  weight gain.",
+    "warnings": "General",
+    "dosage": "The initial dosage of prednisolone varies from 5 mg to 60 mg per day depending on the disease being treated."
+  },
+  {
+    "name": "Kenalog Spray",
+    "genericName": "triamcinolone acetonide topical aerosol",
+    "description": "Kenalog Spray (triamcinolone acetonide) is a topical corticosteroid indicated for the relief of itching due to skin irritation. Kenalog Spray is available as a generic drug.",
+    "sideEffects": "The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings (reactions are listed in an approximate decreasing order of occurrence): burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, andmiliaria.",
+    "warnings": "No information provided.",
+    "dosage": "Kenalog Spray comes in two sizes, a 63 and 100 mg can in strength of 0.147 mg per gram. Directions for use of the spray can are provided on the label. Kenalog Spray may be applied to any area of the body, though care should be taken to see that the eyes are covered, and that inhalation of the spray is avoided when sprayed about the face."
+  },
+  {
+    "name": "Kenalog-40",
+    "genericName": "triamcinolone acetonide injectable suspension",
+    "description": "Kenalog-40 (triamcinolone acetonide) is a corticosteroid indicated for intramuscular or intraarticular use only in allergic states, dermatologic diseases, endocrine disorders, gastrointestinal diseases, hematologic disorders, renal diseases, respiratory diseases, rheumatic disorders, and nervous system disorders where oral therapy is not feasible. Kenalog-40 is available as a generic drug.",
+    "sideEffects": "",
+    "warnings": "Serious Neurologic Adverse Reactions With Epidural Administration",
+    "dosage": "The usual suggested initial dose of Kenalog-40 is 60 mg, injected deeply into the gluteal muscle. Dosage is usually adjusted within the range of 40 mg to 80 mg, depending upon patient response and duration of relief. However, some patients may be well controlled on doses as low as 20 mg or less. Many doses are based on the patient's response to the medication and can be quite variable."
+  },
+  {
+    "name": "Kengreal",
+    "genericName": "cangrelor for injection",
+    "description": "Kengreal (cangrelor) is antiplatelet agent used as an adjunct to percutaneous coronary intervention (PCI) for reducing the risk of periprocedural myocardial infarction (MI), repeat coronary revascularization, and stent thrombosis (ST) in patients in who have not been treated with a P2Y12 platelet inhibitor and are not being given a glycoprotein IIb/IIIa inhibitor.",
+    "sideEffects": "The following adverse reactions are also discussed elsewhere in the labeling: Bleeding [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kengreal is administered in a 30 µg/kg intravenous (IV) bolus dose prior to PCI followed immediately by a 4 µg/kg/min IV infusion for at least 2 hours or duration of procedure, whichever is longer."
+  },
+  {
+    "name": "Kepivance",
+    "genericName": "palifermin",
+    "description": "Kepivance (palifermin) for Injection is a human keratinocyte growth factor (KGF) produced by recombinant DNA technology used to reduce the chance of developing sores and ulcers in the mouth and to shorten the time with sores or ulcers in patients with blood cancers who receive high doses of chemotherapy and radiation therapy before bone marrow transplants.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Kepivance is 60 mcg/kg/day, administered as an intravenous bolus injection for 3 consecutive days before and 3 consecutive days after myelotoxic therapy, for a total of 6 doses."
+  },
+  {
+    "name": "Keppra",
+    "genericName": "levetiracetam",
+    "description": "Keppra (levetiracetam) is an anti-epileptic drug (AED) (antoconvulsant) often used in conjunction with other drugs to treat types of seizures in people with epilepsy.",
+    "sideEffects": "The following adverse reactions are discussed in more details in other sections of labeling: Behavioral Abnormalities and Psychotic Symptoms [see WARNINGS AND PRECAUTIONS] Somnolence and Fatigue [see WARNINGS AND PRECAUTIONS] Anaphylaxis and Angioedema [see WARNINGS AND PRECAUTIONS] Serious Dermatological Reactions [see WARNINGS AND PRECAUTIONS] Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see WARNINGS AND PRECAUTIONS] Coordination Difficulties [see WARNINGS AND PRECAUTIONS] Hematologic Abnormalities [see WARNINGS AND PRECAUTIONS] Increase in Blood Pressure [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Keppra (levetiracetam) is available in pills in the following dosages and colors: 250 mg (blue), 500 mg (yellow), 750 mg (orange), and 1,000 mg (white). Keppra (levetiracetam) is also available as a clear, colorless grape-flavored liquid at a concentration of 100 mg/mL."
+  },
+  {
+    "name": "Keppra Injection",
+    "genericName": "levetiracetam",
+    "description": "Keppra (levetiracetam) Injection is an antiseizure (antiepileptic) drug (AED) for adult patients (16 years and older) in the treatment of partial onset seizures when oral administration is temporarily not feasible. Keppra is used with other medications in adults with epilepsy.",
+    "sideEffects": "The following adverse reactions are discussed in more\ndetails in other sections of labeling: Behavioral Abnormalities and Psychotic Symptoms [see\n     WARNINGS AND PRECAUTIONS] Somnolence and Fatigue [see  WARNINGS AND PRECAUTIONS] Serious Dermatological Reactions [see WARNINGS AND\n    PRECAUTIONS] Coordination Difficulties [see  WARNINGS AND PRECAUTIONS] Hematologic Abnormalities [see  WARNINGS AND PRECAUTIONS] Increase in Blood Pressure [see  WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The recommended initial dosage of Keppra is 1,000 mg/day, given as twice-daily dosing (500 mg twice daily). Additional dosing increments may be given (1,000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3,000 mg. Do not drive, use machinery or do any activity that requires alertness while taking Keppra."
+  },
+  {
+    "name": "Keppra XR",
+    "genericName": "levetiracetam extended-release tablets",
+    "description": "Keppra XR (levetiracetam) Extended-Release Tablets is an anti-epileptic drug used to treat partial onset seizures in adults and children who are at least 4 years old, and is also used to treat tonic-clonic seizures in adults and children who are at least 6 years old, and myoclonic seizures in adults and children who are at least 12 years old. Keppra XR is available in generic form.",
+    "sideEffects": "The following adverse reactions are discussed in more details in other sections of labeling: Behavioral abnormalities and Psychotic Symptoms [see WARNINGS AND PRECAUTIONS] Suicidal Behavior and Ideation [see WARNINGS AND PRECAUTIONS] Somnolence and Fatigue [see WARNINGS AND PRECAUTIONS] Anaphylaxis and Angioedema [see WARNINGS AND PRECAUTIONS] Serious Dermatological Reactions [see WARNINGS AND PRECAUTIONS] Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see WARNINGS AND PRECAUTIONS] Coordination Difficulties [see WARNINGS AND PRECAUTIONS] Hematologic Abnormalities [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The starting dose of Keppra XR is 1000 mg once daily. The daily dosage may be adjusted in increments of 1000 mg every 2 weeks to a maximum daily dose of 3000 mg."
+  },
+  {
+    "name": "Kerendia",
+    "genericName": "finerenone tablets",
+    "description": "What Is Kerendia?",
+    "sideEffects": "The following serious adverse reactions are discussed elsewhere in the labeling: Hyperkalemia [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": ""
+  },
+  {
+    "name": "Kerledex",
+    "genericName": "betaxolol hydrochloride and chlorthalidone",
+    "description": "",
+    "sideEffects": "Kerledex is usually well tolerated in properly selected patients. Discontinuation\n  of therapy due to adverse events in U.S. controlled clinical trials was necessary\n  in about 4% of patients receiving betaxolol in combination with chlorthalidone.\n  The most frequent reasons for discontinuation were fatigue (1.1%) and bradycardia \n  (0.9%). The following reasons for discontinuation of therapy were reported in\n  0.4% (2 patients each) of the 465 patients receiving the combination in U.S.\n  controlled studies: myalgia, depression, insomnia, lethargy, palpitation, and\n  elevated serum transaminase levels. In controlled clinical trials, Kerledex has been evaluated versus placebo and/or\n  its component monotherapies in doses of 5/12.5 mg, 5/25 mg, 10/12.5 mg, 10/25\n  mg, and 20/25 mg for treatment periods lasting 3 to 24 weeks. In these controlled\n  studies, the most common adverse reactions to Kerledex were bradycardia, headache,\n  dizziness, arthralgia, dyspepsia, and fatigue. Kerledex adverse events with a 2% or greater frequency, and selected events\n  with lower frequency, in these controlled studies are:",
+    "warnings": "Cardiac failure",
+    "dosage": ""
+  },
+  {
+    "name": "Kerlone",
+    "genericName": "betaxolol hydrochloride",
+    "description": "Kerlone (betaxolol hydrochloride) is a beta-blocker used to treat hypertension (high blood pressure). Kerlone has been discontinued in the U.S., but generic forms may be available.",
+    "sideEffects": "Most adverse reactions have been mild and transient and are typical of beta-adrenergic blocking agents, eg, bradycardia, fatigue, dyspnea, and lethargy. Withdrawal of therapy in U.S. and European controlled clinical trials has been necessary in about 3.5% of patients, principally because of bradycardia, fatigue, dizziness, headache, and impotence. Frequency estimates of adverse events were derived from controlled studies in which adverse reactions were volunteered and elicited in U.S studies and volunteered and/or elicited in European studies. In the U.S., the placebo-controlled hypertension studies lasted for 4 weeks, while the active-controlled hypertension studies had a 22- to 24- week double-blind phase. The following doses were studied: betaxolol-5, 10, 20, and 40 mg once daily; atenolol-25, 50, and 100 mg once daily; and propranolol-40, 80, and 160 mg b.i.d. Kerlone (betaxolol hydrochloride) , like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA) (e.g., lupus erythematosus). In controlled clinical studies, conversion of ANA from negative to positive occurred in 5.3% of the patients treated with betaxolol, 6.3% of the patients treated with atenolol, 4.9% of the patients treated with propranolol, and 3.2% of the patients treated with placebo. Betaxolol adverse events reported with a 2% or greater frequency, and selected events with lower frequency, in U.S. controlled studies are:",
+    "warnings": "Cardiac failure",
+    "dosage": "The recommended dosage of Kerlone is 10 mg once daily either alone or added to diuretic therapy."
+  },
+  {
+    "name": "Kerydin",
+    "genericName": "tavaborole topical solution, 5%",
+    "description": "Kerydin (tavaborole) topical solution is an antifungal used to treat fungal infection (onychomycosis) of the toenails due to Trichophyton rubrum or Trichophyton mentagrophytes.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Apply a dose of Kerydin to affected toenails once daily for 48 weeks."
+  },
+  {
+    "name": "Kesimpta",
+    "genericName": "ofatumumab injection",
+    "description": "Kesimpta (ofatumumab) is a CD20-directed cytolytic antibody used to treat relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.",
+    "sideEffects": "The following clinically significant adverse reactions are discussed in greater detail elsewhere in the labeling: Infections [see WARNINGS AND PRECAUTIONS] Injection-Related Reactions [see WARNINGS AND PRECAUTIONS] Reduction in Immunoglobulins [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The initial dosing of Kesimpta is 20 mg administered at Week 0, 1, and 2. Subsequent dosing of Kesimpta is 20 mg administered monthly starting at Week 4."
+  },
+  {
+    "name": "Ketalar",
+    "genericName": "ketamine hydrochloride injection",
+    "description": "Ketalar (ketamine hydrochloride) Injection is a non-barbiturate anesthetic indicated for the induction of anesthesia either alone or prior to the administration of other general anesthetic agents. Ketalar is indicated to supplement low-potency agents, such as nitrous oxide. Ketalar is available in generic form.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Hemodynamic Instability [see WARNINGS AND PRECAUTIONS] Emergence Reactions [see WARNINGS AND PRECAUTIONS] Respiratory Depression [see WARNINGS AND PRECAUTIONS] Pediatric Neurotoxicity [see WARNINGS AND PRECAUTIONS] Drug-Induced Liver Injury [see WARNINGS AND PRECAUTIONS] The following adverse reactions associated with the use of KETALAR were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Cardiovascular disorders: Elevated blood pressure, heart rate, and cardiac index; decreases in blood pressure and heart rate; arrhythmias; cardiac decompensation (in patients with suspected catecholamine depletion). Eye disorders: Diplopia, nystagmus, elevation in intraocular pressure. Gastrointestinal disorders: Anorexia, nausea, vomiting, hepatobiliary dysfunction. Biliary duct dilatation with or without evidence of biliary obstruction has been reported with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications). Administration site disorders: Local pain and exanthema at the site. Immune system disorders: Anaphylaxis. Neurologic disorders: Emergence reactions (post-operative delirium), [see WARNINGS AND PRECAUTIONS]. During administration, enhanced muscle tone and spasms (resembling a partial motor or generalized motor seizure). Psychiatric disorders: Adverse psychiatric events have occurred and/or persisted days to weeks after ketamine exposure. Renal and urinary disorders: In individuals with history of chronic ketamine use or abuse, lower urinary tract and bladder symptoms including dysuria, increased urinary frequency, urgency, urge incontinence, and hematuria have been reported [see DOSAGE AND ADMINISTRATION]. In addition, diagnostic studies performed to assess the cause of these symptoms have reported cystitis (including cystitis non-infective, cystitis interstitial, cystitis ulcerative, cystitis erosive and cystitis hemorrhagic) as well as hydronephrosis and reduced bladder capacity. Respiratory disorders: Respiratory depression and apnea following rapid intravenous administration of high doses of KETALAR; laryngospasm, and airway obstruction. Skin and subcutaneous tissue disorders: Transient erythema and/or morbilliform rash",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "It is formulated as a slightly acid (pH 3.5 – 5.5) sterile solution for intravenous or intramuscular injection in concentrations containing the equivalent of either 10, 50, or 100 \nmg ketamine base per milliliter and contains not more than 0.1 mg/mL Phemerol \n(benzethonium chloride) added as a preservative. The 10 mg/mL solution has been \nmade isotonic with sodium chloride. Patients need to be accompanied until side effects wear off. The drug has the potential to become addictive."
+  },
+  {
+    "name": "Ketamine Hydrochloride",
+    "genericName": "ketamine hcl",
+    "description": "Ketamine Hydrochloride (ketamine hcl) Injection (Brand Names: Ketalar) is an anesthetic used as a general anesthetic to prevent pain and discomfort during medical tests or procedures, or minor surgery. Ketamine hydrochloride is available in generic form.",
+    "sideEffects": "Cardiovascular: Blood pressure and pulse rate are\nfrequently elevated following administration of ketamine hydrochloride alone.\nHowever, hypotension and bradycardia have been observed. Arrhythmia has also\noccurred. Respiration: Although respiration is frequently\nstimulated, severe depression of respiration or apnea may occur following rapid\nintravenous administration of high doses of ketamine hydrochloride. Laryngospasms\nand other forms of airway obstruction have occurred during ketamine\nhydrochloride anesthesia. Eye: Diplopia and nystagmus have been noted\nfollowing ketamine hydrochloride administration. It also may cause a slight\nelevation in intraocular pressure measurement. Genitourinary: Severe irritative and inflammatory\nurinary tract and bladder symptoms including cystitis have been reported in\nindividuals with history of chronic ketamine use or abuse. Psychological: (See Special Note.) Neurological: In some patients, enhanced skeletal\nmuscle tone may be manifested by tonic and clonic movements sometimes\nresembling seizures (see  DOSAGE AND ADMINISTRATION Section). Gastrointestinal: Anorexia, nausea and vomiting\nhave been observed; however, this is not usually severe and allows the great\nmajority of patients to take liquids by mouth shortly after regaining\nconsciousness (see DOSAGE AND ADMINISTRATION Section). General: Anaphylaxis. Local pain and exanthema at\nthe injection site have infrequently been reported. Transient erythema and/or\nmorbilliform rash have also been reported. For medical advice about adverse reactions contact your\nmedical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at\n1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1- 800-332-1088) or\nhttp://www.fda.gov/medwatch/.",
+    "warnings": "Cardiac function should be continually monitored during\nthe procedure in patients found to have hypertension or cardiac decompensation.",
+    "dosage": "This medication is administered under a physician's supervision. The initial dose of ketamine administered intravenously (IV) ranges from 1 mg/kg to 4.5 mg/kg. The average amount required to produce five to ten minutes of surgical anesthesia is 2 mg/kg. The initial dose of ketamine administered intramuscularly (IM) ranges from 6.5 to 13 mg/kg. A dose of 10 mg/kg usually produces 12 to 25 minutes of surgical anesthesia."
+  },
+  {
+    "name": "Ketamine Hydrochloride",
+    "genericName": "ketamine hcl",
+    "description": "Ketamine Hydrochloride (ketamine hcl) Injection (Brand Names: Ketalar) is an anesthetic used as a general anesthetic to prevent pain and discomfort during medical tests or procedures, or minor surgery. Ketamine hydrochloride is available in generic form.",
+    "sideEffects": "Cardiovascular: Blood pressure and pulse rate are\nfrequently elevated following administration of ketamine hydrochloride alone.\nHowever, hypotension and bradycardia have been observed. Arrhythmia has also\noccurred. Respiration: Although respiration is frequently\nstimulated, severe depression of respiration or apnea may occur following rapid\nintravenous administration of high doses of ketamine hydrochloride. Laryngospasms\nand other forms of airway obstruction have occurred during ketamine\nhydrochloride anesthesia. Eye: Diplopia and nystagmus have been noted\nfollowing ketamine hydrochloride administration. It also may cause a slight\nelevation in intraocular pressure measurement. Genitourinary: Severe irritative and inflammatory\nurinary tract and bladder symptoms including cystitis have been reported in\nindividuals with history of chronic ketamine use or abuse. Psychological: (See Special Note.) Neurological: In some patients, enhanced skeletal\nmuscle tone may be manifested by tonic and clonic movements sometimes\nresembling seizures (see  DOSAGE AND ADMINISTRATION Section). Gastrointestinal: Anorexia, nausea and vomiting\nhave been observed; however, this is not usually severe and allows the great\nmajority of patients to take liquids by mouth shortly after regaining\nconsciousness (see DOSAGE AND ADMINISTRATION Section). General: Anaphylaxis. Local pain and exanthema at\nthe injection site have infrequently been reported. Transient erythema and/or\nmorbilliform rash have also been reported. For medical advice about adverse reactions contact your\nmedical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at\n1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1- 800-332-1088) or\nhttp://www.fda.gov/medwatch/.",
+    "warnings": "Cardiac function should be continually monitored during\nthe procedure in patients found to have hypertension or cardiac decompensation.",
+    "dosage": "This medication is administered under a physician's supervision. The initial dose of ketamine administered intravenously (IV) ranges from 1 mg/kg to 4.5 mg/kg. The average amount required to produce five to ten minutes of surgical anesthesia is 2 mg/kg. The initial dose of ketamine administered intramuscularly (IM) ranges from 6.5 to 13 mg/kg. A dose of 10 mg/kg usually produces 12 to 25 minutes of surgical anesthesia."
+  },
+  {
+    "name": "Ketalar",
+    "genericName": "ketamine hydrochloride injection",
+    "description": "Ketalar (ketamine hydrochloride) Injection is a non-barbiturate anesthetic indicated for the induction of anesthesia either alone or prior to the administration of other general anesthetic agents. Ketalar is indicated to supplement low-potency agents, such as nitrous oxide. Ketalar is available in generic form.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Hemodynamic Instability [see WARNINGS AND PRECAUTIONS] Emergence Reactions [see WARNINGS AND PRECAUTIONS] Respiratory Depression [see WARNINGS AND PRECAUTIONS] Pediatric Neurotoxicity [see WARNINGS AND PRECAUTIONS] Drug-Induced Liver Injury [see WARNINGS AND PRECAUTIONS] The following adverse reactions associated with the use of KETALAR were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Cardiovascular disorders: Elevated blood pressure, heart rate, and cardiac index; decreases in blood pressure and heart rate; arrhythmias; cardiac decompensation (in patients with suspected catecholamine depletion). Eye disorders: Diplopia, nystagmus, elevation in intraocular pressure. Gastrointestinal disorders: Anorexia, nausea, vomiting, hepatobiliary dysfunction. Biliary duct dilatation with or without evidence of biliary obstruction has been reported with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications). Administration site disorders: Local pain and exanthema at the site. Immune system disorders: Anaphylaxis. Neurologic disorders: Emergence reactions (post-operative delirium), [see WARNINGS AND PRECAUTIONS]. During administration, enhanced muscle tone and spasms (resembling a partial motor or generalized motor seizure). Psychiatric disorders: Adverse psychiatric events have occurred and/or persisted days to weeks after ketamine exposure. Renal and urinary disorders: In individuals with history of chronic ketamine use or abuse, lower urinary tract and bladder symptoms including dysuria, increased urinary frequency, urgency, urge incontinence, and hematuria have been reported [see DOSAGE AND ADMINISTRATION]. In addition, diagnostic studies performed to assess the cause of these symptoms have reported cystitis (including cystitis non-infective, cystitis interstitial, cystitis ulcerative, cystitis erosive and cystitis hemorrhagic) as well as hydronephrosis and reduced bladder capacity. Respiratory disorders: Respiratory depression and apnea following rapid intravenous administration of high doses of KETALAR; laryngospasm, and airway obstruction. Skin and subcutaneous tissue disorders: Transient erythema and/or morbilliform rash",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "It is formulated as a slightly acid (pH 3.5 – 5.5) sterile solution for intravenous or intramuscular injection in concentrations containing the equivalent of either 10, 50, or 100 \nmg ketamine base per milliliter and contains not more than 0.1 mg/mL Phemerol \n(benzethonium chloride) added as a preservative. The 10 mg/mL solution has been \nmade isotonic with sodium chloride. Patients need to be accompanied until side effects wear off. The drug has the potential to become addictive."
+  },
+  {
+    "name": "Ketek",
+    "genericName": "telithromycin",
+    "description": "Ketek (telithromycin) is an antibiotic used to treat bacterial infections in the lungs and sinuses.",
+    "sideEffects": "The following serious and otherwise important adverse\ndrug reactions are discussed in greater detail in other sections of labeling: Myasthenia gravis [see CONTRAINDICATIONS] Hepatotoxicity [see WARNINGS AND PRECAUTIONS] QTc prolongation [see WARNINGS AND PRECAUTIONS] Visual disturbances and loss of consciousness [see\n WARNINGS AND PRECAUTIONS] Clostridium difficile-associated diarrhea [see\n WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dose of Ketek tablets is 800 mg (2 tablets of 400 mg) taken orally once every 24 hours, for 7–10 days."
+  },
+  {
+    "name": "Nizoral",
+    "genericName": "ketoconazole",
+    "description": "Nizoral (ketoconazole) is an antifungal agent indicated for the treatment of the following systemic fungal infections: candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, blastomycosis, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis.",
+    "sideEffects": "Because clinical trials are conducted under widely\nvarying conditions, adverse reaction rates observed in the clinical trials of a\ndrug cannot be directly compared to rates in the clinical trials of another\ndrug and may not reflect the rates observed in practice. The following adverse reactions were reported in clinical\ntrials: Immune System Disorders: anaphylactoid reaction Endocrine Disorders: gynecomastia Metabolism and Nutrition Disorders: alcohol\nintolerance, anorexia, hyperlipidemia, increased appetite Psychiatric Disorders: insomnia, nervousness Nervous System Disorders: headache, dizziness,\n paresthesia, somnolence Eye Disorders: photophobia Vascular Disorders: orthostatic hypotension Respiratory, Thoracic and Mediastinal Disorders: epistaxis Gastrointestinal Disorders: vomiting, diarrhea,\nnausea, constipation, abdominal pain, abdominal pain upper, dry mouth,\ndysgeusia, dyspepsia, flatulence, tongue discoloration Hepatobiliary Disorders: hepatitis, jaundice,\n hepatic function abnormal Skin and Subcutaneous Tissues Disorders: erythema \nmultiforme, rash, dermatitis, erythema, urticaria, pruritus, alopecia,\n xeroderma Musculoskeletal and Connective Tissue Disorders: myalgia Reproductive System and Breast Disorders: menstrual\ndisorder General Disorders and Administration Site Conditions:\n asthenia, fatigue, hot flush, malaise, edema peripheral, pyrexia, chills Investigations:\n platelet count decreased.",
+    "warnings": "NIZORAL® Tablets should be used only when\nother effective antifungal therapy is not available or tolerated and the\npotential benefits are considered to outweigh the potential risks.",
+    "dosage": "The recommended adult starting dose of Nizoral tablets is a single daily administration of 200 mg (one tablet)."
+  },
+  {
+    "name": "Xolegel",
+    "genericName": "ketoconazole",
+    "description": "Xolegel (ketoconazole) is an antifungal medication used to treat fungal infections of the skin such as athlete's foot, jock itch, ringworm, and seborrhea (dry, flaking skin).",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Xolegel is to apply once daily to the affected area for 2 weeks. Xolegel is for topical use only, and not for oral, ophthalmic, or intravaginal use."
+  },
+  {
+    "name": "Kuric",
+    "genericName": "ketoconazole",
+    "description": "Kuric (ketoconazole) 2% cream is an antifungal drug indicated for the topical treatment of ringworm (tinea corporis), jock itch (tinea cruris), athlete's foot (tinea pedis), candidiasis (yeast), and seborrheic dermatitis. Kuric is available in generic form.",
+    "sideEffects": "During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole \n  Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects \n  consisting mainly of severe irritation, pruritus and stinging. One of the patients \n  treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have \n  been associated with Ketoconazole Cream or one of its excipients, namely sodium \n  sulfite or propylene glycol.",
+    "warnings": "Kuric™ is not for ophthalmic use.",
+    "dosage": "Kuric is available as a 2% strength cream in a 75 g tube. It is recommended that Kuric be applied once daily to cover the affected and immediate surrounding area. Improvement may be seen fairly soon after treatment is begun; however, candidal (yeast) infections, jock itch, and ringworm should be treated for two weeks in order to reduce the possibility of recurrence. Patients with tinea versicolor usually require two weeks of treatment. Patients with athlete's foot require six weeks of treatment."
+  },
+  {
+    "name": "Nizoral Shampoo",
+    "genericName": "ketoconazole 2%",
+    "description": "Nizoral (ketoconazole) 2% Shampoo is an antifungal medication used to treat fungal infections of the skin such as athlete's foot, jock itch, ringworm, and seborrhea (dry, flaking skin). Nizoral is available as a cream, gel, and shampoo. Nizoral shampoo is used for the treatment of dandruff. Nizoral shampoo is available in generic form and over-the-counter.",
+    "sideEffects": "",
+    "warnings": "No information provided.",
+    "dosage": "Apply the shampoo to the damp skin of the affected area and a wide margin surrounding this area. Lather, leave in place for 5 minutes, and then rinse off with water. One application dose of the shampoo should be sufficient."
+  },
+  {
+    "name": "Ketoconazole Cream",
+    "genericName": "ketoconazole cream",
+    "description": "Ketoconazole topical (for the skin) (Brand Names: Extina, Kuric, Nizoral A-D, Nizoral Topical, Xolegel) is an antifungal medication used to treat fungal infections of the skin such as athlete's foot, jock itch, ringworm, and seborrhea (dry, flaking skin). Ketoconazole topical is available as a cream, gel, and shampoo. The shampoo is used for the treatment of dandruff. Ketoconazole topical cream is available in generic form.",
+    "sideEffects": "During clinical trials 45 (5.0%) of 905 patients treated\nwith Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo\nreported side effects consisting mainly of severe irritation, pruritus and\nstinging. One of the patients treated with Ketoconazole Cream developed a\npainful allergic reaction. In worldwide postmarketing experience, rare reports of\ncontact dermatitis have been associated with Ketoconazole Cream or one of its\nexcipients, namely sodium sulfite or propylene glycol.",
+    "warnings": "Ketoconazole Cream 2% is not for ophthalmic use.",
+    "dosage": "To treat cutaneous candidiasis, tinea corporis, tinea cruris, tinea pedis, and tinea (pityriasis) versicolor the recommended dose of ketoconazole cream, 2% is to apply once daily to cover the affected and immediate surrounding area. To treat seborrheic dermatitis, apply Ketoconazole cream, 2% to the affected area twice daily for four weeks or until clinical clearing."
+  },
+  {
+    "name": "Extina",
+    "genericName": "ketoconazole foam, 2%",
+    "description": "Extina (ketoconazole foam, 2%) is a topical (for the skin) antifungal medication used to treat fungal infections of the skin such as athlete's foot, jock itch, ringworm, and seborrhea (dry, flaking skin). Extina is available in generic form.",
+    "sideEffects": "",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Extina Foam is to apply to the affected area(s) twice daily for four weeks."
+  },
+  {
+    "name": "Orudis",
+    "genericName": "ketoprofen",
+    "description": "Orudis (ketoprofen) is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain or inflammation caused by arthritis. Orudis is also used to treat menstrual pain. The brand name Orudis is no longer available in the U.S. It is available in its generic form, ketoprofen.",
+    "sideEffects": "The incidence of common adverse reactions (above 1%) was obtained from a population of 835 Orudis (ketoprofen) -treated patients in double-blind trials lasting from 4 to 54 weeks and in 622 Oruvail-treated (200 mg/day) patients in trials lasting from 4 to 16 weeks. Minor gastrointestinal side effects predominated; upper gastrointestinal symptoms were more common than lower gastrointestinal symptoms. In crossover trials in 321 patients with rheumatoid arthritis or osteoarthritis, there was no difference in either upper or lower gastrointestinal symptoms between patients treated with 200 mg of Oruvail (ketoprofen) once a day or 75 mg of Orudis (ketoprofen) TID (225 mg/day). Peptic ulcer or GI bleeding occurred in controlled clinical trials in less than 1% of 1,076 patients; however, in open label continuation studies in 1,292 patients the rate was greater than 2%. The incidence of peptic ulceration in patients on NSAIDs is dependent on many risk factors including age, sex, smoking, alcohol use, diet, stress, concomitant drugs such as aspirin and corticosteroids, as well as the dose and duration of treatment with NSAIDs (see \"WARNINGS\"). Gastrointestinal reactions were followed in frequency by central nervous system side effects, such as headache, dizziness, or drowsiness. The incidence of some adverse reactions appears to be dose-related (see \"DOSAGE AND ADMINISTRATION\"). Rare adverse reactions (incidence less than 1%) were collected from one or more of the following sources: foreign reports to manufacturers and regulatory agencies, publications, U.S. clinical trials, and/or U.S. postmarketing spontaneous reports. Reactions are listed below under body system, then by incidence or number of cases in decreasing incidence. Incidence Greater than 1% (Probable Causal Relationship) Digestive: Dyspepsia (11%), nausea*, abdominal pain*, diarrhea*, constipation*, flatulence*, anorexia, vomiting, stomatitis. Nervous System: Headache*, dizziness, CNS inhibition (i.e., pooled reports of somnolence, malaise, depression, etc.) or excitation (i.e., insomnia, nervousness, dreams, etc.)*. Special Senses: Tinnitus, visual disturbance. Skin and Appendages: Rash. Urogenital: Impairment of renal function (edema, increased BUN)*, signs or symptoms of urinary-tract irritation. * Adverse events occurring in 3 to 9% of patients. Incidence Less than 1% (Probable Causal Relationship) Body as a Whole: Chills, facial edema, infection, pain, allergic reaction, anaphylaxis. Cardiovascular: Hypertension, palpitation, tachycardia, congestive heart failure, peripheral vascular disease, vasodilation. Digestive: Appetite increased, dry mouth, eructation, gastritis, rectal hemorrhage, melena, fecal occult blood, salivation, peptic ulcer, gastrointestinal perforation, hematemesis, intestinal ulceration, hepatic dysfunction, hepatitis, cholestatic hepatitis, jaundice. Hemic: Hypocoagulability, agranulocytosis, anemia, hemolysis, purpura, thrombocytopenia. Metabolic and Nutritional: Thirst, weight gain, weight loss, hyponatremia. Musculoskeletal: Myalgia. Nervous System: Amnesia, confusion, impotence, migraine, paresthesia, vertigo. Respiratory: Dyspnea, hemoptysis, epistaxis, pharyngitis, rhinitis, bronchospasm, laryngeal edema. Skin and Appendages: Alopecia, eczema, pruritus, purpuric rash, sweating, urticaria, bullous rash, exfoliative dermatitis, photosensitivity, skin discoloration, onycholysis, toxic epidermal necrolysis, erythema multiforme, Stevens-Johnson syndrome.",
+    "warnings": "CARDIOVASCULAR EFFECTS",
+    "dosage": "The usual starting dose of Orudis (ketoprofen) is 50 or 75 mg of immediate release capsules every 6 to 8 hours, or 200 mg of extended release capsules once daily. The maximum dose of ketoprofen is 300 mg daily of immediate release capsules or 200 mg daily of extended release capsules. Ketoprofen should be taken with food in order to avoid stomach upset."
+  },
+  {
+    "name": "Toradol",
+    "genericName": "ketorolac tromethamine",
+    "description": "Toradol (ketorolac tromethamine) is a nonsteroidal anti-inflammatory drug (NSAID) that is used to treat moderately severe pain and inflammation, usually after surgery. Toradol works by blocking the production of prostaglandins, compounds that cause pain, fever, and inflammation. The brand name Toradol is no longer available in the U.S. Generic versions may be available.",
+    "sideEffects": "Adverse reaction rates increase with higher doses of TORADOL (ketorolac tromethamine) . Practitioners\n  should be alert for the severe complications of treatment with TORADOL (ketorolac tromethamine) , such\n  as GI ulceration, bleeding and perforation, postoperative bleeding, acute renal\n  failure, anaphylactic and anaphylactoid reactions and liver failure (see BOXED\n  WARNING, WARNINGS, PRECAUTIONS,\n  and DOSAGE AND ADMINISTRATION). These NSAID-related\n  complications can be serious in certain patients for whom TORADOL (ketorolac tromethamine)  is indicated,\n  especially when the drug is used inappropriately. In patients taking TORADOL (ketorolac tromethamine)  or other NSAIDs in clinical trials, the most frequently\n  reported adverse experiences in approximately 1% to 10% of patients are:",
+    "warnings": "(see also BOXED WARNING)",
+    "dosage": "Toradol is available as a 10 mg tablet and a solution (30 mg per ml) for intravenous (IV) or intramuscular (IM) administration. Toradol solution is administered as a single 15- to 60-mg dose once every 6 hours not to exceed 60 or 120 mg a day. The recommended oral dose is one to two Toradol tablets initially followed by one tablet every 4-6 hours, not to exceed 40 mg daily. Toradol should not be used for more than 5 days."
+  },
+  {
+    "name": "Acular",
+    "genericName": "ketorolac tromethamine",
+    "description": "Acular (ketorolac tromethamine) Ophthalmic Solution is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve eye itching caused by seasonal allergies. Acular is also used to reduce swelling, pain, and burning or stinging after cataract surgery or corneal refractive surgery. Acular is available in generic form.",
+    "sideEffects": "Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Acular ophthalmic solution is one drop (0.25 mg) four times a day for relief of ocular itching due to seasonal allergic conjunctivitis. For the treatment of postoperative inflammation in cataract surgery patients, one drop should be applied to the affected eye(s) four times daily beginning 24 hours after surgery and continued for 2 weeks postoperatively."
+  },
+  {
+    "name": "Sprix",
+    "genericName": "ketorolac tromethamine nasal spray",
+    "description": "Sprix (ketorolac tromethamine) is a nonsteroidal anti-inflammatory drug (NSAID) used in adults for short-term (up to 5 days) management of moderate to moderately severe pain that requires pain relief at the opioid level.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Cardiovascular Thrombotic Events [see WARNINGS AND PRECAUTIONS] GI Bleeding, Ulceration and Perforation [see WARNINGS AND PRECAUTIONS] Hepatotoxicity [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Heart Failure and Edema [see WARNINGS AND PRECAUTIONS] Renal Toxicity and Hyperkalemia [see WARNINGS AND PRECAUTIONS] Anaphylactic Reactions [see WARNINGS AND PRECAUTIONS] Serious Skin Reactions [see WARNINGS AND PRECAUTIONS] Hematologic Toxicity [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Sprix is 31.5 mg (one 15.75 mg spray in each nostril) every 6 to 8 hours. The maximum daily dose is 126 mg (four doses)."
+  },
+  {
+    "name": "Acular LS",
+    "genericName": "ketorolac tromethamine ophthalmic solution",
+    "description": "Acular LS (ketorolac tromethamine ophthalmic solution) is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve eye itching caused by seasonal allergies. Acular LS is also used to reduce swelling, pain, and burning or stinging after cataract surgery or corneal refractive surgery. Acular LS is available in generic form.",
+    "sideEffects": "The following serious adverse reactions are described elsewhere in the labeling: Delayed Healing [see WARNINGS AND PRECAUTIONS] Cross-Sensitivity or Hypersensitivity [see WARNINGS AND PRECAUTIONS] Increased Bleeding Time [see WARNINGS AND PRECAUTIONS] Corneal Effects [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Acular LS ophthalmic solution is one drop four times a day in the operated eye as needed for pain and burning/stinging for up to 4 days following corneal refractive surgery."
+  },
+  {
+    "name": "Acuvail",
+    "genericName": "ketorolac tromethamine ophthalmic solution",
+    "description": "Acuvail (ketorolac tromethamine) Ophthalmic Solution is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain inflammation after cataract surgery or corneal refractive surgery, and also to relieve eye itching caused by seasonal allergies.",
+    "sideEffects": "The following serious adverse reactions are described elsewhere in the labeling: Delayed Healing [see WARNINGS AND PRECAUTIONS] Cross-Sensitivity or Hypersensitivity [see WARNINGS AND PRECAUTIONS] Increased Bleeding Time [see WARNINGS AND PRECAUTIONS] Corneal Effects [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose of Acuvail is to apply one drop to the affected eye twice daily beginning 1 day prior to cataract surgery, continued on the day of surgery, and through the first 2 weeks of the postoperative period."
+  },
+  {
+    "name": "Zaditor",
+    "genericName": "ketotifen fumarate",
+    "description": "Zaditor (ketotifen fumarate) Ophthalmic Solution is an antihistamine used to treat itching of the eyes caused by allergy to dust, pollen, animals, or other allergens. Zaditor is available in generic form.",
+    "sideEffects": "In controlled clinical studies, conjunctival injection, headaches, and rhinitis were reported at an incidence of 10 to 25%. The occurrence of these side effects was generally mild. Some of these events were similar to the underlying ocular disease being studied. The following ocular and non-ocular adverse reactions were reported at an incidence of less than 5%: Ocular: Allergic reactions, burning or stinging, conjunctivitis, discharge, dry eyes, eye pain, eyelid disorder, itching, keratitis, lacrimation disorder, mydriasis, photophobia, and rash. Non-Ocular: Flu syndrome, pharyngitis.",
+    "warnings": "For topical ophthalmic use only. Not for injection or oral use.",
+    "dosage": "The dose of Zaditor for adults and children 3 years of age and older: Put 1 drop in the affected eye(s) twice daily, every 8-12 hours, no more than twice per day."
+  },
+  {
+    "name": "Zaditen",
+    "genericName": "ketotifen hydrogen fumarate eye drops",
+    "description": "What Is Zaditen?",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": ""
+  },
+  {
+    "name": "Keveyis",
+    "genericName": "dichlorphenamide tablets",
+    "description": "Keveyis (dichlorphenamide) is an oral carbonic anhydrase inhibitor indicated for the treatment of primary hyperkalemic periodic paralysis, primary hypokalemic periodic paralysis, and related variants.",
+    "sideEffects": "The following serious adverse reactions are described elsewhere in labeling: Hypersensitivity and Other Life-Threatening Reactions [see WARNINGS AND PRECAUTIONS] Hypokalemia [see WARNINGS AND PRECAUTIONS] Metabolic Acidosis [see WARNINGS AND PRECAUTIONS] Falls [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The initial dose of Keveyis is 50 mg twice daily. The maximum recommended dose of Keveyis is 200 mg daily."
+  },
+  {
+    "name": "Kevzara",
+    "genericName": "sarilumab injection, for subcutaneous use",
+    "description": "Kevzara (sarilumab) injection is an interleukin-6 (IL-6) receptor antagonist indicated for treatment of adult patients with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate response or intolerance to one or more disease-modifying antirheumatic drugs (DMARDs).",
+    "sideEffects": "The following serious adverse reactions are described elsewhere in labeling: Serious infections [see WARNINGS AND PRECAUTIONS] Neutropenia, thrombocytopenia, elevated liver enzymes, lipid abnormalities [see WARNINGS AND PRECAUTIONS] Gastrointestinal perforation [see WARNINGS AND PRECAUTIONS] Immunosuppression [see WARNINGS AND PRECAUTIONS] Hypersensitivity reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "What Drugs, Substances, or Supplements Interact with Kevzara?"
+  },
+  {
+    "name": "Keytruda",
+    "genericName": "pembrolizumab for injection",
+    "description": "Keytruda (pembrolizumab) is a programmed death receptor-1 (PD-1)-blocking antibody indicated for the treatment of patients with numerous forms of cancer, melanoma, metastatic nonsquamous non-small cell lung cancer (NSCLC), head and neck squamous cell cancer (HNSCC), classical Hodgkin lymphoma (cHL), large B cell lymphoma (PMBCL), urothelial cancer, unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) solid tumors, unresectable or metastatic MSI-H or dMMR colorectal cancer (CRC), metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma, cervical cancer, hepatocellular carcinoma (HCC), metastatic biliary tract cancer (BTC), Merkel cell carcinoma (MCC), renal cell carcinoma (RCC), endometrial carcinoma, metastatic tumor mutational burden-high (TMB-H) cancer, cutaneous squamous cell carcinoma (cSCC) or locally advanced cSCC, triple-negative breast cancer (TNBC), and primary mediastinal large b-cell lymphoma in adults.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling. Severe and fatal immune-mediated adverse reactions [see WARNINGS AND PRECAUTIONS]. Infusion-related reactions [see WARNINGS AND PRECAUTIONS].",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dose of Keytruda to treat melanoma, cHL or PMBCL, MSI-H or dMMR cancer, MCC, and TMB-H cancer is 200 mg every 3 weeks or 400 mg every 6 weeks; 2 mg/kg (up to 200 mg) every 3 weeks for pediatrics."
+  },
+  {
+    "name": "Khapzory",
+    "genericName": "levoleucovorin injection",
+    "description": "Khapzory (levoleucovorin) is a folate analog indicated for rescue after high-dose methotrexate therapy in patients with osteosarcoma; diminishing the toxicity associated with overdosage of folic acid antagonists or impaired methotrexate elimination; and treatment of patients with metastatic colorectal cancer in combination with fluorouracil.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Increased gastrointestinal toxicities with fluorouracil [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dose of Khapzory depends on the condition it is used to treat."
+  },
+  {
+    "name": "Khedezla",
+    "genericName": "desvenlafaxine extended-release tablets",
+    "description": "Khedezla (desvenlafaxine) is a type of antidepressant called a serotonin and norepinephrine reuptake inhibitor (SNRI) used to treat major depressive disorder (MDD).",
+    "sideEffects": "The following adverse reactions are discussed in greater\ndetail in other sections of the label. Hypersensitivity [see CONTRAINDICATIONS] Suicidal Thoughts and Behaviors in Pediatric and Young\n    Adult Patients [see WARNINGS AND PRECAUTIONS] Serotonin Syndrome [see WARNINGS AND PRECAUTIONS] Elevated Blood Pressure [see WARNINGS AND PRECAUTIONS] Increased Risk of Bleeding [see WARNINGS AND\n    PRECAUTIONS] Angle Closure Glaucoma [see WARNINGS AND PRECAUTIONS] Activation of Mania/Hypomania [see WARNINGS AND\n    PRECAUTIONS] Discontinuation Syndrome [see WARNINGS AND PRECAUTIONS] Seizure [see WARNINGS AND PRECAUTIONS] Hyponatremia [see WARNINGS AND PRECAUTIONS] Interstitial Lung Disease and Eosinophilic Pneumonia [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "What Drugs, Substances, or Supplements Interact with Khedezla?"
+  },
+  {
+    "name": "Kimidess",
+    "genericName": "desogestrel and ethinyl estradiol tablets",
+    "description": "Kimidess (desogestrel and ethinyl estradiol tablets is an oral contraceptive indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception. Kimidess is available in generic form.",
+    "sideEffects": "An increased risk of the following serious adverse\nreactions has been associated with the use of oral contraceptives (see WARNINGS\nsection): Thrombophlebitis and venous thrombosis with or without\n    embolism Arterial thromboembolism Pulmonary embolism Myocardial infarction Cerebral hemorrhage Cerebral thrombosis Hypertension Gallbladder disease Hepatic adenomas or benign liver tumors There is evidence of an association between the following\nconditions and the use of oral contraceptives: Mesenteric thrombosis Retinal thrombosis The following adverse reactions have been reported in\npatients receiving oral contraceptives and are believed to be drug-related: Nausea Vomiting Gastrointestinal symptoms (such as abdominal cramps and\n    bloating) Breakthrough bleeding Spotting Change in menstrual flow Amenorrhea Temporary infertility after discontinuation of treatment Edema Melasma which may persist Breast changes: tenderness, enlargement, secretion Change in weight (increase or decrease) Change in cervical erosion and secretion Diminution in lactation when given immediately postpartum Cholestatic jaundice Migraine Rash (allergic) Mental depression Reduced tolerance to carbohydrates Vaginal candidiasis Change in corneal curvature (steepening) Intolerance to contact lenses The following adverse reactions have been reported in\nusers of oral contraceptives and the association has been neither confirmed nor\nrefuted: Pre-menstrual syndrome Cataracts Changes in appetite Cystitis-like syndrome Headache Nervousness Dizziness Hirsutism Loss of scalp hair Erythema multiforme Erythema nodosum Hemorrhagic eruption Vaginitis Porphyria Impaired renal function Hemolytic uremic syndrome Acne Changes in libido Colitis Budd-Chiari Syndrome",
+    "warnings": "Cigarette smoking increases the risk of serious\ncardiovascular side effects from oral contraceptive use. This risk increases\nwith age and with heavy smoking (15 or more cigarettes per day) and is quite\nmarked in women over 35 years of age. Women who use oral contraceptives should\nbe strongly advised not to smoke.",
+    "dosage": "To achieve maximum contraceptive effectiveness, Kimidess must be taken exactly as directed and at intervals not exceeding 24 hours. Kimidess may be initiated using either a Sunday start or a Day 1 start. Counting the first day of menstruation as \"Day 1\", tablets are taken without interruption as follows: one white tablet daily for 21 days, one light-green (inert) tablet daily for 2 days followed by 1 yellow (ethinyl estradiol) tablet daily for 5 days. For all subsequent cycles, the patient then begins a new 28- tablet regimen on the next day after taking the last yellow tablet."
+  },
+  {
+    "name": "Kimmtrak",
+    "genericName": "tebentafusp-tebn injection, for intravenous use",
+    "description": "Kimmtrak (tebentafusp-tebn) is a bispecific gp100 peptide-HLA-directed CD3 T cell engager indicated for the treatment of HLA-A*02:01-positive adult patients with unresectable or metastatic uveal melanoma.",
+    "sideEffects": "The following serious adverse reactions are discussed in greater detail in other sections of the label: Cytokine Release Syndrome [see BOXED WARNING, WARNINGS AND PRECAUTIONS] Skin Reactions [see WARNINGS AND PRECAUTIONS] Elevated Liver Enzymes [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dosage of Kimmtrak is 20 mcg intravenously on Day 1, 30 mcg intravenously on Day 8, 68 mcg intravenously on Day 15, and 68 mcg intravenously once every week thereafter.Kimmtrak In ChildrenThe safety and efficacy of Kimmtrak have not been established in pediatric patients."
+  },
+  {
+    "name": "Kimyrsa",
+    "genericName": "oritavancin for injeciton",
+    "description": "Kimyrsa (oritavancin) is a lipoglycopeptide antibacterial drug used to treat adult patients with acute bacterial skin and skin structure infections caused or suspected to be caused by susceptible isolates of designated Gram-positive microorganisms.",
+    "sideEffects": "The following adverse reactions are also discussed in the Warnings and Precautions section of labeling: Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Infusion Related Reactions [see WARNINGS AND PRECAUTIONS] Clostridioides difficile-associated Diarrhea [see WARNINGS AND PRECAUTIONS] Osteomyelitis [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dosage of Kimyrsa is 1,200 mg administered as a single dose by intravenous infusion over 1 hour in patients 18 years and older."
+  },
+  {
+    "name": "Kineret",
+    "genericName": "anakinra",
+    "description": "Kineret (anakinra) is a man-made form of a natural protein (interleukin-1 receptor antagonist) made by the body used to treat the symptoms of moderate to severe rheumatoid arthritis in patients who have had an inadequate response to one or more antirheumatic drugs. Kineret may be used in combination with other antirheumatic medications.",
+    "sideEffects": "Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Kineret to treat rheumatoid arthritis is 100 mg/day administered daily by subcutaneous injection."
+  },
+  {
+    "name": "Kinevac",
+    "genericName": "sincalide",
+    "description": "Kinevac (sincalide for injection) is a cholecystopancreatic-gastrointestinal hormone peptide administered by intravenous injection in certain medical tests. Kinevac is primarily used to assist in diagnosing disorders of the gallbladder and pancreas.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in labeling: Anaphylaxis, anaphylactic shock, and other serious hypersensitivity reactions [see WARNINGS AND PRECAUTIONS] Evacuation of gallstones [see WARNINGS AND PRECAUTIONS] Adverse reactions with intravenous injection [see WARNINGS AND PRECAUTIONS] Preterm labor or spontaneous abortion [see WARNINGS AND PRECAUTIONS] The following adverse reactions associated with the use of Kinevac were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably, or to establish a causal relationship to drug exposure. The most frequent adverse reactions (20% or greater) are gastrointestinal: abdominal discomfort or pain, and nausea; these may not necessarily indicate an abnormality of the biliary tract unless there is other clinical or radiologic evidence of disease. Less common adverse reactions include: Hypersensitivity reactions: anaphylaxis and anaphylactic shock, hypotension, throat tightness, bradycardia, shortness of breath, nausea, abdominal cramping, diaphoresis, hives, rash, itching; and numbness of face, lips and eyes [see CONTRAINDICATIONS]. Neurological reactions: seizures, headache. Vasovagal reactions: dizziness, loss of consciousness, nausea, diaphoresis, syncope and hypotension (generally self-limiting). Other: nausea, vomiting, flushing, hypertension, urge to defecate, diarrhea, sneezing.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "For prompt contraction of the gallbladder, a dose of 0.02 mcg of Kinevac (sincalide) per kg (1.4 mcg/70 kg) is injected intravenously over a 30- to 60-second interval; if satisfactory contraction of the gallbladder does not occur in 15 minutes, a second dose, 0.04 mcg Kinevac (sincalide) per kg, may be administered."
+  },
+  {
+    "name": "Kinlytic",
+    "genericName": "urokinase injection",
+    "description": "Kinlytic (urokinase) for Injection is a thrombolytic agent used to treat blood clots in the lungs. The brand name Kinlytic is discontinued, but generic versions may be available.",
+    "sideEffects": "The most serious adverse reactions reported with Kinlytic™ (urokinase injection)  administration\n  include fatal hemorrhage and anaphylaxis (see WARNINGS).",
+    "warnings": "Bleeding",
+    "dosage": "The loading dose of 4,400 international units per kilogram of Kinlytic injection is given at a rate of 90 mL per hour over a period of 10 minutes. This is followed with a continuous infusion of 4,400 international units per kilogram per hour at a rate of 15 mL for 12 hours."
+  },
+  {
+    "name": "Kinrix",
+    "genericName": "diptheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine",
+    "description": "Kinrix (diptheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine) is a vaccine used to help prevent the diseases of diphtheria, pertussis, tetanus, and polio in children who are ages 4 through 6 years (before the 7th birthday) who have received prior vaccination with a DTaP and IPV series.",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Kinrix vaccine is administered as a 0.5-mL dose by intramuscular injection, usually into the deltoid muscle of the upper arm."
+  },
+  {
+    "name": "Kionex",
+    "genericName": "sodium polystyrene sulfonate",
+    "description": "Kionex (sodium polystyrene sulfonate) is a cation-exchange resin that works by helping your body get rid of extra potassium and is used to treat high levels of potassium in the blood, also called hyperkalemia. Kionex is available in generic form.",
+    "sideEffects": "Kionex® Suspension may cause some degree of gastric irritation. Anorexia, nausea, vomiting, and constipation may occur especially if high doses are given. Also, hypokalemia, hypocalcemia, and significant sodium retention may occur. (See WARNINGS) Occasionally diarrhea develops. Large doses in elderly individuals may cause fecal impaction (See PRECAUTIONS). Rare instances of colonic necrosis have been reported. Intestinal obstruction due to concretions of aluminum hydroxide, when used in combination with sodium polystyrene sulfonate, has been reported. The following events have been reported from worldwide post marketing experience with sodium polystyrene sulfonate powder: fecal impaction following rectal administration, particularly in children; gastrointestinal concretions (bezoars) following oral administration; gastrointestinal tract ulceration or necrosis which could lead to intestinal perforation; and, rare cases of acute bronchitis and/or bronchopneumonia associated with inhalation of particles of polystyrene sulfonate.",
+    "warnings": "Alternative Therapy In Severe Hyperkalemia",
+    "dosage": "The average daily adult dose of Kionex resin is 15 g to 60 g. This is best provided by administering 15 grams (approximately 4 level teaspoons) of Kionex one to four times daily."
+  },
+  {
+    "name": "Kisqali",
+    "genericName": "ribociclib tablets",
+    "description": "Kisqali (ribociclib) is a kinase inhibitor indicated in combination with an aromatase inhibitor as initial endocrine-based therapy for the treatment of postmenopausal women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Interstitial Lung Disease/Pneumonitis [see WARNINGS AND PRECAUTIONS] Severe Cutaneous Adverse Reactions [see WARNINGS AND PRECAUTIONS] QT Interval Prolongation [see WARNINGS AND PRECAUTIONS] Hepatobiliary Toxicity [see WARNINGS AND PRECAUTIONS] Neutropenia [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended starting dose of Kisqali is 600 mg orally (three 200 mg tablets) taken once daily with or without food for 21 consecutive days followed by 7 days off treatment."
+  },
+  {
+    "name": "Kisqali FeMara Co-Pack",
+    "genericName": "ribociclib and letrozole tablets",
+    "description": "Kisqali Femara Co-Pack (ribociclib tablets; letrozole tablets) is a co-packaged product containing a kinase inhibitor and an aromatase inhibitor indicated as initial endocrine-based therapy for the treatment of postmenopausal women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Interstitial Lung Disease/Pneumonitis [see WARNINGS AND PRECAUTIONS] Severe Cutaneous Adverse Reactions [see WARNINGS AND PRECAUTIONS] QT Interval Prolongation [see WARNINGS AND PRECAUTIONS] Hepatobiliary Toxicity [see WARNINGS AND PRECAUTIONS] Neutropenia [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kisqali Femara Co-Pack tablets are taken in combination orally with or without food. The Kisqali recommended starting dose is 600 mg orally (three 200 mg tablets) taken once daily for 21 consecutive days followed by 7 days off Kisqali treatment. The dose of Femara is 2.5 mg (one tablet) continuously for a 28-day cycle."
+  },
+  {
+    "name": "Kisunla",
+    "genericName": "donanemab-azbt) injection",
+    "description": "Kisunla (donanemab-azbt) is an amyloid beta-directed antibody indicated for the treatment of Alzheimer’s disease.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Amyloid Related Imaging Abnormalities [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Infusion-Related Reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dosage of Kisunla is 700 mg administered as an intravenous infusion over approximately 30 minutes every four weeks for the first three doses, followed by 1400 mg every four weeks."
+  },
+  {
+    "name": "Pulmotech MAA",
+    "genericName": "kit for preparation of technetium tc99m albumin injection",
+    "description": "Pulmotech MAA (kit for the preparation of technetium Tc 99m albumin aggregated injection) is a radioactive diagnostic agent indicated for lung scintigraphy as an adjunct in the evaluation of pulmonary perfusion in adults and pediatric patients and for scintigraphy of peritoneovenous shunt as an aid in the evaluation of its patency in adults.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in labeling: Patients with Pulmonary Hypertension [see WARNINGS AND PRECAUTIONS]. Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS]. The following adverse reactions associated with the use of technetium Tc 99m albumin aggregated products including PULMOTECH MAA have been identified in clinical studies or postmarketing reports. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "For lung scintigraphy in adults, the recommended dose is of Pulmotech MAA 37 MBq to 148 MBq (1 mCi to 4 mCi) and 200,000 particles to 700,000 particles administered intravenously. For scintigraphy of peritoneovenous shunts in adults, the recommended dose of Pulmotech MAA is 37 MBq to 111 MBq (1 mCi to 3 mCi) and 200,000 particles to 700,000 particles administered intraperitoneally."
+  },
+  {
+    "name": "An-Sulfur Colloid",
+    "genericName": "kit for preparation of technetium tc99m sulfur colloid injection",
+    "description": "An-Sulfur Colloid (kit for the preparation of technetium Tc 99m sulfur colloid injection) is a radioactive diagnostic agent used in adults, to assist in the localization of lymph nodes draining a primary tumor in patients with breast cancer or malignant melanoma when used with a hand-held gamma counter; and for evaluation of peritoneo-venous (LeVeen) shunt patency in adults. An-Sulfur Colloid is used in adults and pediatric patients, for imaging areas of functioning reticuloendothelial cells in the liver, spleen and bone marrow; and studies of esophageal transit and gastroesophageal reflux, and detection of pulmonary aspiration of gastric contents.",
+    "sideEffects": "The most frequently reported adverse reactions, across all categories of use and routes of administration, include rash, allergic reaction, urticaria, anaphylaxis/anaphylactic shock, and hypotension. Less frequently reported adverse reactions are fatal cardiopulmonary arrest, seizures, dyspnea, bronchospasm, abdominal pain, flushing, nausea, vomiting, itching, fever, chills, perspiration, numbness, and dizziness. Local injection site reactions, including burning, blanching, erythema, sclerosis, swelling, eschar, and scarring, have also been reported.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dosage of An-Sulfur Colloid varies depending on the procedure being performed."
+  },
+  {
+    "name": "Locametz",
+    "genericName": "kit for the preparation of gallium ga 68 aozetotide injection",
+    "description": "Locametz (kit for the preparation of gallium Ga 68 gozetotide injection) after radiolabeling with gallium-68, is a radioactive diagnostic agent indicated for positron emission tomography (PET) of prostate-specific membrane antigen (PSMA)-positive lesions in men with prostate cancer with suspected metastasis who are candidates for initial definitive therapy, with suspected recurrence based on elevated serum prostate-specific antigen (PSA) level, and for selection of patients with metastatic prostate cancer, for whom lutetium Lu 177 vipivotide tetraxetan PSMA-directed therapy is indicated.",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended amount of radioactivity is 111 MBq to 259 MBq (3 mCi to 7 mCi). Locametz is administered as slow intravenous injection."
+  },
+  {
+    "name": "Illuccix",
+    "genericName": "kit for the preparation of gallium ga 68 gozetotide injection",
+    "description": "Illuccix (kit for the preparation of gallium Ga 68 gozetotide injection kit), after radiolabeling with Ga 68, is indicated for positron emission tomography (PET) of prostate-specific membrane antigen (PSMA) positive lesions in men with prostate cancer with suspected metastasis who are candidates for initial definitive therapy or with suspected recurrence based on elevated serum prostate-specific antigen (PSA) level.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "In adults, the recommended amount of radioactivity to be administered for PET is 111 MBq to 259 MBq (3 mCi to 7 mCi) administered as an intravenous bolus injection."
+  },
+  {
+    "name": "MDP-25",
+    "genericName": "kit for the preparation of technetium tc 99m medronate injection",
+    "description": "MDP-25 (kit for the preparation of technetium Tc 99m medronate injection) may be used as a bone imaging agent to delineate areas of altered osteogenesis.",
+    "sideEffects": "Several cases of allergic dermatological reactions have been reported in association \n  with the use of Technetium Tc 99m Medronate. Several reactions have also been reported in association with other radiopharmaceuticals \n  of the diphosphonate class, particularly Technetium Tc 99m Medronate. These \n  are usually hypersensitivity reactions characterized by itching, various skin \n  rashes, hypotension, chills, nausea, fever, and vomiting. One death secondary \n  to cardiac arrhythmia following the administration of Technetium Tc 99m Medronate \n  has been reported. In addition, one case of cardiac arrest in a patient also \n  undergoing pulmonary function testing one and one-half hours after the performance \n  of a bone scan using Technetium Tc 99m Medronate has been reported.",
+    "warnings": "This class of compounds is known to complex cations such as calcium. Particular \n  caution should be used with patients who have, or who may be predisposed to, \n  hypocalcemia (i.e., alkalosis).",
+    "dosage": "The recommended adult dose of MDP-25, after reconstitution with oxidant-free sodium pertechnetate Tc 99m, is 370 to 740 megabecquerels (10 to 20 millicuries [200 &#956;Ci/kg]) by slow intravenous injection over a period of 30 seconds. Optimum scanning time is 1 to 4 hours post-injection."
+  },
+  {
+    "name": "Technescan",
+    "genericName": "kit for the preparation of technetium tc 99m oxidronate",
+    "description": "",
+    "sideEffects": "Hypersensitivity reactions, including life-threatening reactions, as well as nausea, vomiting and injection site reactions, have been infrequently reported with Technetium Tc 99m Oxidronate use.",
+    "warnings": "Technetium Tc 99m Oxidronate may cause life-threatening hypersensitivity reactions. Have cardiopulmonary resuscitation equipment and personnel available and monitor all patients for hypersensitivity reactions.",
+    "dosage": ""
+  },
+  {
+    "name": "Technescan HDP",
+    "genericName": "kit for the preparation of technetium tc 99m oxidronate",
+    "description": "Technescan HDP (technetium tc 99m oxidronate injection, powder, lyophilized, for solution) is a diagnostic skeletal imaging agent used to demonstrate areas of altered osteogenesis in adult and pediatric patients.",
+    "sideEffects": "Hypersensitivity reactions, including life-threatening reactions, as well as nausea, vomiting and injection site reactions, have been infrequently reported with Technetium Tc 99m Oxidronate use.",
+    "warnings": "Technetium Tc 99m Oxidronate may cause life-threatening hypersensitivity reactions. Have cardiopulmonary resuscitation equipment and personnel available and monitor all patients for hypersensitivity reactions.",
+    "dosage": "The recommended adult dose of Technescan HDP is 555 MBq (15 mCi) with a range of 370 to 740 MBq (10 to 20 mCi). The recommended pediatric dose of Technescan HDP is 7.4 MBq (0.20 mCi)/kg with a range of 7.4 to 13 MBq (0.20 to 0.35 mCi)/kg."
+  },
+  {
+    "name": "Technescan PYP",
+    "genericName": "kit for the preparation of technetium tc 99m pyrophosphate injection",
+    "description": "",
+    "sideEffects": "Several adverse reactions due to the use of Technetium Tc\n99m Pyrophosphate Injection have been reported. These were usually flushing,\nhypotension, fever, chills, nausea, vomiting and dizziness, as well as\nhypersensitivity reactions such as itching and various skin rashes.",
+    "warnings": "Reports indicate impairment of brain images using sodium\npertechnetate Tc 99m, which have been preceded by a bone image. The impairment\nmay result in false positives or false negatives. It is recommended, where\nfeasible, that brain imaging precede bone imaging procedures.",
+    "dosage": ""
+  },
+  {
+    "name": "Kitabis Pak",
+    "genericName": "tobramycin inhalation solution for oral inhalation",
+    "description": "Kitabis Pak (tobramycin) Inhalation Solution is an antibiotic used for the management of cystic fibrosis in adults and pediatric patients 6 years of age and older with P. aeruginosa.",
+    "sideEffects": "The following serious adverse reactions are described below and elsewhere in the labeling: Bronchospasm [see WARNINGS AND PRECAUTIONS] Ototoxicity [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The 300 mg/5mL dose of Kitabis Pak inhalation solution is the same for all patients regardless of age or weight."
+  },
+  {
+    "name": "Kivexa",
+    "genericName": "abacavir and lamivudine film-coated tablets",
+    "description": "Kivexa (abacavir and lamivudine) is a combination of antiviral drugs called nucleoside analogues that is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults and adolescents from 12 years of age. Epzicom is the name for the drug equivalent in the U.S.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Kivexa tablets in adults and adolescents is one tablet once daily."
+  },
+  {
+    "name": "Klaron",
+    "genericName": "sodium sulfacetamide lotion",
+    "description": "Klaron (sodium sulfacetamide) Lotion is an antibacterial used to treat acne, dandruff, seborrheic dermatitis and certain skin infections. Klaron is available in generic form.",
+    "sideEffects": "In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of Klaron Lotion was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Klaron Lotion had adverse reactions of erythema, itching, and edema. It has been reported that sodium sulfacetamide may cause local irritation, stinging, and burning. While the irritation may be transient, occasionally the use of medication has to be discontinued. To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.",
+    "warnings": "Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias. Hypersensitivity reactions may occur when a sulfonamide is readministered, irrespective of the route of administration. Sensitivity reactions have been reported in individuals with no prior history of sulfonamide hypersensitivity. At the first sign of hypersensitivity, skin rash, or other reactions, discontinue use of this preparation (see ADVERSE REACTIONS).",
+    "dosage": "The recommended dosage of Klaron is a thin layer applied to the affected area twice a day."
+  },
+  {
+    "name": "Klisyri",
+    "genericName": "tirbanibulin ointment",
+    "description": "What Is Klisyri?",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Apply Klisyri to the treatment field on the face or scalp once daily for 5 consecutive days using 1 single-dose packet per application."
+  },
+  {
+    "name": "Klonopin",
+    "genericName": "clonazepam",
+    "description": "Klonopin (Clonazepam) is a medication that belongs to the drug class benzodiazepine. Klonopin is available as a generic drug, and is prescribed for the treatment of anxiety and seizure disorders.",
+    "sideEffects": "The adverse experiences for Klonopin are provided separately for patients with seizure disorders and with panic disorder.",
+    "warnings": "Risks From Concomitant Use With Opioids",
+    "dosage": "Klonopin dose depends on the condition being treated and how the patient responds."
+  },
+  {
+    "name": "Klor-Con",
+    "genericName": "potassium chloride",
+    "description": "Klor-Con (potassium chloride) Extended-release Tablets is a mineral used to prevent or to treat low blood levels of potassium (hypokalemia). Potassium levels can be low as a result of a disease or from taking certain medicines, or after a prolonged illness with diarrhea or vomiting.",
+    "sideEffects": "One of the most severe adverse effects is hyperkalemia\n(see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE). There\nalso have been reports of upper and lower gastrointestinal conditions including\nobstruction, bleeding, ulceration and perforation (see CONTRAINDICATIONS\nand WARNINGS). The most common adverse reactions to oral potassium salts\nare nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These\nsymptoms are due to irritation of the gastrointestinal tract and are best\nmanaged by taking the dose with meals or reducing the amount taken at one time. Skin rash has been reported rarely.",
+    "warnings": "Hyperkalemia",
+    "dosage": "The dose of Klor-Con for the prevention of hypokalemia is typically in the range of 20 mEq per day. Doses of 40-100 mEq per day or more are used for the treatment of potassium depletion."
+  },
+  {
+    "name": "Kloxxado",
+    "genericName": "naloxone hydrochloride nasal spray",
+    "description": "Kloxxado (naloxone hydrochloride) Nasal Spray is an opioid antagonist indicated for the emergency treatment of known or suspected opioid overdose, as manifested by respiratory and/or central nervous system depression, for adult and pediatric patients.",
+    "sideEffects": "The following serious adverse reactions are discussed elsewhere in the labeling: Recurrent Respiratory and Central Nervous System Depression [see WARNINGS AND PRECAUTIONS] Precipitation of Severe Opioid Withdrawal [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kloxxado is for intranasal use only. Seek emergency medical care immediately after use. The dose of Kloxxado is a single spray administered to adult or pediatric patients intranasally into one nostril. Administer additional doses of Kloxxado, using a new nasal spray with each dose, if the patient does not respond or responds and then relapses into respiratory depression. Additional doses of Kloxxado may be given every 2 to 3 minutes until emergency medical assistance arrives."
+  },
+  {
+    "name": "Koate",
+    "genericName": "antihemophilic factor",
+    "description": "Koate-DVI Antihemophilic Factor (Human) is a naturally occurring protein in the blood used to treat or prevent bleeding episodes in adults and children with hemophilia A. Koate-DVI Antihemophilic Factor is also used to control bleeding related to surgery or dentistry in a person with hemophilia. Koate-DVI Antihemophilic Factor is not for use in people with von Willebrand disease.",
+    "sideEffects": "Allergic-type reactions may result from the administration of Antihemophilic\n  Factor (Human) preparations.10,11 Ten adverse reactions related to 7 infusions were observed during a total of\n  1053 infusions performed during the clinical study of Koate (antihemophilic factor) -DVI, for a frequency\n  of 0.7% infusions associated with adverse reactions. All reactions were mild\n  and included tingling in the arm, ear, and face, blurred vision, headache, nausea,\n  stomach ache, and jittery feeling.2",
+    "warnings": "Koate-DVI is made from human plasma. Products made from human plasma may\n  contain infectious agents, such as viruses, that can cause disease. The risk\n  that such products will transmit an infectious agent has been reduced by screening\n  plasma donors for prior exposure to certain viruses, by testing for the presence\n  of certain current virus infections, and by inactivating and/or removing certain\n  viruses. Despite these measures, because this product is made from human blood,\n  it may carry a risk of transmitting infectious agents, e.g., viruses, and theoretically\n  the Creutzfeldt-Jakob disease (CJD) agent. There is also the possibility that\n  unknown infectious agents may be present in such products. ALL infections thought\n  by a physician possibly to have been transmitted by this product should be reported\n  by the physician or other healthcare provider to Talecris Biotherapeutics, Inc.\n  [1-800-520-2807]. The physician should discuss the risks and benefits of this\n  product with the patient, before prescribing or administering it to a patient.",
+    "dosage": "The dosage of Koate-DVI required for hemostasis must be individualized according to the needs of the patient, the severity of the deficiency, the severity of the hemorrhage, the presence of inhibitors, and the factor VIII level desired."
+  },
+  {
+    "name": "Kogenate FS",
+    "genericName": "antihemophilic factor (recombinant)",
+    "description": "Kogenate FS [Antihemophilic Factor (Recombinant) Formulated with Sucrose] is a naturally occurring protein in the blood that helps blood to clot (coagulation factor) used to treat or prevent bleeding episodes in adults and children with hemophilia A. Kogenate FS is also used to control bleeding related to surgery or dentistry in a person with hemophilia, and to prevent joint damage in people age 16 or older with severe hemophilia A and no prior joint damage. Kogenate FS is not for use in people with von Willebrand disease. Kogenate FS is available in generic form.",
+    "sideEffects": "The most serious adverse reactions\nare systemic hypersensitivity reactions including bronchospastic reactions\nand/or hypotension and anaphylaxis and the development of high-titer inhibitors\nnecessitating alternative treatments to AHF. The most common adverse\nreactions observed in clinical trials (frequency  ≥  4% of patients) are inhibitor\nformation in previously untreated patients (PUPs) and minimally treated\npatients (MTPs), skin-related hypersensitivity reactions (e.g., rash,\n pruritus), infusion site reactions (e.g., inflammation, pain), and central\nvenous access device (CVAD) line-associated infections in patients requiring a\nCVAD for intravenous administration.",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "Dosage and duration of Kogenate FS treatment depends on the severity of the factor VIII deficiency, the location and extent of bleeding, and the patient's clinical condition."
+  },
+  {
+    "name": "Kombiglyze XR",
+    "genericName": "saxagliptin and metformin hcl extended-release",
+    "description": "Kombiglyze XR (saxagliptin and metformin hydrochloride) Extended-release Tablets is a combination drug indicated, along with diet and exercise, as a treatment for type 2 diabetes in adults. Kombiglyze XR is NOT indicated for use in type 1 diabetics or diabetic ketoacidosis. Kombiglyze XR is a combination of two prescription medications called saxagliptin and metformin hydrochloride that are available as generic drugs.",
+    "sideEffects": "The following serious adverse reactions are described\nbelow or elsewhere in the prescribing information: Pancreatitis [see WARNINGS AND PRECAUTIONS] Heart Failure [see WARNINGS AND PRECAUTIONS] Hypoglycemia with Concomitant Use of Sulfonylurea or\n    Insulin [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND\n    PRECAUTIONS] Severe and disabling arthralgia [see WARNINGS AND\n    PRECAUTIONS] Bullous pemphigoid [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dosage of Kombiglyze XR is individualized on the basis of the patient's current regimen, effectiveness, and tolerability."
+  },
+  {
+    "name": "Konvomep",
+    "genericName": "omeprazole and sodium bicarbonate for oral suspension",
+    "description": "Konvomep (omeprazole and sodium bicarbonate for oral suspension) is a combination of a proton pump inhibitor (PPI) and sodium bicarbonate indicated in adults for treatment of active benign gastric ulcer and for reduction of risk of upper gastrointestinal (GI) bleeding in critically ill patients.",
+    "sideEffects": "The following serious adverse reactions are described below and elsewhere in labeling: Acute Tubulointerstitial Nephritis [see WARNINGS AND PRECAUTIONS]. Clostridium difficile-Associated Diarrhea [see WARNINGS AND PRECAUTIONS]. Bone Fracture [see WARNINGS AND PRECAUTIONS]. Severe Cutaneous Adverse Reactions [see WARNINGS AND PRECAUTIONS]. Cutaneous and Systemic Lupus Erythematosus [see WARNINGS AND PRECAUTIONS]. Cyanocobalamin (Vitamin B-12) Deficiency [see WARNINGS AND PRECAUTIONS]. Hypomagnesemia and Mineral Metabolism [see WARNINGS AND PRECAUTIONS]. Fundic Gland Polyps [see WARNINGS AND PRECAUTIONS].",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended doses of Konvomep are based upon the omeprazole content."
+  },
+  {
+    "name": "Konyne",
+    "genericName": "factor ix complex",
+    "description": "Konyne (factor IX complex) 80 is a clotting factor used to treat or prevent bleeding in people with hemophilia B. Some forms of factor IX complex may also be used to treat or prevent bleeding in people with factor VII deficiency or inhibitors to factor VIII. Konyne is available in generic form.",
+    "sideEffects": "In some patients the rapid administration of Konyne (factor ix complex)  80 can cause transient fever, chills, headache, flushing or tingling.",
+    "warnings": "1. Hepatitis and Viral Diseases  \nKonyne (factor ix complex)  80 is made from human plasma. Products made from human plasma may contain infectious agents, such as viruses, that can cause disease. The risk that such products will transmit an infectious agent has been reduced by screening plasma donors for prior exposure to certain viruses, by testing for the presence of certain current virus infections, and by inactivating certain viruses. Despite these measures, such products can still potentially transmit disease. There is also the possibility that unknown infectious agents may be present in such products. ALL infections thought by a physician possibly to have been transmitted by this product should be reported by the physician or other healthcare provider to Bayer Corporation [1-888-765-3203]. The physician should discuss the risks and benefits of this product with the patient, before prescribing or administering it to the patient.  \nIndividuals who receive infusions of blood or plasma products may develop signs and/or symptoms of some viral infections, particularly hepatitis C. It is emphasized that hepatitis B vaccination is essential for patients with hemophilia and it is recommended that this be done at birth or diagnosis. 19,20 Hepatitis A vaccination is also recommended for hemophilic patients who are hepatitis A seronegative.  \n2 Thrombosis  \nCases of patients developing postoperative thrombosis after treatment with Factor IX Complex have been described. Although thrombosis is a well-known risk of the postoperative period, it is found to be greater in these patients. 13-15 No other data are presently available. Until further surveys and more conclusive studies are available, Konyne (factor ix complex)  80 is only advised for patients undergoing elective surgery where the expected beneficial effects of its use outweigh the increased risk of the possibility of thrombosis. This applies especially to those who may be predisposed to thrombosis. Do not use in cases of known liver disease where there is any suspicion of intravascular coagulation or fibrinolysis.",
+    "dosage": "The dose of Konyne 80 required for normalizing hemostasis will depend upon the patient and upon the circumstances."
+  },
+  {
+    "name": "Korlym",
+    "genericName": "mifepristone",
+    "description": "Korlym (mifepristone) is a cortisol receptor blocker indicated to control high blood sugar levels (hyperglycemia) in adults with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and have failed surgery or are not candidates for surgery.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended starting dose of Korlym is 300 mg once daily.  Because of risk of renal impairment, 600 mg once daily should not be exceeded."
+  },
+  {
+    "name": "Korsuva",
+    "genericName": "difelikefalin injection",
+    "description": "What Is Korsuva?",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Dizziness, Somnolence, Mental Status Changes, and Gait Disturbances [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": ""
+  },
+  {
+    "name": "Koselugo",
+    "genericName": "selumetinib capsules",
+    "description": "Koselugo (selumetinib) is a kinase inhibitor indicated for the treatment of pediatric patients 2 years of age and older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN).",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Cardiomyopathy [see WARNINGS AND PRECAUTIONS] Ocular toxicity [see WARNINGS AND PRECAUTIONS] Gastrointestinal toxicity [see WARNINGS AND PRECAUTIONS] Skin toxicity [see WARNINGS AND PRECAUTIONS] Increased creatine phosphokinase [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dosage of Koselugo is 25 mg/m2 taken orally twice daily on an empty stomach. Do not consume food 2 hours before each dose or 1 hour after each dose."
+  },
+  {
+    "name": "Kovaltry",
+    "genericName": "antihemophilic factor (recombinant) for intravenous administration",
+    "description": "Kovaltry [Antihemophilic Factor (Recombinant)] Lyophilized Powder for Solution for Intravenous Injection is a recombinant, human DNA sequence derived, full length Factor VIII concentrate indicated for use in adults and children with hemophilia A (congenital Factor VIII deficiency) for on-demand treatment and control of bleeding episodes, perioperative management of bleeding, and routine prophylaxis to reduce the frequency of bleeding episodes. Kovaltry is not indicated for the treatment of von Willebrand disease.",
+    "sideEffects": "The most frequently reported adverse reactions in\nclinical trials ( ≥ 3%) were headache, pyrexia, and pruritus (see Table 3).",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "Dosage and duration of treatment with Kovaltry depends on the severity of the Factor VIII deficiency, the location and extent of bleeding, and the patient's clinical condition."
+  },
+  {
+    "name": "Kovanaze",
+    "genericName": "tetracaine hcl and oxymetazoline hc nasal spray",
+    "description": "Kovanaze (tetracaine HCl and oxymetazoline HCl) Nasal Spray contains an ester local anesthetic and a vasoconstrictor and is indicated for regional anesthesia when performing a restorative procedure on Teeth 4-13 and A-J in adults and children who weigh 40 kg or more.",
+    "sideEffects": "The following adverse reactions are described elsewhere\nin the labeling: Methemoglobinemia [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Epistaxis [see WARNINGS AND PRECAUTIONS] Dysphagia [see WARNINGS AND PRECAUTIONS] Anaphylatic Reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dose of Kovanaze Nasal Spray in adults and children who weigh 40 kg or more is 2 sprays (0.2 mL per spray), 4 to 5 minutes apart. Adults over 18 years may receive 1 additional spray (0.2 mL) if adequate anesthesia has not been achieved 10 minutes after the second spray."
+  },
+  {
+    "name": "Krazati",
+    "genericName": "adagrasib tablets",
+    "description": "Krazati (adagrasib) is an inhibitor of the RAS GTPase family indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA approved test, who have received at least one prior systemic therapy.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Gastrointestinal Adverse Reactions [see WARNINGS AND PRECAUTIONS] QTc Interval Prolongation [see WARNINGS AND PRECAUTIONS] Hepatotoxicity [see WARNINGS AND PRECAUTIONS] Interstitial Lung Disease (ILD)/Pneumonitis [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dosage of Krazati is 600 mg orally twice daily until disease progression or unacceptable toxicity."
+  },
+  {
+    "name": "Krintafel",
+    "genericName": "tafenoquine tablets",
+    "description": "Krintafel (tafenoquine) is an antimalarial indicated for the radical cure (prevention of relapse) of Plasmodium vivax malaria in patients aged 16 years and older who are receiving appropriate antimalarial therapy for acute P. vivax infection.",
+    "sideEffects": "The following clinically significant adverse reactions have been observed with KRINTAFEL and are discussed in detail in the Warnings and Precautions section: Hemolytic anemia [see WARNINGS AND PRECAUTIONS] Methemoglobinemia [see WARNINGS AND PRECAUTIONS] Psychiatric effects [see WARNINGS AND PRECAUTIONS] Hypersensitivity reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Krintafel in patients aged 16 years and older is a single dose of 300 mg administered as two 150 -mg Krintafel tablets taken together with food. Coadminister Krintafel on the first or second day of the appropriate antimalarial therapy for the acute P. vivax malaria."
+  },
+  {
+    "name": "Kristalose",
+    "genericName": "kristalose lactulose oral solution",
+    "description": "Kristalose (lactulose) For Oral Solution is a synthetic disaccharide indicated for the treatment of constipation.",
+    "sideEffects": "Precise frequency data are not available. Initial dosing may produce flatulence and intestinal\ncramps, which are usually transient. Excessive dosage can lead to diarrhea with\npotential complications such as loss of fluids, hypokalemia, and hypernatremia. Nausea and vomiting have been reported.",
+    "warnings": "A theoretical hazard may exist for patients being treated\nwith lactulose who may be required to undergo electrocautery procedures during\nproctoscopy or colonoscopy. Accumulation of H2 gas in significant\nconcentration in the presence of an electrical spark may result in an explosive\nreaction. Although this complication has not been reported with lactulose,\npatients on lactulose therapy undergoing such procedures should have a thorough\nbowel cleansing with a non-fermentable solution. Insufflation of C02\nas an additional safeguard may be pursued but is considered to be a redundant\nmeasure.",
+    "dosage": "The usual adult dosage of Kristalose is 10 g to 20 g of lactulose daily. The dose of Kristalose may be increased to 40 g daily if necessary. Twenty-four to 48 hours may be required to produce a normal bowel movement."
+  },
+  {
+    "name": "Kristalose",
+    "genericName": "kristalose lactulose oral solution",
+    "description": "Kristalose (lactulose) For Oral Solution is a synthetic disaccharide indicated for the treatment of constipation.",
+    "sideEffects": "Precise frequency data are not available. Initial dosing may produce flatulence and intestinal\ncramps, which are usually transient. Excessive dosage can lead to diarrhea with\npotential complications such as loss of fluids, hypokalemia, and hypernatremia. Nausea and vomiting have been reported.",
+    "warnings": "A theoretical hazard may exist for patients being treated\nwith lactulose who may be required to undergo electrocautery procedures during\nproctoscopy or colonoscopy. Accumulation of H2 gas in significant\nconcentration in the presence of an electrical spark may result in an explosive\nreaction. Although this complication has not been reported with lactulose,\npatients on lactulose therapy undergoing such procedures should have a thorough\nbowel cleansing with a non-fermentable solution. Insufflation of C02\nas an additional safeguard may be pursued but is considered to be a redundant\nmeasure.",
+    "dosage": "The usual adult dosage of Kristalose is 10 g to 20 g of lactulose daily. The dose of Kristalose may be increased to 40 g daily if necessary. Twenty-four to 48 hours may be required to produce a normal bowel movement."
+  },
+  {
+    "name": "Krystexxa",
+    "genericName": "pegloticase injection",
+    "description": "Krystexxa (pegloticase) Injection for Intravenous Infusion is an enzyme that metabolizes uric acid into a harmless chemical that is eliminated from the body in urine and is used to treat chronic gout. Krystexxa is usually given after other gout medications have been tried without successful treatment of symptoms.",
+    "sideEffects": "The following serious adverse reactions are discussed in greater detail in other sections of the label: Anaphylaxis [see WARNINGS AND PRECAUTIONS] Infusion Reactions [see WARNINGS AND PRECAUTIONS] G6PD Deficiency Associated Hemolysis and Methemoglobinemia [see WARNINGS AND PRECAUTIONS] Gout Flares [see WARNINGS AND PRECAUTIONS] Congestive Heart Failure [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose and regimen of Krystexxa for adult patients is 8 mg (uricase protein) given as an intravenous infusion every two weeks."
+  },
+  {
+    "name": "Kuric",
+    "genericName": "ketoconazole",
+    "description": "Kuric (ketoconazole) 2% cream is an antifungal drug indicated for the topical treatment of ringworm (tinea corporis), jock itch (tinea cruris), athlete's foot (tinea pedis), candidiasis (yeast), and seborrheic dermatitis. Kuric is available in generic form.",
+    "sideEffects": "During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole \n  Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects \n  consisting mainly of severe irritation, pruritus and stinging. One of the patients \n  treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have \n  been associated with Ketoconazole Cream or one of its excipients, namely sodium \n  sulfite or propylene glycol.",
+    "warnings": "Kuric™ is not for ophthalmic use.",
+    "dosage": "Kuric is available as a 2% strength cream in a 75 g tube. It is recommended that Kuric be applied once daily to cover the affected and immediate surrounding area. Improvement may be seen fairly soon after treatment is begun; however, candidal (yeast) infections, jock itch, and ringworm should be treated for two weeks in order to reduce the possibility of recurrence. Patients with tinea versicolor usually require two weeks of treatment. Patients with athlete's foot require six weeks of treatment."
+  },
+  {
+    "name": "Kurvelo",
+    "genericName": "levonorgestrel and ethinyl estradiol tablets",
+    "description": "Kurvelo (levonorgestrel and ethinyl estradiol) is an oral contraceptive indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception. Kurvelo is available in generic form.",
+    "sideEffects": "An increased risk of the following serious adverse reactions (see WARNINGS section for additional\ninformation) has been associated with the use of oral contraceptives: Thromboembolic disorders and other vascular problems (including thrombophlebitis, arterial\nthromboembolism, pulmonary embolism, myocardial infarction, cerebral hemorrhage, cerebral\nthrombosis), carcinoma of the reproductive organs, hepatic neoplasia (including hepatic adenomas or\nbenign liver tumors), ocular lesions (including retinal vascular thrombosis), gallbladder disease,\ncarbohydrate and lipid effects, elevated blood pressure, and headache. The following adverse reactions have been reported in patients receiving oral contraceptives and are\nbelieved to be drug-related: Nausea\nVomiting\nGastrointestinal symptoms (such as abdominal pain, cramps and bloating)\nBreakthrough bleeding\nSpotting\nChange in menstrual flow\nAmenorrhea\nTemporary infertility after discontinuation of treatment\nEdema/fluid retention\nMelasma/chloasma which may persist\nBreast changes: tenderness, pain, enlargement, secretion\nChange in weight or appetite (increase or decrease)\nChange in cervical erosion and secretion\nDiminution in lactation when given immediately postpartum\nCholestatic jaundice\nRash (allergic)\nMood changes, including depression\nVaginitis, including candidiasis\nChange in corneal curvature (steepening)\nIntolerance to contact lenses\nMesenteric thrombosis\nDecrease in serum folate levels\nExacerbation of systemic lupus erythematosus\nExacerbation of porphyria\nExacerbation of chorea\nAggravation of varicose veins Anaphylactic/anaphylactoid reactions, including urticaria, angioedema, and severe reactions with\nrespiratory and circulatory symptoms. The following adverse reactions have been reported in users of oral contraceptives, and the association\nhas been neither confirmed nor refuted: Congenital anomalies\nPremenstrual syndrome\nCataracts\nOptic neuritis, which may lead to partial or complete loss of vision\nCystitis-like syndrome\nNervousness\nDizziness\nHirsutism\nLoss of scalp hair\nErythema multiforme\nErythema nodosum\nHemorrhagic eruption\nImpaired renal function\nHemolytic uremic syndrome\nBudd-Chiari syndrome\nAcne\nChanges in libido\nColitis\nSickle-cell disease\nCerebral-vascular disease with mitral valve prolapse\nLupus-like syndromes\nPancreatitis\nDysmenorrhea",
+    "warnings": "Cigarette smoking increases the risk of serious cardiovascular side effects from oral\ncontraceptive use. This risk increases with age and with the extent of smoking (in\nepidemiologic studies, 15 or more cigarettes per day was associated with a significantly\nincreased risk) and is quite marked in women over 35 years of age. Women who use oral\ncontraceptives should be strongly advised not to smoke.",
+    "dosage": "To achieve maximum contraceptive effectiveness, Kurvelo must be taken exactly as directed and at intervals not exceeding 24 hours. The dosage of Kurvelo is one light orange tablet daily for 21 consecutive days, followed by one pink inert tablet daily for 7 consecutive days, according to prescribed schedule."
+  },
+  {
+    "name": "Kuvan",
+    "genericName": "saproterin dihydrochloride tablets",
+    "description": "Kuvan (saproterin dihydrochloride tablets) is a synthetic form of a natural salt that contributes to the function of a certain enzyme in the body used to help the body activate the enzyme needed to control blood levels of phenylalanine. Kuvan is used in people with phenylketonuria (PKU).",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended starting dose of Kuvan is 10 mg/kg/day taken once daily."
+  },
+  {
+    "name": "Kybella",
+    "genericName": "deoxycholic acid injection",
+    "description": "Kybella (deoxycholic acid) injection contains a cytolytic agent used to improve the appearance of moderate to severe convexity or fullness associated with submental (under the chin) fat in adults.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "A single treatment of Kybella consists of up to a maximum of 50 injections, 0.2 mL dose each (up to a total of 10 mL), spaced 1-cm apart. Up to 6 single treatments may be administered at intervals no less than 1 month apart."
+  },
+  {
+    "name": "Kyleena",
+    "genericName": "levonorgestrel",
+    "description": "Kyleena (levonorgestrel-releasing intrauterine system) is a progestin-containing intrauterine system (IUS) indicated for prevention of pregnancy for up to 5 years.",
+    "sideEffects": "The following serious or otherwise important adverse reactions are discussed elsewhere in the labeling: Ectopic Pregnancy [see WARNINGS AND PRECAUTIONS] Intrauterine Pregnancy [see WARNINGS AND PRECAUTIONS] Group A Streptococcal Sepsis (GAS) [see WARNINGS AND PRECAUTIONS] Pelvic Inflammatory Disease [see WARNINGS AND PRECAUTIONS] Perforation [see WARNINGS AND PRECAUTIONS] Expulsion [see WARNINGS AND PRECAUTIONS] Ovarian Cysts [see WARNINGS AND PRECAUTIONS] Bleeding Pattern Alterations [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kyleena is inserted by a trained healthcare provider. The release rate of levonorgestrel (LNG) in Kyleena is 17.5 mcg/day after 24 days and declines to 7.4 mcg/day after 5 years; Kyleena must be removed or replaced after 5 years."
+  },
+  {
+    "name": "Kymriah",
+    "genericName": "tisagenlecleucel suspension for intravenous infusion",
+    "description": "Kymriah (tisagenlecleucel) is aCD19-directed genetically modified autologous T cell immunotherapy indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse.",
+    "sideEffects": "The following serious adverse reactions are discussed in greater detail in another section of the label: Cytokine Release Syndrome [see WARNINGS AND PRECAUTIONS] Neurological Toxicities [see WARNINGS AND PRECAUTIONS] Hemophagocytic Lymphohistiocytosis (HLH)/Macrophage Activation Syndrome (MAS) [see WARNINGS AND PRECAUTIONS] Infections and Febrile Neutropenia [see WARNINGS AND PRECAUTIONS] Prolonged Cytopenias [see WARNINGS AND PRECAUTIONS] Hypogammaglobulinemia [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Dosing of Kymriah is based on the number of chimeric antigen receptor (CAR) positive viable T cells. For patients 50 kg or less, administer 0.2 to 5.0x 106  CAR-positive viable T cells per kg bodyweight intravenously. For patients above 50 kg, administer 0.1 to 2.5 x 108 total CAR-positive viable T cells (non-weight based) intravenously."
+  },
+  {
+    "name": "Kynamro",
+    "genericName": "mipomersen sodium injection",
+    "description": "Kynamro (mipomersen sodium) Injection is an oligonucleotide inhibitor of apo B-100 synthesis used as an adjunct to lipid-lowering medications and diet to reduce low density lipoprotein-cholesterol (LDL-C), apolipoprotein B (apo B), total cholesterol (TC), and non-high density lipoprotein-cholesterol (non-HDL-C) in patients with homozygous familial hypercholesterolemia (HoFH).",
+    "sideEffects": "The following important adverse reactions have been observed and are discussed in detail in other sections of the label: Risk of hepatotoxicity [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Kynamro is 200 mg once weekly as a subcutaneous injection."
+  },
+  {
+    "name": "Kynmobi",
+    "genericName": "apomorphine hydrochloride sublingual film",
+    "description": "Kynmobi (apomorphine hydrochloride) is a non-ergoline dopamine agonist indicated for the acute, intermittent treatment of \"off\" episodes in patients with Parkinson's disease",
+    "sideEffects": "The following serious adverse reactions are discussed in more detail in the Warnings and Precautions section of labeling: Nausea and Vomiting [see WARNINGS AND PRECAUTIONS] Falling Asleep During Activities of Daily Living and Somnolence [see WARNINGS AND PRECAUTIONS] Hypersensitivity [see WARNINGS AND PRECAUTIONS] Syncope/Hypotension/Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS] Oral Mucosal Irritation [see WARNINGS AND PRECAUTIONS] Falls [see WARNINGS AND PRECAUTIONS] Hallucinations/Psychotic Behavior [see WARNINGS AND PRECAUTIONS] Hemolytic Anemia [see WARNINGS AND PRECAUTIONS] Impulse Control/Compulsive Behaviors [see WARNINGS AND PRECAUTIONS] Withdrawal-Emergent Hyperpyrexia and Confusion [see WARNINGS AND PRECAUTIONS] QTc Prolongation and Potential for Proarrhythmic Effects [see WARNINGS AND PRECAUTIONS] Fibrotic Complications [see WARNINGS AND PRECAUTIONS] Priapism [see WARNINGS AND PRECAUTIONS] Retinal Pathology in Albino Rats [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dose range for Kynmobi is 10 mg to 30 mg per dose, administered sublingually, as needed."
+  },
+  {
+    "name": "Kyprolis",
+    "genericName": "carfilzomib",
+    "description": "Kyprolis (carfilzomib) is an antineoplastic agent indicated to treat patients with multiple myeloma who have received at least two prior therapies, including treatment with Velcade (bortezomib) and an immunomodulatory therapy.",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: Cardiac Toxicities [see WARNINGS AND PRECAUTIONS] Acute Renal Failure [see WARNINGS AND PRECAUTIONS] Tumor Lysis Syndrome [see WARNINGS AND PRECAUTIONS] Pulmonary Toxicity [see WARNINGS AND PRECAUTIONS] Pulmonary Hypertension [see WARNINGS AND PRECAUTIONS] Dyspnea [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Venous Thrombosis [see WARNINGS AND PRECAUTIONS] Infusion-Related Reactions [see WARNINGS AND PRECAUTIONS] Hemorrhage [see WARNINGS AND PRECAUTIONS] Thrombocytopenia [see WARNINGS AND PRECAUTIONS] Hepatic Toxicity and Hepatic Failure [see WARNINGS AND PRECAUTIONS] Thrombotic Microangiopathy [see WARNINGS AND PRECAUTIONS] Posterior Reversible Encephalopathy Syndrome [see WARNINGS AND PRECAUTIONS] Progressive Multifocal Leukoencephalopathy [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Kyprolis is administered intravenously over 2 to 10 minutes, on two consecutive days each week for three weeks, followed by a 12-day rest period. The recommended cycle 1 dose is 20 mg/m2/day and if tolerated increase cycle 2 dose and subsequent cycles doses to 27 mg/m2/day."
+  },
+  {
+    "name": "Kytril",
+    "genericName": "granisetron",
+    "description": "Kytril (granisetron hydrochloride) is an antinauseant and antiemetic drug used to prevent nausea and vomiting caused by cancer chemotherapy or radiation therapy, and anesthesia used during surgery. The brand name Kytril is discontinued in the U.S. It may be available in generic form.",
+    "sideEffects": "QT prolongation has been reported with KYTRIL (see PRECAUTIONS \n  and DRUG INTERACTIONS).",
+    "warnings": "No information provided.",
+    "dosage": "The recommended adult dosage of oral granisetron hydrochloride is 2 mg once daily or 1 mg twice daily. In the 2 mg once-daily regimen, two 1 mg tablets or 10 mL of granisetron Oral Solution (2 teaspoonfuls, equivalent to 2 mg of granisetron) are given up to 1 hour before chemotherapy."
+  },
+  {
+    "name": "Kytril Injection",
+    "genericName": "granisetron hydrochloride",
+    "description": "Kytril (granisetron hydrochloride) Injection is a serotonin-3 (5-HT3) receptor antagonist used alone or with other medications to prevent nausea and vomiting caused by cancer drug treatment (chemotherapy). Kytril Injection is also used to prevent and treat nausea and vomiting after surgery in adults. The brand name Kytril Injection is discontinued, but generic versions may be available.",
+    "sideEffects": "QT prolongation has been reported with KYTRIL [see WARNINGS AND PRECAUTIONS\n  and DRUG INTERATIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended adult dosage for Kytril Injection is 10 mcg/kg administered intravenously within 30 minutes before initiation of chemotherapy, and only on the day(s) chemotherapy is given."
+  },
+  {
+    "name": "Kyzatrex",
+    "genericName": "testosterone undecanoate capsules",
+    "description": "Kyzatrex (testosterone undecanoate) is an androgen indicated for testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone.",
+    "sideEffects": "The following clinically significant adverse reactions are discussed elsewhere in the labeling: Increase in Blood Pressure [see WARNINGS AND PRECAUTIONS] Polycythemia [see WARNINGS AND PRECAUTIONS] Cardiovascular Risk [see WARNINGS AND PRECAUTIONS] Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer [see WARNINGS AND PRECAUTIONS] Venous Thromboembolism [see WARNINGS AND PRECAUTIONS] Hepatic Adverse Effects [see WARNINGS AND PRECAUTIONS] Edema [see WARNINGS AND PRECAUTIONS] Sleep Apnea [see WARNINGS AND PRECAUTIONS] Gynecomastia [see WARNINGS AND PRECAUTIONS] Lipid Changes [see WARNINGS AND PRECAUTIONS] Hypercalcemia [see WARNINGS AND PRECAUTIONS] Decreased Thyroxine-binding Globulin [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The starting dosage of Kyzatrex is 200 mg orally once in the morning and once in the evening. The dosage of Kyzatrex is individualized based on the patient’s serum testosterone concentration response to the drug. The dosage of Kyzatrex may be adjusted to a minimum of 100 mg once in the morning and a maximum of 400 mg twice daily based on serum testosterone drawn 3 to 5 hours after the morning dose at least 7 days after starting treatment or following dose adjustment and periodically thereafter."
+  }
+]

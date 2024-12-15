@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Qalsody",
+    "genericName": "tofersen injection, for intrathecal use",
+    "description": "Qalsody (tofersen) is an antisense oligonucleotide indicated for the treatment of amyotrophic lateral sclerosis (ALS) in adults who have a mutation in the superoxide dismutase 1 (SOD1) gene.",
+    "sideEffects": "The following clinically significant adverse reactions are discussed elsewhere in the labeling: Myelitis and/or Radiculitis [see WARNINGS AND PRECAUTIONS] Papilledema and Elevated Intracranial Pressure [see WARNINGS AND PRECAUTIONS] Aseptic Meningitis [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Qalsody is 100 milligrams (15 mL) per administration. Qalsody treatment is initiated with 3 loading doses administered at 14-day intervals. A maintenance dose should be administered once every 28 days thereafter."
+  },
+  {
+    "name": "Qbrelis",
+    "genericName": "lisinopril",
+    "description": "Qbrelis (lisinopril) is an oral long-acting angiotensin converting enzyme (ACE) inhibitor indicated for the treatment of hypertension in adult patients and pediatric patients 6 years of age and older to lower blood pressure. Qbrelis is available in generic form.",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended initial adult dose of Qbrelis is 10 mg taken orally once a day. Adjust dosage as needed according to blood pressure response. The usual dosage range of Qbrelis is 20 to 40 mg per day administered in a single daily dose."
+  },
+  {
+    "name": "Qbrexza",
+    "genericName": "glycopyrronium cloth, 2.4%, for topical use",
+    "description": "Qbrexza (glycopyrronium) Cloth is an anticholinergic indicated for topical treatment of primary axillary hyperhidrosis (sweaty underarms) in adults and pediatric patients 9 years of age and older.",
+    "sideEffects": "The following adverse reactions are described in greater detail in other sections New or Worsening Urinary Retention [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Dosage of Qbrexza is a single-use cloth pre-moistened with 2.4% glycopyrronium solution. Qbrexza is for topical use in the underarm area only and not for use in other body areas."
+  },
+  {
+    "name": "Qdolo",
+    "genericName": "tramadol hydrochloride oral solution",
+    "description": "Qdolo (tramadol hydrochloride) is an opioid agonist used in adults to manage pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.",
+    "sideEffects": "The following serious adverse reactions are described, or described in greater detail, in other sections: Addiction, Abuse, and Misuse [see WARNINGS AND PRECAUTIONS] Life-Threatening Respiratory Depression [see WARNINGS AND PRECAUTIONS] Interactions with Benzodiazepines or Other CNS Depressants [see WARNINGS AND PRECAUTIONS] Neonatal Opioid Withdrawal Syndrome [see WARNINGS AND PRECAUTIONS] Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children [see WARNINGS AND PRECAUTIONS] Opioid-Induced Hyperalgesia and Allodynia [see WARNINGS AND PRECAUTIONS] Serotonin Syndrome [see WARNINGS AND PRECAUTIONS] Seizures [see WARNINGS AND PRECAUTIONS] Suicide [see WARNINGS AND PRECAUTIONS] Adrenal Insufficiency [see WARNINGS AND PRECAUTIONS] Severe Hypotension [see WARNINGS AND PRECAUTIONS] Gastrointestinal Adverse Reactions [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Withdrawal [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The starting dose of Qdolo is 25 mg/day, titrated in 25 mg increments as separate doses every 3 days to reach 100 mg/day (25 mg four times a day). Thereafter the total daily dose may be increased by 50 mg as tolerated every 3 days to reach 200 mg /day (50 mg four times a day). After titration, Qdolo 50 mg to 100 mg can be administered as needed for pain relief every 4 to 6 hours not to exceed 400 mg/day."
+  },
+  {
+    "name": "Qelbree",
+    "genericName": "viloxazine extended-release capsules",
+    "description": "Qelbree (viloxazine extended-release capsules) is a selective norepinephrine reuptake inhibitor (SNRI) used to treat Attention Deficit Hyperactivity Disorder (ADHD) in pediatric patients 6 to 17 years of age.",
+    "sideEffects": "The following serious adverse reactions are described in other sections of the labeling: Suicidal Thoughts and Behaviors [see WARNINGS AND PRECAUTIONS] Blood Pressure and Heart Rate Increases [see WARNINGS AND PRECAUTIONS] Activation of Mania or Hypomania [see WARNINGS AND PRECAUTIONS] Somnolence and Fatigue [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended starting dosage of Qelbree for pediatric patients 6 to 11 years of age is 100 mg once daily. The dose may be adjusted in increments of 100 mg weekly to the maximum recommended dosage of 400 mg once daily."
+  },
+  {
+    "name": "Qinlock",
+    "genericName": "ripretinib  tablets",
+    "description": "Qinlock (ripretinib) is a kinase inhibitor indicated for the treatment of adult patients with advanced gastrointestinal stromal tumor (GIST) who have received prior treatment with 3 or more kinase inhibitors, including imatinib.",
+    "sideEffects": "The following clinically significant adverse reactions are discussed elsewhere in the labeling: Palmar-Plantar Erythrodysesthesia Syndrome [see WARNINGS AND PRECAUTIONS] New Primary Cutaneous Malignancies [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Cardiac Dysfunction [see WARNINGS AND PRECAUTIONS] Photosensitivity [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dosage of Qinlock is 150 mg orally once daily with or without food."
+  },
+  {
+    "name": "Qlosi",
+    "genericName": "pilocarpine hydrochloride ophthalmic solution",
+    "description": "Qlosi (pilocarpine hydrochloride ophthalmic solution) 0.4% is a cholinergic agonist indicated for the treatment of presbyopia in adults.",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The dose of Qlosi is one drop instilled in each eye. This can be repeated a second time after 2 to 3 hours for an effect up to 8 hours. Qlosi can be administered on a daily basis, or as needed, up to twice each day."
+  },
+  {
+    "name": "Qmiiz-ODT",
+    "genericName": "meloxicam orally disintegrating tablets",
+    "description": "QMIIZ ODT (meloxicam) is a nonsteroidal anti-inflammatory drug indicated for osteoarthritis (OA) in adults, rheumatoid arthritis (RA) in adults, and juvenile rheumatoid arthritis (JRA) pauciarticular and polyarticular course, in pediatric patients who weigh greater than or equal to 60 kg.",
+    "sideEffects": "The following adverse reactions are discussed in greater detail in other sections of the labeling: Cardiovascular Thrombotic Events [see BOXED WARNING and WARNINGS AND PRECAUTIONS] GI Bleeding, Ulceration, and Perforation [see BOXED WARNING and WARNINGS AND PRECAUTIONS] Hepatotoxicity [see WARNINGS AND PRECAUTIONS] Hypertension [see WARNINGS AND PRECAUTIONS] Heart Failure and Edema [see WARNINGS AND PRECAUTIONS] Renal Toxicity and Hyperkalemia [see WARNINGS AND PRECAUTIONS] Anaphylactic Reactions [see WARNINGS AND PRECAUTIONS] Serious Skin Reactions [see WARNINGS AND PRECAUTIONS] Hematologic Toxicity [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The starting dose of QMIIZ ODT to treat OA or RA is 7.5 mg once daily. The dose may be increased to 15 mg once daily. The starting dose of QMIIZ ODT to treat JRA is 7.5 mg once daily in children greater than or equal to 60 kg."
+  },
+  {
+    "name": "Qnasl",
+    "genericName": "beclomethasone dipropionate nasal aerosol",
+    "description": "Qnasl (beclocmethasone dipropionate) nasal aerosol is a corticosteroid used to treat nasal symptoms associated with seasonal and perennial allergic rhinitis for patients who are 12 years of age or older.",
+    "sideEffects": "Systemic and local corticosteroid use may result in the following: Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound\nhealing [see WARNINGS AND PRECAUTIONS] Eye Disorders [see WARNINGS AND PRECAUTIONS] Hypercorticism, adrenal suppression, and growth reduction [see WARNINGS AND PRECAUTIONS\n, Use In Specific Populations] Immunosuppression [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Qnasl nasal aerosol is 320 mcg per day divided into 2 nasal aerosol sprays per nostril once a day."
+  },
+  {
+    "name": "Qoliana",
+    "genericName": "brimonidine tartrate ophthalmic solution",
+    "description": "Qoliana (brimonidine tartrate ophthalmic solution) is a selective alpha-2-adrenergic agonist used for the lowering of intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Qoliana is available in generic form.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": ""
+  },
+  {
+    "name": "Qsymia",
+    "genericName": "phentermine and topiramate",
+    "description": "Qsymia (phentermine and topiramate extended-release) is a combination appetite suppressant/stimulant and seizure medication indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management in overweight and obese adults.",
+    "sideEffects": "The following important adverse reactions are described elsewhere in the labeling: Embryo-Fetal Toxicity [see WARNINGS AND PRECAUTIONS and Use In Specific Populations] Increase in Heart Rate [see WARNINGS AND PRECAUTIONS] Suicidal Behavior and Ideation [see WARNINGS AND PRECAUTIONS] Risk of Ophthalmologic Adverse Reactions [see WARNINGS AND PRECAUTIONS] Mood and Sleep Disorders [see WARNINGS AND PRECAUTIONS] Cognitive Impairment [see WARNINGS AND PRECAUTIONS] Slowing of Linear Growth [see WARNINGS AND PRECAUTIONS] Metabolic Acidosis [see WARNINGS AND PRECAUTIONS] Decrease in Renal Function [see WARNINGS AND PRECAUTIONS] Risk of Seizures with Abrupt Withdrawal of QSYMIA [see WARNINGS AND PRECAUTIONS] Kidney Stones [see WARNINGS AND PRECAUTIONS] Oligohydrosis and Hyperthermia [see WARNINGS AND PRECAUTIONS] Hypokalemia [see WARNINGS AND PRECAUTIONS] Serious Skin Reactions [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Dosing of Qsymia is based on the body mass index (BMI) of the patient. Start treatment with Qsymia 3.75 mg/23 mg (phentermine 3.75 mg/topiramate 23 mg extended-release) daily for 14 days; after 14 days increase to the recommended dose of Qsymia 7.5 mg/46 mg (phentermine 7.5 mg/topiramate 46 mg extended-release) once daily. Weight loss should be evaluated 12 weeks after the start of treatment."
+  },
+  {
+    "name": "Qtern",
+    "genericName": "dapagliflozin and saxagliptin tablets, for oral use",
+    "description": "Qtern (dapagliflozin and saxagliptin) tablets are a sodium-glucose cotransporter 2 (SGLT-2) inhibitor and a dipeptidyl peptidase-4 (DPP-4) inhibitor combination product indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus (T2DM) who have inadequate control with dapagliflozin or who are already treated with dapagliflozin and saxagliptin.",
+    "sideEffects": "The following important adverse reactions are described below or elsewhere in the labeling: Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see WARNINGS AND PRECAUTIONS] Pancreatitis [see WARNINGS AND PRECAUTIONS] Heart Failure [see WARNINGS AND PRECAUTIONS] Volume Depletion [see WARNINGS AND PRECAUTIONS] Urosepsis and Pyelonephritis [see WARNINGS AND PRECAUTIONS] Hypoglycemia with Concomitant Use of Insulin or Insulin Secretagogues [see WARNINGS AND PRECAUTIONS] Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS] Genital Mycotic Infections [see WARNINGS AND PRECAUTIONS] Severe and Disabling Arthralgia [see WARNINGS AND PRECAUTIONS] Bullous Pemphigoid [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Qtern is a 10 mg dapagliflozin/5 mg saxagliptin tablet taken orally once daily in the morning with or without food."
+  },
+  {
+    "name": "Qternmet XR",
+    "genericName": "dapagliflozin, saxagliptin, and metformin hydrochloride",
+    "description": "Qternmet XR (dapagliflozin, saxagliptin, and metformin hydrochloride) is a sodium-glucose cotransporter 2 (SGLT2) inhibitor, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and a biguanide combination product indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+    "sideEffects": "The following important adverse reactions are described\nbelow or elsewhere in the labeling: Lactic Acidosis [see BOXED WARNING and WARNINGS\n    AND PRECAUTIONS] Pancreatitis [see WARNINGS AND PRECAUTIONS] Heart Failure [see WARNINGS AND PRECAUTIONS] Hypotension [see WARNINGS AND PRECAUTIONS] Ketoacidosis [see WARNINGS AND PRECAUTIONS] Acute Kidney Injury and Impairment in Renal Function [see\n    WARNINGS AND PRECAUTIONS] Urosepsis and Pyelonephritis [see WARNINGS AND\n    PRECAUTIONS] Hypoglycemia with Concomitant Use of Insulin or Insulin\n    Secretagogues [see WARNINGS AND PRECAUTIONS] Necrotizing Fasciitis of the Perineum (Fournier's\n    Gangrene) [see WARNINGS AND PRECAUTIONS] Hypersensitivity Reactions [see WARNINGS AND\n    PRECAUTIONS] Vitamin B12 Concentrations [see WARNINGS AND\n    PRECAUTIONS] Genital Mycotic Infections [see WARNINGS AND\n    PRECAUTIONS] Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see WARNINGS AND PRECAUTIONS] Bladder Cancer [see WARNINGS AND PRECAUTIONS] Severe and Disabling Arthralgia [see WARNINGS AND\n    PRECAUTIONS] Bullous Pemphigoid [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "For patients not currently taking dapagliflozin, the recommended starting total daily dose of Qternmet XR is a 5 mg dapagliflozin/5 mg saxagliptin/1000 mg or 2000 mg metformin hydrochloride (HCl) once daily."
+  },
+  {
+    "name": "Quadracel",
+    "genericName": "diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine",
+    "description": "Quadracel (diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine) is a vaccine indicated for active immunization against diphtheria, tetanus, pertussis, and poliomyelitis. A single dose of Quadracel is approved for use in children 4 through 6 years of age as a fifth dose in the diphtheria, tetanus, pertussis vaccination (DTaP) series, and as a fourth or fifth dose in the inactivated poliovirus vaccination (IPV) series, in children who have received 4 doses of Pentacel and/or DAPTACEL vaccine.",
+    "sideEffects": "In a clinical study, the most common solicited injection site reactions were pain (>75%), increase in arm circumference (>65%), erythema (>55%), and swelling (>40%). Common solicited systemic reactions were myalgia (>50%), malaise (>35%), and headache (>15%).",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Quadracel is administered in a single dose intramuscular injection of 0.5 mL."
+  },
+  {
+    "name": "Quadramet",
+    "genericName": "samarium sm 153 lexidronam",
+    "description": "Quadramet (samarium SM 153 lexidronam) Injection contains a radioactive medication and is used to treat pain caused by cancer that has spread to the bone.",
+    "sideEffects": "Adverse events were evaluated in a total of 580 patients who received QUADRAMET® (samarium sm 153 lexidronam)  \n  in clinical trials. Of the 580 patients, there were 472 men and 108 women with \n  a mean age of 66 (range 20 to 87). Of these patients, 472 (83%) had at least one adverse event. In a subgroup \n  of 399 patients who received QUADRAMET® (samarium sm 153 lexidronam)  1.0 mCi/kg, there were 23 deaths \n  and 46 serious adverse events. The deaths occurred an average of 67 days (9 \n  to 130) after QUADRAMET® (samarium sm 153 lexidronam) . Seriou events occurred an average of 46 days (1 \n  - 118) after QUADRAMET® (samarium sm 153 lexidronam) . Although most of the patient deaths and serious \n  adverse events appear to be related to the underlying disease, the relationship \n  of end stage disease, marrow invasion by cancer cells, previous myelotoxic treatmen \n  and QUADRAMET® (samarium sm 153 lexidronam)  toxicity can not be easily distinguished. In clinical studies, \n  two patients with rapidly progressive prostate cancer developed thrombocytopenia \n  and died 4 weeks after receiving QUADRAMET® (samarium sm 153 lexidronam) . One of the patients showed \n  evidence of disseminated intravascular coagulation (DIC); the other patient \n  experienced a fatal cerebrovascular accident, with a suspicion of DIC. The relationship \n  of the DIC to the bone marrow suppressive effect of Samarium is not known. Marrow \n  toxicity occurred in 277 (47%) patients (See WARNINGS section). In controlled studies, 7% of patients receiving 1.0 mCi/kg QUADRAMET® (samarium sm 153 lexidronam)  (as \n  compared to 6% of patients receiving placebo) reported a transient increase \n  in bone pain shortly after injection (flare reaction). This was usually mild, \n  self-limiting, and responded to analgesics. The most common adverse events observed in controlled clinical studies of QUADRAMET® (samarium sm 153 lexidronam) , \n  are given in Table 6. TABLE 6: SELECTED ADVERSE EVENTS REPORTED IN GREATER THAN \n  OR EQUAL TO 1.0 % OF PEOPLE WHO RECEIVED QUADRAMET® (samarium sm 153 lexidronam)  OR PLACEBO IN CONTROLLED \n  CLINICAL TRIALS",
+    "warnings": "QUADRAMET® (samarium sm 153 lexidronam)  causes bone marrow suppression. In clinical trials, white blood\n  cell counts and platelet counts decreased to a nadir of approximately 40% to\n  50% of baseline in 123 (95%) of patients within 3 to 5 weeks after QUADRAMET® (samarium sm 153 lexidronam) ,\n  and tended to return to pretreatment levels by 8 weeks. The grade of marrow toxicity is shown in Table 5 below.",
+    "dosage": "The recommended dose of Quadramet is 1.0 mCi/kg administered intravenously over a period of one minute through a secure in-dwelling catheter and followed with a saline flush."
+  },
+  {
+    "name": "Gardasil",
+    "genericName": "quadrivalent human papillomavirus (types 6, 11, 16, 18) recombinant vaccine",
+    "description": "Gardasil [Human Papillomavirus Quadrivalent (Types 6, 11, 16, and 18) Vaccine, Recombinant] Intramuscular Administration is a vaccine used to prevent cancer of the anus, abnormal tissue growth of the anus, or genital warts. In girls and women, Gardasil is also used to prevent cancer of the cervix/vagina/vulva and abnormal tissue growth in these areas that can lead to cancer.",
+    "sideEffects": "",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Gardasil should be administered by a doctor as an intramuscular injection as a 0.5-mL dose in 3 separate doses. The first dose is administered at the patient's convenience, the second dose two months after the first dose, and the third dose six months after the first dose."
+  },
+  {
+    "name": "Qualaquin",
+    "genericName": "quinine sulfate capsules",
+    "description": "",
+    "sideEffects": "",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": ""
+  },
+  {
+    "name": "Quartette",
+    "genericName": "levonorgestrel/ethinyl estradiol and ethinyl estradiol",
+    "description": "Quartette (levonorgestrel/ethinyl estradiol and ethinyl estradiol) is an estrogen/progestin combined oral contraceptive (COC) indicated for use by women to prevent pregnancy. Quartette is available in generic form.",
+    "sideEffects": "The following serious adverse reactions with the use of COCs are discussed elsewhere in the labeling: Serious cardiovascular events and stroke [see BOX WARNING and WARNINGS AND PRECAUTIONS] Vascular events [see WARNINGS AND PRECAUTIONS] Liver disease [see WARNINGS AND PRECAUTIONS] Adverse reactions commonly reported by COC users are: Irregular uterine bleeding Nausea Breast tenderness Headache",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "Take a dose of one Quartette tablet daily by mouth at the same time every day for 91 Days. Take tablets in the order directed on the Extended-Cycle Tablet Dispenser."
+  },
+  {
+    "name": "Quasense",
+    "genericName": "levonorgestrel and ethinyl estradiol tablets",
+    "description": "Quasense (levonorgestrel and ethinyl estradiol tablets) is an estrogen/progestin combined oral contraceptive (COC) indicated for use by women to prevent pregnancy. Quasense is available in generic form.",
+    "sideEffects": "The following serious adverse reactions with the use of\nCOCs are discussed elsewhere in the labeling: Serious cardiovascular events and stroke [see BOXED\n    WARNING and WARNINGS AND PRECAUTIONS] Vascular events [see WARNINGS AND PRECAUTIONS] Liver disease [see WARNINGS AND PRECAUTIONS] Adverse reactions commonly reported by COC users are: Irregular uterine bleeding Nausea Breast tenderness Headache",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The dose of Quasense is one tablet daily by mouth at the same time every day for 91 days."
+  },
+  {
+    "name": "Doral",
+    "genericName": "quazepam tablets",
+    "description": "Doral (quazepam) is a benzodiazepine used to treat insomnia symptoms, such as trouble falling or staying asleep.",
+    "sideEffects": "The following serious adverse reactions are discussed in greater detail in other sections of the label: Risks from Concomitant Use with Opioids [see WARNINGS AND PRECAUTIONS] Abuse, Misuse, and Addiction [see WARNINGS AND PRECAUTIONS] Dependence and Withdrawal Reactions [see WARNINGS AND PRECAUTIONS] CNS-depressant effects and next-day impairment [see WARNINGS AND PRECAUTIONS] Abnormal thinking and behavior changes, and complex behaviors [see WARNINGS AND PRECAUTIONS] Worsening of depression [see WARNINGS AND PRECAUTIONS] Neonatal Sedation and Withdrawal Syndrome [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The initial adult dose of Doral is 15 mg. In some patients, the dose may be reduced to 7.5 mg."
+  },
+  {
+    "name": "Qudexy XR",
+    "genericName": "topiramate extended-release capsules",
+    "description": "Qudexy XR (topiramate) extended-release is an antiseizure medicine used to treat certain types of seizures (partial-onset seizures and primary generalized tonic-clonic seizures) in adults and children 10 years of age and older, and with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.",
+    "sideEffects": "The following serious adverse reactions are discussed in more detail in other sections of the labeling: Acute Myopia and Secondary Angle Closure Glaucoma [see WARNINGS AND PRECAUTIONS] Visual Field Defects [see WARNINGS AND PRECAUTIONS] Oligohydrosis and Hyperthermia [see WARNINGS AND PRECAUTIONS] Metabolic Acidosis [see WARNINGS AND PRECAUTIONS] Suicidal Behavior and Ideation [see WARNINGS AND PRECAUTIONS] Cognitive/Neuropsychiatric Adverse Reactions [see WARNINGS AND PRECAUTIONS] Serious Skin Reactions [see WARNINGS AND PRECAUTIONS] Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use[see WARNINGS AND PRECAUTIONS] Kidney Stones [see WARNINGS AND PRECAUTIONS] Hypothermia With Concomitant Valproic Acid Use [see WARNINGS AND PRECAUTIONS] The data described in section 6.1 were obtained using immediate-release topiramate tablets.",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended initial adult dose of Qudexy XR is 25 to 50 mg daily, increased to 200 to 400 mg daily. Pediatric dose is determined by the child's weight."
+  },
+  {
+    "name": "Quelicin",
+    "genericName": "succinylcholine chloride injection",
+    "description": "Quelicin (succinylcholine chloride) Injection is a short-acting depolarizing skeletal muscle relaxant used as an adjunct to general anesthesia to facilitate tracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation. Quelicin is available in generic form.",
+    "sideEffects": "The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling: Ventricular Dysrhythmias, Cardiac Arrest, and Death from Hyperkalemic Rhabdomyolysis in Pediatric Patients [see WARNINGS AND PRECAUTIONS] Anaphylaxis [see WARNINGS AND PRECAUTIONS] Hyperkalemia [see WARNINGS AND PRECAUTIONS] Malignant Hyperthermia [see WARNINGS AND PRECAUTIONS] Bradycardia [see WARNINGS AND PRECAUTIONS] Increase in Intraocular Pressure [see WARNINGS AND PRECAUTIONS] Prolonged Neuromuscular Block due to Phase II Block and Tachyphylaxis [see WARNINGS AND PRECAUTIONS] The following adverse reactions associated with the use of succinylcholine were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Cardiovascular disorders: Cardiac arrest, arrhythmias, bradycardia, tachycardia, hypertension, hypotension Electrolyte disorders: Hyperkalemia Eye disorders: Increased intraocular pressure Gastrointestinal disorders: Excessive salivation Immune system disorders: Hypersensitivity reactions including anaphylaxis (in some cases life-threatening and fatal) Musculoskeletal disorders: Malignant hyperthermia, rhabdomyolysis with possible myoglobinuric acute renal failure, muscle fasciculation, jaw rigidity, postoperative muscle pain Respiratory disorders: Prolonged respiratory depression or apnea Skin disorders: Rash",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The dosage of Quelicin is individualized and should always be determined by the physician after careful assessment of the patient."
+  },
+  {
+    "name": "Questran",
+    "genericName": "cholestyramine",
+    "description": "Questran (cholestyramine) for Oral Suspension is a cholesterol-lowering agent used to lower high levels of cholesterol in the blood, especially low-density lipoprotein (LDL) (\"bad\" cholesterol). Questran powder is also used to treat itching caused by a blockage in the bile ducts of the gallbladder. The brand name Questran is discontinued in the U.S. Generic forms may still be available.",
+    "sideEffects": "The most common adverse reaction is constipation. When used as a cholesterol-lowering agent predisposing factors for most complaints of constipation are high dose and increased age (more than 60 years old). Most instances of constipation are mild, transient, and controlled with conventional therapy. Some patients require a temporary decrease in dosage or discontinuation of therapy. Less Frequent Adverse Reactions: Abdominal discomfort and/or pain, flatulence, nausea, vomiting, diarrhea, eructation, anorexia, and steatorrhea, bleeding tendencies due to hypoprothrombinemia (Vitamin K deficiency) as well as Vitamin A (one case of night blindness reported) and D deficiencies, hyperchloremic acidosis in children, osteoporosis, rash and irritation of the skin, tongue and perianal area. Rare reports of intestinal obstruction, including two deaths, have been reported in pediatric patients. Occasional calcified material has been observed in the biliary tree, including calcification of the gallbladder, in patients to whom QUESTRAN has been given. However, this may be a manifestation of the liver disease and not drug related. One patient experienced biliary colic on each of three occasions on which he took QUESTRAN. One patient diagnosed as acute abdominal symptom complex was found to have a “pasty mass” in the transverse colon on x-ray. Other events (not necessarily drug related) reported in patients taking QUESTRAN include: Gastrointestinal: GI-rectal bleeding, black stools, hemorrhoidal bleeding, bleeding from known duodenal ulcer, dysphagia, hiccups, ulcer attack, sour taste, pancreatitis, rectal pain, diverticulitis. Laboratory test changes: Liver function abnormalities. Hematologic: Prolonged prothrombin time, ecchymosis, anemia Hypersensitivity: Urticaria, asthma, wheezing, shortness of breath. Musculoskeletal: Backache, muscle and joint pains, arthritis. Neurologic: Headache, anxiety, vertigo, dizziness, fatigue, tinnitus, syncope, drowsiness, femoral nerve pain, paresthesia. Eye: Uveitis. Renal: Hematuria, dysuria, burnt odor to urine, diuresis. Miscellaneous: Weight loss, weight gain, increased libido, swollen glands, edema, dental bleeding, dental caries, erosion of tooth enamel, tooth discoloration.",
+    "warnings": "Phenylketonurics",
+    "dosage": "The recommended starting adult dose for all cholestyramine powdered products is one packet or one level scoopful once or twice a day. The recommended maintenance dose is 2 to 4 packets or scoopfuls daily (8-16 grams anhydrous cholestyramine resin) divided into two doses."
+  },
+  {
+    "name": "Questran Light",
+    "genericName": "cholestyramine, light for oral suspension",
+    "description": "Cholestyramine light (cholestyramine powder, for suspension) is a cholesterol-lowering agent used as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low-density lipoprotein [LDL] cholesterol) who do not respond adequately to diet. Cholestyramine light is also indicated for the relief of itching associated with partial biliary obstruction.",
+    "sideEffects": "The most common adverse reaction is constipation. When used as a cholesterol-lowering agent predisposing factors for most complaints of constipation are high dose and increased age (more than 60 years old). Most instances of constipation are mild, transient and controlled with conventional therapy. Some patients require a temporary decrease in dosage or discontinuation of therapy. Less Frequent Adverse Reactions - Abdominal discomfort and/or pain, flatulence, nausea, vomiting, diarrhea, eructation, anorexia, steatorrhea, bleeding tendencies due to hypoprothrombinemia (Vitamin K deficiency) as well as Vitamin A (one case of night blindness reported) and D deficiencies, hyperchloremic acidosis in children, osteoporosis, rash and irritation of the skin, tongue and perianal area. Rare reports of intestinal obstruction, including two deaths, have been reported in pediatric patients. Occasional calcified material has been observed in the biliary tree, including calcification of the gallbladder, in patients to whom cholestyramine resin has been given. However, this may be a manifestation of the liver disease and not drug related. One patient experienced biliary colic on each of three occasions on which he took a cholestyramine for oral suspension product. One patient diagnosed as acute abdominal symptom complex was found to have a \"pasty mass\" in the transverse colon on x-ray. Other events (not necessarily drug related) reported in patients taking cholestyramine resin include Gastrointestinal: GI-rectal bleeding, black stools, hemorrhoidal bleeding, bleeding from known duodenal ulcer, dysphagia, hiccups, ulcer attack, sour taste, pancreatitis, rectal pain, diverticulitis. Laboratory Test Changes: Liver function abnormalities. Hematologic: Prolonged prothrombin time, ecchymosis, anemia. Hypersensitivity: Urticaria, asthma, wheezing, shortness of breath. Musculoskeletal: Backache, muscle and joint pains, arthritis. Neurologic: Headache, anxiety, vertigo, dizziness, fatigue, tinnitus, syncope, drowsiness, femoral nerve pain, paresthesia. Eye: Uveitis. Renal: Hematuria, dysuria, burnt odor to urine, diuresis. Miscellaneous: Weight loss, weight gain, increased libido, swollen glands, edema, dental bleeding, dental caries, erosion of tooth enamel, tooth discoloration.",
+    "warnings": "Phenylketonurics",
+    "dosage": "The recommended starting adult dose for cholestyramine light is one pouch or one level scoopful (4.8 grams of cholestyramine for oral suspension, light contains 4 grams of anhydrous cholestyramine resin) once or twice a day. The recommended maintenance dose for cholestyramine for oral suspension, light is 2 to 4 pouches or scoopfuls daily (8 to 16 grams anhydrous cholestyramine resin) divided into two doses."
+  },
+  {
+    "name": "Seroquel",
+    "genericName": "quetiapine fumarate",
+    "description": "Seroquel (quetiapine) is a psychotropic medication used to treat schizophrenia in adults and children who are at least 13 years old. Seroquel is also used in the treatment of major depression and bipolar disorder.",
+    "sideEffects": "The following adverse reactions are discussed in more detail in other sections of the labeling: Increased mortality in elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS] Suicidal thoughts and behaviors in adolescents and young adults [see WARNINGS AND PRECAUTIONS] Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS] Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS] Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see WARNINGS AND PRECAUTIONS] Tardive dyskinesia [see WARNINGS AND PRECAUTIONS] Hypotension [see WARNINGS AND PRECAUTIONS] Falls [see WARNINGS AND PRECAUTIONS] Increases in blood pressure (children and adolescents) [see WARNINGS AND PRECAUTIONS] Leukopenia, neutropenia and agranulocytosis [see WARNINGS AND PRECAUTIONS] Cataracts [see WARNINGS AND PRECAUTIONS] QT Prolongation [see WARNINGS AND PRECAUTIONS] Seizures [see WARNINGS AND PRECAUTIONS] Hypothyroidism [see WARNINGS AND PRECAUTIONS] Hyperprolactinemia [see WARNINGS AND PRECAUTIONS] Potential for cognitive and motor impairment [see WARNINGS AND PRECAUTIONS] Body temperature regulation [see WARNINGS AND PRECAUTIONS] Dysphagia [see WARNINGS AND PRECAUTIONS] Discontinuation Syndrome [see WARNINGS AND PRECAUTIONS] Anticholinergic (antimuscarinic) Effects [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Older adults with dementia may have a slightly increased risk of death when taking Seroquel. Dosing preparations are 25, 50, 100, 200, 300, and 400 mg tablets."
+  },
+  {
+    "name": "Seroquel XR",
+    "genericName": "quetiapine fumarate extended-release tablets",
+    "description": "Seroquel XR (quetiapine) is an oral antipsychotic drug prescribed for the treatment of schizophrenia and acute treatment of manic or mixed episodes associated with bipolar I disorder.",
+    "sideEffects": "The following adverse reactions are discussed in more detail in other sections of the labeling: Increased mortality in elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS] Suicidal thoughts and behaviors in adolescents and young adults [see WARNINGS AND PRECAUTIONS] Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS] Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS] Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see WARNINGS AND PRECAUTIONS] Tardive dyskinesia [see WARNINGS AND PRECAUTIONS] Hypotension [see WARNINGS AND PRECAUTIONS] Falls [see WARNINGS AND PRECAUTIONS] Increases in blood pressure (children and adolescents) [see WARNINGS AND PRECAUTIONS] Leukopenia, neutropenia and agranulocytosis [see WARNINGS AND PRECAUTIONS] Cataracts [see WARNINGS AND PRECAUTIONS] QT Prolongation [see WARNINGS AND PRECAUTIONS] Seizures [see WARNINGS AND PRECAUTIONS] Hypothyroidism [see WARNINGS AND PRECAUTIONS] Hyperprolactinemia [see WARNINGS AND PRECAUTIONS] Potential for cognitive and motor impairment [see WARNINGS AND PRECAUTIONS] Body temperature regulation [see WARNINGS AND PRECAUTIONS] Dysphagia [see WARNINGS AND PRECAUTIONS] Discontinuation Syndrome [see WARNINGS AND PRECAUTIONS] Anticholinergic (antimuscarinic) Effects [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "Doses of Seroquel XR for schizophrenia range from 300 to 800 mg/day. Seroquel XR for bipolar disorder range from 300 to 800 mg/day and is used with adjunct therapy with Eskalith, Lithobid (lithium), or divalproex."
+  },
+  {
+    "name": "Quillichew ER",
+    "genericName": "methylphenidate hydrochloride extended-release chewable tablets",
+    "description": "QuilliChew ER (methylphenidate hydrochloride) extended-release chewable tablets is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).",
+    "sideEffects": "The following are discussed in more detail in other sections of the labeling: Known hypersensitivity to methylphenidate products or other ingredients of QuilliChew ER [see CONTRAINDICATIONS] Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see CONTRAINDICATIONS, DRUG INTERACTIONS] Abuse, Misuse, and Addiction [see BOXED WARNING, WARNINGS AND PRECAUTIONS, Drug Abuse And Dependence] Risks to Patients with Serious Cardiac Disease [see WARNINGS AND PRECAUTIONS] Increased Blood Pressure and Heart Rate [see WARNINGS AND PRECAUTIONS] Psychiatric Adverse Reactions [see WARNINGS AND PRECAUTIONS] Priapism [see WARNINGS AND PRECAUTIONS] Peripheral Vasculopathy, including Raynaud’s phenomenon [see WARNINGS AND PRECAUTIONS] Long-Term Suppression of Growth in Pediatric Patients [see WARNINGS AND PRECAUTIONS] Risks in Phenylketonuria [see WARNINGS AND PRECAUTIONS] Acute Angle Closure Glaucoma [see WARNINGS AND PRECAUTIONS] Increased Intraocular Pressure and Glaucoma [see WARNINGS AND PRECAUTIONS] Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "For patients 6 years and above, the recommended starting dose of QuilliChew ER is 20 mg given orally once daily in the morning."
+  },
+  {
+    "name": "Quillivant XR",
+    "genericName": "methylphenidate hydrochloride extended release oral suspension, cii",
+    "description": "Quillivant XR (methylphenidate hydrochloride) is a central nervous system (CNS) stimulant used to treat Attention Deficit Hyperactivity Disorder (ADHD). Quillivant XR is available in generic form.",
+    "sideEffects": "The following are discussed in more detail in other sections of the labeling: Known hypersensitivity to methylphenidate products or other ingredients of QUILLIVANT XR [see CONTRAINDICATIONS] Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see CONTRAINDICATIONS, DRUG INTERACTIONS] Drug Dependence [see BOX WARNING, WARNINGS AND PRECAUTIONS, Drug Abuse And Dependence] Serious Cardiovascular Reactions [see WARNINGS AND PRECAUTIONS] Blood Pressure and Heart Rate Increases [see WARNINGS AND PRECAUTIONS] Psychiatric Adverse Reactions [see WARNINGS AND PRECAUTIONS] Priapism [see WARNINGS AND PRECAUTIONS] Peripheral Vasculopathy, including Raynaud’s phenomenon [see WARNINGS AND PRECAUTIONS] Long-Term Suppression of Growth [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "For patients 6 years of age and above, the recommended starting dose of Quillivant XR is 20 mg given orally once daily in the morning with or without food. The dosage may be increased weekly in increments of 10 mg to 20 mg per day. A daily dosage above 60 mg is not recommended."
+  },
+  {
+    "name": "Accuretic",
+    "genericName": "quinapril hcl/hydrochlorothiazide",
+    "description": "Accuretic (quinapril HCl/hydrochlorothiazide) is a combination of two drugs used to treat hypertension (high blood pressure). Accuretic is not indicated for the initial treatment of hypertension. Accuretic is available as a generic termed Quinaretic.",
+    "sideEffects": "ACCURETIC has been evaluated for safety in 1571 patients\nin controlled and uncontrolled studies. Of these, 498 were given quinapril plus\nhydrochlorothiazide for at least 1 year, with 153 patients extending\ncombination therapy for over 2 years. In clinical trials with ACCURETIC, no\nadverse experience specific to the combination has been observed. Adverse\nexperiences that have occurred have been limited to those that have been\npreviously reported with quinapril or hydrochlorothiazide. Adverse experiences were usually mild and transient, and\nthere was no relationship between side effects and age, sex, race, or duration\nof therapy. Discontinuation of therapy because of adverse effects was required\nin 2.1% in patients in controlled studies. The most common reasons for\ndiscontinuation of therapy with ACCURETIC were cough (1.0%; see PRECAUTIONS)\nand headache (0.7%). Adverse experiences probably or possibly related to\ntherapy or of unknown relationship to therapy occurring in 1% or more of the\n943 patients treated with quinapril plus hydrochlorothiazide in controlled\ntrials are shown below.",
+    "warnings": "Anaphylactoid And Possibly Related Reactions",
+    "dosage": "The dose of Accuretic ranges from quinapril doses of 2.5 to 40 mg and hydrochlorothiazide doses of 6.25 to 25 mg."
+  },
+  {
+    "name": "Accupril",
+    "genericName": "quinapril hydrochloride",
+    "description": "Accupril (quinapril) is an angiotensin converting enzyme (ACE) inhibitor used for treating high blood pressure and heart failure. Generic formulations of Accupril are available.",
+    "sideEffects": "",
+    "warnings": "Anaphylactoid And Possibly Related Reactions",
+    "dosage": "The recommended dose for treating hypertension is 10-80 mg a day as a single dose or in two doses. The dose for heart failure is 20-40 mg a day in two divided doses."
+  },
+  {
+    "name": "Quinidex",
+    "genericName": "quinidine",
+    "description": "Quinidex (quinidine sulfate) is an antiarrhythmic drug used to treat or prevent many types of irregular heartbeats (heart arrhythmias such as atrial fibrillation). Quinidex is available in generic form.",
+    "sideEffects": "Quinidine preparations have been used for many years, but there are only sparse data from which to estimate the incidence of various adverse reactions. The adverse reactions most frequently reported have consistently been gastrointestinal, including diarrhea, nausea, vomiting, and heartburn/esophagitis. In one study of 245 adult outpatients who received quinidine to suppress premature ventricular contractions, the incidences of reported adverse experiences were as shown in the table below. The most serious quinidine-associated adverse reactions are described above under WARNINGS.",
+    "warnings": "Mortality",
+    "dosage": "Dosage for quinidine sulfate is based on medical condition and response to treatment. For adults, the dosage ranges from 400 to 4000 mg/day."
+  },
+  {
+    "name": "Quinidex",
+    "genericName": "quinidine",
+    "description": "Quinidex (quinidine sulfate) is an antiarrhythmic drug used to treat or prevent many types of irregular heartbeats (heart arrhythmias such as atrial fibrillation). Quinidex is available in generic form.",
+    "sideEffects": "Quinidine preparations have been used for many years, but there are only sparse data from which to estimate the incidence of various adverse reactions. The adverse reactions most frequently reported have consistently been gastrointestinal, including diarrhea, nausea, vomiting, and heartburn/esophagitis. In one study of 245 adult outpatients who received quinidine to suppress premature ventricular contractions, the incidences of reported adverse experiences were as shown in the table below. The most serious quinidine-associated adverse reactions are described above under WARNINGS.",
+    "warnings": "Mortality",
+    "dosage": "Dosage for quinidine sulfate is based on medical condition and response to treatment. For adults, the dosage ranges from 400 to 4000 mg/day."
+  },
+  {
+    "name": "Quinidine Injection",
+    "genericName": "quinidine",
+    "description": "Quinidine gluconate injection is an antimalarial and an antiarrhythmic used to treat life-threatening Plasmodium falciparum malaria. Quinidine gluconate injection is also used as a means of restoring normal sinus rhythm in patients with symptomatic atrial fibrillation/flutter whose symptoms are not adequately controlled by measures that reduce the rate of ventricular response, and to treat documented ventricular arrhythmias, such as sustained ventricular tachycardia, that in the judgment of the physician are life-threatening.",
+    "sideEffects": "Quinidine preparations have been used for many years, but\nthere are only sparse data from which to estimate the incidence of various adverse\nreactions. The adverse reactions most frequently reported have consistently\nbeen gastrointestinal, including diarrhea, nausea, vomiting, and\nheart–burn/esophagitis. In one study of 245 adult outpatients who received\nquinidine to suppress premature ventricular contractions, the incidences of\nreported adverse experiences were as shown in the table below. The most serious\nquinidine–associated adverse reactions are described above under Warnings. Adverse Experiences in a 245–Patient PVC Trial",
+    "warnings": "Inappropriate infusion rate",
+    "dosage": "Dosage of quinidine gluconate injection is individualized and depends on the condition being treated."
+  },
+  {
+    "name": "Quinidine Gluconate",
+    "genericName": "quinidine gluconate",
+    "description": "Quinidine Gluconate (quinidine) is an antiarrhythmic medication that is used to correct disturbances in the rhythm of the heart. Quinidine gluconate is available in generic form.",
+    "sideEffects": "Quinidine preparations have been used for many years, but there are only sparse     data from which to estimate the incidence of various adverse reactions. The     adverse reactions most frequently reported have consistently been gastrointestinal,     including diarrhea, nausea, vomiting, and heartburn/esophagitis. In the reported study that was closest in character to the predominant approved     use of quinidine gluconate, 86 adult outpatients with atrial fibrillation were     followed for six months while they received slow-release quinidine bisulfate     tablets, 600 mg (approximately 400 mg of quinidine base) twice daily. The incidences     of adverse experiences reported more than once were as shown in the table below.     The most serious quinidine-associated adverse reactions are described above     under WARNINGS. ADVERSE EXPERIENCES REPORTED MORE THAN ONCE IN 86 PATIENTS     WITH ATRIAL FIBRILLATION",
+    "warnings": "Mortality",
+    "dosage": "Quinidine gluconate is taken orally in tablet form. The dosage varies considerably depending upon the general condition and the cardiovascular state of the patient. Take this medication by mouth with or without food with a full glass of liquid (8 ounces/240 milliliters) as directed by your doctor. Quinidine Gluconate is best taken on an empty stomach, but taking it with food may help decrease stomach upset. Do not lie down for 10 minutes after taking this medication."
+  },
+  {
+    "name": "Quinidine Injection",
+    "genericName": "quinidine",
+    "description": "Quinidine gluconate injection is an antimalarial and an antiarrhythmic used to treat life-threatening Plasmodium falciparum malaria. Quinidine gluconate injection is also used as a means of restoring normal sinus rhythm in patients with symptomatic atrial fibrillation/flutter whose symptoms are not adequately controlled by measures that reduce the rate of ventricular response, and to treat documented ventricular arrhythmias, such as sustained ventricular tachycardia, that in the judgment of the physician are life-threatening.",
+    "sideEffects": "Quinidine preparations have been used for many years, but\nthere are only sparse data from which to estimate the incidence of various adverse\nreactions. The adverse reactions most frequently reported have consistently\nbeen gastrointestinal, including diarrhea, nausea, vomiting, and\nheart–burn/esophagitis. In one study of 245 adult outpatients who received\nquinidine to suppress premature ventricular contractions, the incidences of\nreported adverse experiences were as shown in the table below. The most serious\nquinidine–associated adverse reactions are described above under Warnings. Adverse Experiences in a 245–Patient PVC Trial",
+    "warnings": "Inappropriate infusion rate",
+    "dosage": "Dosage of quinidine gluconate injection is individualized and depends on the condition being treated."
+  },
+  {
+    "name": "Quinidine Sulfate",
+    "genericName": "quinidine sulfate tablet, film coated, extended release",
+    "description": "Quinidine sulfate is an antimalarial and antiarrhythmic drug used to treat or prevent many types of irregular heartbeats (heart arrhythmias such as atrial fibrillation). Quinidine sulfate is available in generic form.",
+    "sideEffects": "Quinidine preparations have been used for many years, but there are only sparse data from which to estimate the incidence of various adverse reactions. The adverse reactions most frequently reported have consistently been gastrointestinal, including diarrhea, nausea, vomiting, and heartburn/esophagitis. In one study of 245 adult outpatients who received quinidine to suppress premature ventricular contractions, the incidences of reported adverse experiences were as shown in the table below. The most serious quinidine-associated adverse reactions are described above under WARNINGS. Adverse Experiences in a 245-Patient PVC Trial Incidence (%)",
+    "warnings": "Mortality",
+    "dosage": "Therapy with quinidine sulfate begins with one tablet (300 mg; 249 mg of quinidine base) every 8 to 12 hours."
+  },
+  {
+    "name": "Quinidine Sulfate",
+    "genericName": "quinidine sulfate tablet, film coated, extended release",
+    "description": "Quinidine sulfate is an antimalarial and antiarrhythmic drug used to treat or prevent many types of irregular heartbeats (heart arrhythmias such as atrial fibrillation). Quinidine sulfate is available in generic form.",
+    "sideEffects": "Quinidine preparations have been used for many years, but there are only sparse data from which to estimate the incidence of various adverse reactions. The adverse reactions most frequently reported have consistently been gastrointestinal, including diarrhea, nausea, vomiting, and heartburn/esophagitis. In one study of 245 adult outpatients who received quinidine to suppress premature ventricular contractions, the incidences of reported adverse experiences were as shown in the table below. The most serious quinidine-associated adverse reactions are described above under WARNINGS. Adverse Experiences in a 245-Patient PVC Trial Incidence (%)",
+    "warnings": "Mortality",
+    "dosage": "Therapy with quinidine sulfate begins with one tablet (300 mg; 249 mg of quinidine base) every 8 to 12 hours."
+  },
+  {
+    "name": "Qualaquin",
+    "genericName": "quinine sulfate capsules",
+    "description": "",
+    "sideEffects": "",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": ""
+  },
+  {
+    "name": "Synercid",
+    "genericName": "quinupristin and dalfopristin",
+    "description": "Synercid I.V. (quinupristin and dalfopristin) for Injection is a combination antibiotic used to treat severe infections in the blood and other body systems.",
+    "sideEffects": "The safety of Synercid was evaluated in 1099 patients enrolled in 5 comparative clinical trials. Additionally, 4 non-comparative clinical trials (3 prospective and 1 retrospective in design) were conducted in which 1199 patients received Synercid for infections due to Gram-positive pathogens for which no other treatment option was available. In non-comparative trials, the patients were severely ill, often with multiple comorbidities or physiological impairments, and may have been intolerant to or failed other antibacterial therapies.",
+    "warnings": "Drug Interactions",
+    "dosage": "Synercid should be administered by intravenous infusion in 5% Dextrose in Water solution over a 60-minute period. The recommended dosage for the treatment of complicated skin and skin structure infections is 7.5 mg/kg every 12 hours."
+  },
+  {
+    "name": "Quixin",
+    "genericName": "levofloxacin ophthalmic solution 0.5%",
+    "description": "Quixin (levofloxacin ophthalmic solution 0.5%) is a fluoroquinolone antibiotic used to treat bacterial infections of the eyes. Quixin is available in generic form.",
+    "sideEffects": "The most frequently reported adverse reactions in the\noverall study population were transient decreased vision, fever, foreign body\nsensation, headache, transient ocular burning, ocular pain or discomfort,\n pharyngitis and photophobia. These reactions occurred in approximately 1-3% of\npatients. Other reported reactions occurring in less than 1% of patients\nincluded allergic reactions, lid edema, ocular dryness, and ocular itching.",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The recommended dosing schedule for Quixin is on days 1 and 2, instill one to two drops in the affected eye(s) every 2 hours while awake, up to 8 times per day. On days 3 through 7, instill one to two drops in the affected eye(s) every 4 hours while awake, up to 4 times per day."
+  },
+  {
+    "name": "Vanflyta",
+    "genericName": "quizartinib tablets",
+    "description": "What Is Vanflyta?",
+    "sideEffects": "The following clinically significant adverse reactions are described elsewhere in the labeling: QT Prolongation, Torsades de Pointes, and Cardiac Arrest [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": ""
+  },
+  {
+    "name": "Qulipta",
+    "genericName": "atogepant tablets",
+    "description": "Qulipta (atogepant) is a calcitonin gene-related peptide receptor antagonist indicated for the preventive treatment of episodic migraine in adults.",
+    "sideEffects": "",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dosage of Qulipta is 10 mg, 30 mg, or 60 mg taken orally once daily with or without food."
+  },
+  {
+    "name": "Qutenza",
+    "genericName": "capsaicin 8% patch",
+    "description": "Qutenza (capsaicin) 8% Patch is a manmade version of a naturally occurring compound found in chili peppers used to manage neuropathic pain associated with postherpetic neuralgia (nerve pain following an outbreak of shingles).",
+    "sideEffects": "The following serious adverse reactions are discussed elsewhere in the labeling: Severe Irritation Due to Accidental Exposure of Eyes, Skin, Respiratory Tract, and Mucous Membranes [see WARNINGS AND PRECAUTIONS] Application-Associated Pain [see WARNINGS AND PRECAUTIONS] Increase in Blood Pressure [see WARNINGS AND PRECAUTIONS] Sensory Function Reduction [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dose of Qutenza is a single, 60-minute application of up to four patches. Treatment may be repeated every three months or as warranted by the return of pain (not more frequently than every three months). Qutenza is only administered under the close supervision of a physician."
+  },
+  {
+    "name": "Quviviq",
+    "genericName": "daridorexant tablets",
+    "description": "Quviviq (daridorexant) is an orexin receptor antagonist indicated for the treatment of adult patients with insomnia characterized by difficulties with sleep onset and/or sleep maintenance.",
+    "sideEffects": "The following are discussed in detail in other sections of the labeling: CNS-Depressant Effects and Daytime Impairment [see WARNINGS AND PRECAUTIONS] Worsening of Depression/Suicidal Ideation [see WARNINGS AND PRECAUTIONS] Sleep Paralysis, Hypnagogic/Hypnopompic Hallucinations, and Cataplexy-like Symptoms [see WARNINGS AND PRECAUTIONS] Complex Sleep Behaviors [see WARNINGS AND PRECAUTIONS] Patients with Compromised Respiratory Function [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the PRECAUTIONS section.",
+    "dosage": "The recommended dosage of Quviviq is 25 mg to 50 mg once per night, taken orally within 30 minutes before going to bed, with at least 7 hours remaining prior to planned awakening."
+  },
+  {
+    "name": "Quzyttir",
+    "genericName": "cetirizine hydrochloride injection",
+    "description": "Quzyttir (cetirizine hydrochloride injection) is a histamine-1 (H1) receptor antagonist used to treat acute hives (urticaria) in adults and children 6 months of age and older.",
+    "sideEffects": "The following clinically significant adverse reaction is described elsewhere in the labeling: Somnolence/Sedation [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Quzyttir for adults and adolescents 12 years of age and older is 10 mg. The recommended dose of Quzyttir for children 6 to 11 years is 5 mg or 10 mg. The recommended dose of Quzyttir for children 6 months to 5 years is 2.5 mg."
+  },
+  {
+    "name": "Qvar",
+    "genericName": "beclomethasone dipropionate hfa",
+    "description": "Qvar (beclomethasone dipropionate) is a steroid used to prevent asthma attacks. Qvar will not treat an asthma attack that has already begun. Qvar is available in generic form.",
+    "sideEffects": "Systemic and local corticosteroid use may result in the following: Candida albicans infection [see WARNINGS AND PRECAUTIONS] Immunosuppression [see WARNINGS AND PRECAUTIONS] Hypercorticism and adrenal suppression [see WARNINGS AND PRECAUTIONS]\n\t\n\tGrowth effects [see WARNINGS AND PRECAUTIONS and Use In Specific Populations] Growth effects [see WARNINGS AND PRECAUTIONS and Use In Specific Populations] Glaucoma and cataracts [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "The recommended dose of Qvar is 40 to 320 mcg twice daily for adults and 40 to 80 mcg twice daily for children. If you are also using a bronchodilator, use it first before using the beclomethasone inhaler."
+  },
+  {
+    "name": "Qvar RediHaler",
+    "genericName": "beclomethasone dipropionate hfa inhalation aerosol",
+    "description": "Qvar Redihaler is a corticosteroid indicated for maintenance treatment of asthma as prophylactic therapy in patients 4 years of age and older.",
+    "sideEffects": "Systemic and local corticosteroid use may result in the\nfollowing: Candida albicans infection [see WARNINGS AND\n    PRECAUTIONS] Immunosuppression [see WARNINGS AND PRECAUTIONS] Hypercorticism and adrenal suppression [see WARNINGS\n    AND PRECAUTIONS] Growth effects [see WARNINGS AND PRECAUTIONS and Use\n    In Specific Populations] Eye Disorders [see WARNINGS AND PRECAUTIONS]",
+    "warnings": "Included as part of  the PRECAUTIONS section.",
+    "dosage": "The starting dosage of Qvar Redihaler for treatment of asthma in patients 4 to 11 years of age is 40 or 80 mcg twice daily. The starting dosage of Qvar Redihaler for treatment of asthma in patients 12 years of age and older is 40 mcg, 80 mcg, 160 mcg, or 320 mcg twice daily."
+  },
+  {
+    "name": "QWO",
+    "genericName": "collagenase clostridium histolyticum-aaes for injection",
+    "description": "QWO (collagenase clostridium histolyticum-aaes) is a combination of bacterial collagenases indicated for the treatment of moderate to severe cellulite in the buttocks of adult women.",
+    "sideEffects": "The following adverse reactions to QWO for injection are discussed in greater detail in other sections of the labeling: Hypersensitivity [see CONTRAINDICATIONS and WARNINGS AND PRECAUTIONS]. Injection Site Bruising [see WARNINGS AND PRECAUTIONS].",
+    "warnings": "Included as part of the \"PRECAUTIONS\" Section",
+    "dosage": "A treatment area is defined as a single buttock receiving a dose of up to 12 injections, 0.3 mL each (up to a total of 3.6 mL), of QWO. A treatment visit may consist of up to 2 treatment areas. Treatment visits should be repeated every 21 days for 3 treatment visits."
+  }
+]

@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const inputJsonFile = "./drug_details.json";
-const outputCsvFile = "./drug_details.csv";
+const inputJsonFile = "./mayo_diseases.json";
+const outputCsvFile = "./mayo_diseases.csv";
 
 function jsonToCsv(jsonData) {
   if (!Array.isArray(jsonData)) {

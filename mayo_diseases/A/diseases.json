@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Abdominal aortic aneurysm",
+    "link": "https://www.mayoclinic.org/diseases-conditions/abdominal-aortic-aneurysm/symptoms-causes/syc-20350688"
+  },
+  {
+    "name": "Absence seizure",
+    "link": "https://www.mayoclinic.org/diseases-conditions/petit-mal-seizure/symptoms-causes/syc-20359683"
+  },
+  {
+    "name": "Acanthosis nigricans",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acanthosis-nigricans/symptoms-causes/syc-20368983"
+  },
+  {
+    "name": "Achalasia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/achalasia/symptoms-causes/syc-20352850"
+  },
+  {
+    "name": "Achilles tendinitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/achilles-tendinitis/symptoms-causes/syc-20369020"
+  },
+  {
+    "name": "Achilles tendon rupture",
+    "link": "https://www.mayoclinic.org/diseases-conditions/achilles-tendon-rupture/symptoms-causes/syc-20353234"
+  },
+  {
+    "name": "ACL injury",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acl-injury/symptoms-causes/syc-20350738"
+  },
+  {
+    "name": "Acne",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acne/symptoms-causes/syc-20368047"
+  },
+  {
+    "name": "Acoustic neuroma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acoustic-neuroma/symptoms-causes/syc-20356127"
+  },
+  {
+    "name": "Acromegaly",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acromegaly/symptoms-causes/syc-20351222"
+  },
+  {
+    "name": "Actinic keratosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/actinic-keratosis/symptoms-causes/syc-20354969"
+  },
+  {
+    "name": "Acute coronary syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acute-coronary-syndrome/symptoms-causes/syc-20352136"
+  },
+  {
+    "name": "Acute flaccid myelitis (AFM)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acute-flaccid-myelitis/symptoms-causes/syc-20493046"
+  },
+  {
+    "name": "Acute kidney injury",
+    "link": "https://www.mayoclinic.org/diseases-conditions/kidney-failure/symptoms-causes/syc-20369048"
+  },
+  {
+    "name": "Acute liver failure",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863"
+  },
+  {
+    "name": "Acute lymphocytic leukemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/symptoms-causes/syc-20369077"
+  },
+  {
+    "name": "Acute myelogenous leukemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acute-myelogenous-leukemia/symptoms-causes/syc-20369109"
+  },
+  {
+    "name": "Acute sinusitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/acute-sinusitis/symptoms-causes/syc-20351671"
+  },
+  {
+    "name": "Addison's disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293"
+  },
+  {
+    "name": "Adenomyosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adenomyosis/symptoms-causes/syc-20369138"
+  },
+  {
+    "name": "Adjustment disorders",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adjustment-disorders/symptoms-causes/syc-20355224"
+  },
+  {
+    "name": "Adnexal tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adnexal-tumors/symptoms-causes/syc-20355053"
+  },
+  {
+    "name": "Adrenal cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adrenal-cancer/symptoms-causes/syc-20351026"
+  },
+  {
+    "name": "Adrenoleukodystrophy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adrenoleukodystrophy/symptoms-causes/syc-20369157"
+  },
+  {
+    "name": "Adult attention-deficit/hyperactivity disorder (ADHD)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adult-adhd/symptoms-causes/syc-20350878"
+  },
+  {
+    "name": "Adult Still disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adult-stills-disease/symptoms-causes/syc-20351907"
+  },
+  {
+    "name": "Age spots (liver spots)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/age-spots/symptoms-causes/syc-20355859"
+  },
+  {
+    "name": "Agoraphobia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987"
+  },
+  {
+    "name": "Airplane ear",
+    "link": "https://www.mayoclinic.org/diseases-conditions/airplane-ear/symptoms-causes/syc-20351701"
+  },
+  {
+    "name": "Albinism",
+    "link": "https://www.mayoclinic.org/diseases-conditions/albinism/symptoms-causes/syc-20369184"
+  },
+  {
+    "name": "Alcohol intolerance",
+    "link": "https://www.mayoclinic.org/diseases-conditions/alcohol-intolerance/symptoms-causes/syc-20369211"
+  },
+  {
+    "name": "Alcohol poisoning",
+    "link": "https://www.mayoclinic.org/diseases-conditions/alcohol-poisoning/symptoms-causes/syc-20354386"
+  },
+  {
+    "name": "Alcohol use disorder",
+    "link": "https://www.mayoclinic.org/diseases-conditions/alcohol-use-disorder/symptoms-causes/syc-20369243"
+  },
+  {
+    "name": "Alcoholic hepatitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388"
+  },
+  {
+    "name": "Allergies",
+    "link": "https://www.mayoclinic.org/diseases-conditions/allergies/symptoms-causes/syc-20351497"
+  },
+  {
+    "name": "Alpha-gal syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608"
+  },
+  {
+    "name": "Alzheimer's disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447"
+  },
+  {
+    "name": "Ameloblastoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/ameloblastoma/symptoms-causes/syc-20351278"
+  },
+  {
+    "name": "Amenorrhea",
+    "link": "https://www.mayoclinic.org/diseases-conditions/amenorrhea/symptoms-causes/syc-20369299"
+  },
+  {
+    "name": "Amnesia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/amnesia/symptoms-causes/syc-20353360"
+  },
+  {
+    "name": "Ampullary cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/ampullary-cancer/symptoms-causes/syc-20355066"
+  },
+  {
+    "name": "Amyloidosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/amyloidosis/symptoms-causes/syc-20353178"
+  },
+  {
+    "name": "Amyotrophic lateral sclerosis (ALS)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022"
+  },
+  {
+    "name": "Anal cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anal-cancer/symptoms-causes/syc-20354140"
+  },
+  {
+    "name": "Anal fissure",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anal-fissure/symptoms-causes/syc-20351424"
+  },
+  {
+    "name": "Anal fistula",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anal-fistula/symptoms-causes/syc-20352871"
+  },
+  {
+    "name": "Anal itching",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anal-itching/symptoms-causes/syc-20369345"
+  },
+  {
+    "name": "Anaphylaxis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anaphylaxis/symptoms-causes/syc-20351468"
+  },
+  {
+    "name": "Anemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360"
+  },
+  {
+    "name": "Aneurysms",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aneurysms/symptoms-causes/syc-20354633"
+  },
+  {
+    "name": "Angelman syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/angelman-syndrome/symptoms-causes/syc-20355621"
+  },
+  {
+    "name": "Angina",
+    "link": "https://www.mayoclinic.org/diseases-conditions/angina/symptoms-causes/syc-20369373"
+  },
+  {
+    "name": "Angiosarcoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/angiosarcoma/symptoms-causes/syc-20350244"
+  },
+  {
+    "name": "Ankylosing spondylitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/ankylosing-spondylitis/symptoms-causes/syc-20354808"
+  },
+  {
+    "name": "Anorexia nervosa",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anorexia-nervosa/symptoms-causes/syc-20353591"
+  },
+  {
+    "name": "Anorgasmia in women",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anorgasmia/symptoms-causes/syc-20369422"
+  },
+  {
+    "name": "Anterior vaginal prolapse (cystocele)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cystocele/symptoms-causes/syc-20369452"
+  },
+  {
+    "name": "Anthrax",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anthrax/symptoms-causes/syc-20356203"
+  },
+  {
+    "name": "Antibiotic-associated diarrhea",
+    "link": "https://www.mayoclinic.org/diseases-conditions/antibiotic-associated-diarrhea/symptoms-causes/syc-20352231"
+  },
+  {
+    "name": "Antiphospholipid syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/antiphospholipid-syndrome/symptoms-causes/syc-20355831"
+  },
+  {
+    "name": "Antisocial personality disorder",
+    "link": "https://www.mayoclinic.org/diseases-conditions/antisocial-personality-disorder/symptoms-causes/syc-20353928"
+  },
+  {
+    "name": "Anxiety disorders",
+    "link": "https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961"
+  },
+  {
+    "name": "Aortic aneurysm",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aortic-aneurysm/symptoms-causes/syc-20369472"
+  },
+  {
+    "name": "Aortic dissection",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aortic-dissection/symptoms-causes/syc-20369496"
+  },
+  {
+    "name": "Aortic valve disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aortic-valve-disease/symptoms-causes/syc-20355117"
+  },
+  {
+    "name": "Aortic valve regurgitation",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aortic-valve-regurgitation/symptoms-causes/syc-20353129"
+  },
+  {
+    "name": "Aortic valve stenosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aortic-stenosis/symptoms-causes/syc-20353139"
+  },
+  {
+    "name": "Aphasia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aphasia/symptoms-causes/syc-20369518"
+  },
+  {
+    "name": "Aplastic anemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aplastic-anemia/symptoms-causes/syc-20355015"
+  },
+  {
+    "name": "Appendicitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543"
+  },
+  {
+    "name": "ARDS",
+    "link": "https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576"
+  },
+  {
+    "name": "Arteriosclerosis / atherosclerosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/symptoms-causes/syc-20350569"
+  },
+  {
+    "name": "Arteriovenous fistula",
+    "link": "https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567"
+  },
+  {
+    "name": "Arteriovenous malformation",
+    "link": "https://www.mayoclinic.org/diseases-conditions/arteriovenous-malformation/symptoms-causes/syc-20350544"
+  },
+  {
+    "name": "Arthritis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/arthritis/symptoms-causes/syc-20350772"
+  },
+  {
+    "name": "Asbestosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/asbestosis/symptoms-causes/syc-20354637"
+  },
+  {
+    "name": "Ascariasis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/ascariasis/symptoms-causes/syc-20369593"
+  },
+  {
+    "name": "Aspergillosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/aspergillosis/symptoms-causes/syc-20369619"
+  },
+  {
+    "name": "Asthma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653"
+  },
+  {
+    "name": "Asthma attack",
+    "link": "https://www.mayoclinic.org/diseases-conditions/asthma-attack/symptoms-causes/syc-20354268"
+  },
+  {
+    "name": "Astigmatism",
+    "link": "https://www.mayoclinic.org/diseases-conditions/astigmatism/symptoms-causes/syc-20353835"
+  },
+  {
+    "name": "Astrocytoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/astrocytoma/symptoms-causes/syc-20576675"
+  },
+  {
+    "name": "Ataxia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/ataxia/symptoms-causes/syc-20355652"
+  },
+  {
+    "name": "Atelectasis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684"
+  },
+  {
+    "name": "Athlete's foot",
+    "link": "https://www.mayoclinic.org/diseases-conditions/athletes-foot/symptoms-causes/syc-20353841"
+  },
+  {
+    "name": "Atopic dermatitis (eczema)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273"
+  },
+  {
+    "name": "Atrial fibrillation",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624"
+  },
+  {
+    "name": "Atrial flutter",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atrial-flutter/symptoms-causes/syc-20352586"
+  },
+  {
+    "name": "Atrial septal defect (ASD)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atrial-septal-defect/symptoms-causes/syc-20369715"
+  },
+  {
+    "name": "Atrial tachycardia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atrial-tachycardia/symptoms-causes/syc-20573298"
+  },
+  {
+    "name": "Atrioventricular canal defect",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atrioventricular-canal-defect/symptoms-causes/syc-20361492"
+  },
+  {
+    "name": "Atrioventricular nodal reentry tachycardia (AVNRT)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/avnrt/symptoms-causes/syc-20573830"
+  },
+  {
+    "name": "Attention-deficit/hyperactivity disorder (ADHD) in children",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adhd/symptoms-causes/syc-20350889"
+  },
+  {
+    "name": "Atypical genitalia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atypical-genitalia/symptoms-causes/syc-20369273"
+  },
+  {
+    "name": "Atypical hyperplasia of the breast",
+    "link": "https://www.mayoclinic.org/diseases-conditions/atypical-hyperplasia/symptoms-causes/syc-20369773"
+  },
+  {
+    "name": "Auditory processing disorder",
+    "link": "https://www.mayoclinic.org/diseases-conditions/auditory-processing-disorder/symptoms-causes/syc-20555261"
+  },
+  {
+    "name": "Autism spectrum disorder",
+    "link": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes/syc-20352928"
+  },
+  {
+    "name": "Autoimmune encephalitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/autoimmune-encephalitis/symptoms-causes/syc-20576380"
+  },
+  {
+    "name": "Autoimmune epilepsy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/autoimmune-epilepsy/symptoms-causes/syc-20576892"
+  },
+  {
+    "name": "Autoimmune hepatitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153"
+  },
+  {
+    "name": "Autoimmune pancreatitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/autoimmune-pancreatitis/symptoms-causes/syc-20369800"
+  },
+  {
+    "name": "Autonomic neuropathy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/autonomic-neuropathy/symptoms-causes/syc-20369829"
+  },
+  {
+    "name": "Avascular necrosis (osteonecrosis)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/avascular-necrosis/symptoms-causes/syc-20369859"
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Paget's disease of bone",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pagets-disease-of-bone/symptoms-causes/syc-20350811"
+  },
+  {
+    "name": "Paget's disease of the breast",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pagets-disease-of-the-breast/symptoms-causes/syc-20351079"
+  },
+  {
+    "name": "Painful intercourse (dyspareunia)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/painful-intercourse/symptoms-causes/syc-20375967"
+  },
+  {
+    "name": "Pancreatic cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/symptoms-causes/syc-20355421"
+  },
+  {
+    "name": "Pancreatic cysts",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993"
+  },
+  {
+    "name": "Pancreatic neuroendocrine tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pancreatic-neuroendocrine-tumors/symptoms-causes/syc-20352489"
+  },
+  {
+    "name": "Pancreatitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227"
+  },
+  {
+    "name": "Panic attacks and panic disorder",
+    "link": "https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021"
+  },
+  {
+    "name": "Paraganglioma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/paraganglioma/symptoms-causes/syc-20575682"
+  },
+  {
+    "name": "Paraneoplastic syndromes of the nervous system",
+    "link": "https://www.mayoclinic.org/diseases-conditions/paraneoplastic-syndromes/symptoms-causes/syc-20355687"
+  },
+  {
+    "name": "Parkinson's disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055"
+  },
+  {
+    "name": "Parotid tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/parotid-tumor/symptoms-causes/syc-20578986"
+  },
+  {
+    "name": "Parvovirus infection",
+    "link": "https://www.mayoclinic.org/diseases-conditions/parvovirus-infection/symptoms-causes/syc-20376085"
+  },
+  {
+    "name": "Patellar tendinitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/patellar-tendinitis/symptoms-causes/syc-20376113"
+  },
+  {
+    "name": "Patellofemoral pain syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/patellofemoral-pain-syndrome/symptoms-causes/syc-20350792"
+  },
+  {
+    "name": "Patent ductus arteriosus (PDA)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/patent-ductus-arteriosus/symptoms-causes/syc-20376145"
+  },
+  {
+    "name": "Patent foramen ovale",
+    "link": "https://www.mayoclinic.org/diseases-conditions/patent-foramen-ovale/symptoms-causes/syc-20353487"
+  },
+  {
+    "name": "Peanut allergy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peanut-allergy/symptoms-causes/syc-20376175"
+  },
+  {
+    "name": "Pectus excavatum",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pectus-excavatum/symptoms-causes/syc-20355483"
+  },
+  {
+    "name": "Pediatric brain tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pediatric-brain-tumor/symptoms-causes/syc-20361694"
+  },
+  {
+    "name": "Pediatric obstructive sleep apnea",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pediatric-sleep-apnea/symptoms-causes/syc-20376196"
+  },
+  {
+    "name": "Pediatric white blood cell disorders",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pediatric-white-blood-cell-disorders/symptoms-causes/syc-20352674"
+  },
+  {
+    "name": "Pelvic inflammatory disease (PID)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pelvic-inflammatory-disease/symptoms-causes/syc-20352594"
+  },
+  {
+    "name": "Pelvic organ prolapse",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pelvic-organ-prolapse/symptoms-causes/syc-20360557"
+  },
+  {
+    "name": "Pemphigus",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pemphigus/symptoms-causes/syc-20350404"
+  },
+  {
+    "name": "Penicillin allergy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/penicillin-allergy/symptoms-causes/syc-20376222"
+  },
+  {
+    "name": "Peptic ulcer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+  },
+  {
+    "name": "Pericardial effusion",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pericardial-effusion/symptoms-causes/syc-20353720"
+  },
+  {
+    "name": "Pericarditis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pericarditis/symptoms-causes/syc-20352510"
+  },
+  {
+    "name": "Perimenopause",
+    "link": "https://www.mayoclinic.org/diseases-conditions/perimenopause/symptoms-causes/syc-20354666"
+  },
+  {
+    "name": "Periodontitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/periodontitis/symptoms-causes/syc-20354473"
+  },
+  {
+    "name": "Peripheral artery disease (PAD)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peripheral-artery-disease/symptoms-causes/syc-20350557"
+  },
+  {
+    "name": "Peripheral nerve injuries",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peripheral-nerve-injuries/symptoms-causes/syc-20355631"
+  },
+  {
+    "name": "Peripheral nerve tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peripheral-nerve-tumors/symptoms-causes/syc-20355070"
+  },
+  {
+    "name": "Peripheral neuropathy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061"
+  },
+  {
+    "name": "Peritonitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peritonitis/symptoms-causes/syc-20376247"
+  },
+  {
+    "name": "Persistent depressive disorder",
+    "link": "https://www.mayoclinic.org/diseases-conditions/persistent-depressive-disorder/symptoms-causes/syc-20350929"
+  },
+  {
+    "name": "Persistent post-concussive symptoms (Post-concussion syndrome)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/post-concussion-syndrome/symptoms-causes/syc-20353352"
+  },
+  {
+    "name": "Personality disorders",
+    "link": "https://www.mayoclinic.org/diseases-conditions/personality-disorders/symptoms-causes/syc-20354463"
+  },
+  {
+    "name": "Pet allergy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192"
+  },
+  {
+    "name": "Peyronie disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/peyronies-disease/symptoms-causes/syc-20353468"
+  },
+  {
+    "name": "Phenylketonuria (PKU)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/phenylketonuria/symptoms-causes/syc-20376302"
+  },
+  {
+    "name": "Pheochromocytoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pheochromocytoma/symptoms-causes/syc-20355367"
+  },
+  {
+    "name": "Pilonidal cyst",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pilonidal-cyst/symptoms-causes/syc-20376329"
+  },
+  {
+    "name": "Pinched nerve",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pinched-nerve/symptoms-causes/syc-20354746"
+  },
+  {
+    "name": "Pineoblastoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pineoblastoma/symptoms-causes/syc-20577723"
+  },
+  {
+    "name": "Pink eye (conjunctivitis)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pink-eye/symptoms-causes/syc-20376355"
+  },
+  {
+    "name": "Pinworm infection",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pinworm/symptoms-causes/syc-20376382"
+  },
+  {
+    "name": "Pituitary tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pituitary-tumors/symptoms-causes/syc-20350548"
+  },
+  {
+    "name": "Pityriasis rosea",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pityriasis-rosea/symptoms-causes/syc-20376405"
+  },
+  {
+    "name": "Placenta accreta",
+    "link": "https://www.mayoclinic.org/diseases-conditions/placenta-accreta/symptoms-causes/syc-20376431"
+  },
+  {
+    "name": "Placenta previa",
+    "link": "https://www.mayoclinic.org/diseases-conditions/placenta-previa/symptoms-causes/syc-20352768"
+  },
+  {
+    "name": "Placental abruption",
+    "link": "https://www.mayoclinic.org/diseases-conditions/placental-abruption/symptoms-causes/syc-20376458"
+  },
+  {
+    "name": "Plague",
+    "link": "https://www.mayoclinic.org/diseases-conditions/plague/symptoms-causes/syc-20351291"
+  },
+  {
+    "name": "Plantar fasciitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/plantar-fasciitis/symptoms-causes/syc-20354846"
+  },
+  {
+    "name": "Plantar warts",
+    "link": "https://www.mayoclinic.org/diseases-conditions/plantar-warts/symptoms-causes/syc-20352691"
+  },
+  {
+    "name": "Pleurisy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pleurisy/symptoms-causes/syc-20351863"
+  },
+  {
+    "name": "Pneumonia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204"
+  },
+  {
+    "name": "Pneumonitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pneumonitis/symptoms-causes/syc-20352623"
+  },
+  {
+    "name": "Pneumothorax",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367"
+  },
+  {
+    "name": "POEMS syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/poems-syndrome/symptoms-causes/syc-20352678"
+  },
+  {
+    "name": "Poison ivy rash",
+    "link": "https://www.mayoclinic.org/diseases-conditions/poison-ivy/symptoms-causes/syc-20376485"
+  },
+  {
+    "name": "Polio",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polio/symptoms-causes/syc-20376512"
+  },
+  {
+    "name": "Polycystic kidney disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polycystic-kidney-disease/symptoms-causes/syc-20352820"
+  },
+  {
+    "name": "Polycystic ovary syndrome (PCOS)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439"
+  },
+  {
+    "name": "Polycythemia vera",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850"
+  },
+  {
+    "name": "Polyhydramnios",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polyhydramnios/symptoms-causes/syc-20368493"
+  },
+  {
+    "name": "Polymorphous light eruption",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polymorphous-light-eruption/symptoms-causes/syc-20355868"
+  },
+  {
+    "name": "Polymyalgia rheumatica",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polymyalgia-rheumatica/symptoms-causes/syc-20376539"
+  },
+  {
+    "name": "Polymyositis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/polymyositis/symptoms-causes/syc-20353208"
+  },
+  {
+    "name": "Popliteal artery aneurysm",
+    "link": "https://www.mayoclinic.org/diseases-conditions/popliteal-artery-aneurysm/symptoms-causes/syc-20355432"
+  },
+  {
+    "name": "Popliteal artery entrapment",
+    "link": "https://www.mayoclinic.org/diseases-conditions/popliteal-artery-entrapment/symptoms-causes/syc-20465211"
+  },
+  {
+    "name": "Porphyria",
+    "link": "https://www.mayoclinic.org/diseases-conditions/porphyria/symptoms-causes/syc-20356066"
+  },
+  {
+    "name": "Posterior cortical atrophy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/posterior-cortical-atrophy/symptoms-causes/syc-20376560"
+  },
+  {
+    "name": "Posterior vaginal prolapse (rectocele)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/rectocele/symptoms-causes/syc-20353414"
+  },
+  {
+    "name": "Postherpetic neuralgia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/postherpetic-neuralgia/symptoms-causes/syc-20376588"
+  },
+  {
+    "name": "Postpartum depression",
+    "link": "https://www.mayoclinic.org/diseases-conditions/postpartum-depression/symptoms-causes/syc-20376617"
+  },
+  {
+    "name": "Postpartum preeclampsia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/postpartum-preeclampsia/symptoms-causes/syc-20376646"
+  },
+  {
+    "name": "Post-polio syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/post-polio-syndrome/symptoms-causes/syc-20355669"
+  },
+  {
+    "name": "Post-traumatic stress disorder (PTSD)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967"
+  },
+  {
+    "name": "Post-vasectomy pain syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/post-vasectomy-pain-syndrome/symptoms-causes/syc-20527047"
+  },
+  {
+    "name": "Pouchitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pouchitis/symptoms-causes/syc-20361991"
+  },
+  {
+    "name": "Prader-Willi syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/prader-willi-syndrome/symptoms-causes/syc-20355997"
+  },
+  {
+    "name": "Precocious puberty",
+    "link": "https://www.mayoclinic.org/diseases-conditions/precocious-puberty/symptoms-causes/syc-20351811"
+  },
+  {
+    "name": "Prediabetes",
+    "link": "https://www.mayoclinic.org/diseases-conditions/prediabetes/symptoms-causes/syc-20355278"
+  },
+  {
+    "name": "Preeclampsia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/preeclampsia/symptoms-causes/syc-20355745"
+  },
+  {
+    "name": "Premature birth",
+    "link": "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730"
+  },
+  {
+    "name": "Premature ejaculation",
+    "link": "https://www.mayoclinic.org/diseases-conditions/premature-ejaculation/symptoms-causes/syc-20354900"
+  },
+  {
+    "name": "Premature ventricular contractions (PVCs)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/premature-ventricular-contractions/symptoms-causes/syc-20376757"
+  },
+  {
+    "name": "Premenstrual syndrome (PMS)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/premenstrual-syndrome/symptoms-causes/syc-20376780"
+  },
+  {
+    "name": "Presbyopia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/presbyopia/symptoms-causes/syc-20363328"
+  },
+  {
+    "name": "Prescription drug abuse",
+    "link": "https://www.mayoclinic.org/diseases-conditions/prescription-drug-abuse/symptoms-causes/syc-20376813"
+  },
+  {
+    "name": "Preterm labor",
+    "link": "https://www.mayoclinic.org/diseases-conditions/preterm-labor/symptoms-causes/syc-20376842"
+  },
+  {
+    "name": "Priapism",
+    "link": "https://www.mayoclinic.org/diseases-conditions/priapism/symptoms-causes/syc-20352005"
+  },
+  {
+    "name": "Primary biliary cholangitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/primary-biliary-cholangitis/symptoms-causes/syc-20376874"
+  },
+  {
+    "name": "Primary immunodeficiency",
+    "link": "https://www.mayoclinic.org/diseases-conditions/primary-immunodeficiency/symptoms-causes/syc-20376905"
+  },
+  {
+    "name": "Primary lateral sclerosis (PLS)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/primary-lateral-sclerosis/symptoms-causes/syc-20353968"
+  },
+  {
+    "name": "Primary ovarian insufficiency",
+    "link": "https://www.mayoclinic.org/diseases-conditions/premature-ovarian-failure/symptoms-causes/syc-20354683"
+  },
+  {
+    "name": "Primary progressive aphasia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/primary-progressive-aphasia/symptoms-causes/syc-20350499"
+  },
+  {
+    "name": "Primary sclerosing cholangitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/symptoms-causes/syc-20355797"
+  },
+  {
+    "name": "Proctitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/proctitis/symptoms-causes/syc-20376933"
+  },
+  {
+    "name": "Progeria",
+    "link": "https://www.mayoclinic.org/diseases-conditions/progeria/symptoms-causes/syc-20356038"
+  },
+  {
+    "name": "Progressive supranuclear palsy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/progressive-supranuclear-palsy/symptoms-causes/syc-20355659"
+  },
+  {
+    "name": "Prolactinoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/prolactinoma/symptoms-causes/syc-20376958"
+  },
+  {
+    "name": "Prostate cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/prostate-cancer/symptoms-causes/syc-20353087"
+  },
+  {
+    "name": "Prostatitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/prostatitis/symptoms-causes/syc-20355766"
+  },
+  {
+    "name": "Pseudobulbar affect",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pseudobulbar-affect/symptoms-causes/syc-20353737"
+  },
+  {
+    "name": "Pseudocholinesterase deficiency",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pseudocholinesterase-deficiency/symptoms-causes/syc-20354543"
+  },
+  {
+    "name": "Pseudogout",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pseudogout/symptoms-causes/syc-20376983"
+  },
+  {
+    "name": "Pseudomembranous colitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pseudomembranous-colitis/symptoms-causes/syc-20351434"
+  },
+  {
+    "name": "Pseudotumor cerebri (idiopathic intracranial hypertension)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pseudotumor-cerebri/symptoms-causes/syc-20354031"
+  },
+  {
+    "name": "Psoriasis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/psoriasis/symptoms-causes/syc-20355840"
+  },
+  {
+    "name": "Psoriatic arthritis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/psoriatic-arthritis/symptoms-causes/syc-20354076"
+  },
+  {
+    "name": "Pubic lice (crabs)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pubic-lice-crabs/symptoms-causes/syc-20350300"
+  },
+  {
+    "name": "Pulmonary atresia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-atresia/symptoms-causes/syc-20350727"
+  },
+  {
+    "name": "Pulmonary edema",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009"
+  },
+  {
+    "name": "Pulmonary embolism",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-embolism/symptoms-causes/syc-20354647"
+  },
+  {
+    "name": "Pulmonary fibrosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690"
+  },
+  {
+    "name": "Pulmonary hypertension",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/symptoms-causes/syc-20350697"
+  },
+  {
+    "name": "Pulmonary valve disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-valve-disease/symptoms-causes/syc-20350654"
+  },
+  {
+    "name": "Pulmonary valve stenosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pulmonary-valve-stenosis/symptoms-causes/syc-20377034"
+  },
+  {
+    "name": "Pyloric stenosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pyloric-stenosis/symptoms-causes/syc-20351416"
+  },
+  {
+    "name": "Pyoderma gangrenosum",
+    "link": "https://www.mayoclinic.org/diseases-conditions/pyoderma-gangrenosum/symptoms-causes/syc-20350386"
+  }
+]

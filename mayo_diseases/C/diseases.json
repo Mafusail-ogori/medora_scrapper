@@ -1,0 +1,442 @@
+[
+  {
+    "name": "C. difficile infection",
+    "link": "https://www.mayoclinic.org/diseases-conditions/c-difficile/symptoms-causes/syc-20351691"
+  },
+  {
+    "name": "Calciphylaxis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/calciphylaxis/symptoms-causes/syc-20370559"
+  },
+  {
+    "name": "Cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588"
+  },
+  {
+    "name": "Canker sore",
+    "link": "https://www.mayoclinic.org/diseases-conditions/canker-sore/symptoms-causes/syc-20370615"
+  },
+  {
+    "name": "Carbon monoxide poisoning",
+    "link": "https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642"
+  },
+  {
+    "name": "Carcinoid syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/carcinoid-syndrome/symptoms-causes/syc-20370666"
+  },
+  {
+    "name": "Carcinoid tumors",
+    "link": "https://www.mayoclinic.org/diseases-conditions/carcinoid-tumors/symptoms-causes/syc-20351039"
+  },
+  {
+    "name": "Carcinoma of unknown primary",
+    "link": "https://www.mayoclinic.org/diseases-conditions/carcinoma-unknown-primary/symptoms-causes/syc-20370683"
+  },
+  {
+    "name": "Cardiogenic shock",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cardiogenic-shock/symptoms-causes/syc-20366739"
+  },
+  {
+    "name": "Cardiomyopathy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cardiomyopathy/symptoms-causes/syc-20370709"
+  },
+  {
+    "name": "Carotid artery disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/carotid-artery-disease/symptoms-causes/syc-20360519"
+  },
+  {
+    "name": "Carpal tunnel syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/symptoms-causes/syc-20355603"
+  },
+  {
+    "name": "Castleman disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/castleman-disease/symptoms-causes/syc-20543017"
+  },
+  {
+    "name": "Cataracts",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cataracts/symptoms-causes/syc-20353790"
+  },
+  {
+    "name": "Cavernous malformations",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cavernous-malformations/symptoms-causes/syc-20360941"
+  },
+  {
+    "name": "Cavities and tooth decay",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cavities/symptoms-causes/syc-20352892"
+  },
+  {
+    "name": "Celiac disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220"
+  },
+  {
+    "name": "Cellulite",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cellulite/symptoms-causes/syc-20354945"
+  },
+  {
+    "name": "Cellulitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cellulitis/symptoms-causes/syc-20370762"
+  },
+  {
+    "name": "Central nervous system vascular malformations",
+    "link": "https://www.mayoclinic.org/diseases-conditions/central-nervous-system-vascular-malformations/symptoms-causes/syc-20356113"
+  },
+  {
+    "name": "Central sleep apnea",
+    "link": "https://www.mayoclinic.org/diseases-conditions/central-sleep-apnea/symptoms-causes/syc-20352109"
+  },
+  {
+    "name": "Cerebral palsy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cerebral-palsy/symptoms-causes/syc-20353999"
+  },
+  {
+    "name": "Cervical cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cervical-cancer/symptoms-causes/syc-20352501"
+  },
+  {
+    "name": "Cervical dystonia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cervical-dystonia/symptoms-causes/syc-20354123"
+  },
+  {
+    "name": "Cervical spondylosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cervical-spondylosis/symptoms-causes/syc-20370787"
+  },
+  {
+    "name": "Cervicitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cervicitis/symptoms-causes/syc-20370814"
+  },
+  {
+    "name": "Chagas disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chagas-disease/symptoms-causes/syc-20356212"
+  },
+  {
+    "name": "Charcot-Marie-Tooth disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/charcot-marie-tooth-disease/symptoms-causes/syc-20350517"
+  },
+  {
+    "name": "Chemo brain",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chemo-brain/symptoms-causes/syc-20351060"
+  },
+  {
+    "name": "Chest pain",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838"
+  },
+  {
+    "name": "Chiari malformation",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chiari-malformation/symptoms-causes/syc-20354010"
+  },
+  {
+    "name": "Chickenpox",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chickenpox/symptoms-causes/syc-20351282"
+  },
+  {
+    "name": "Chilblains",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chilblains/symptoms-causes/syc-20351097"
+  },
+  {
+    "name": "Child abuse",
+    "link": "https://www.mayoclinic.org/diseases-conditions/child-abuse/symptoms-causes/syc-20370864"
+  },
+  {
+    "name": "Childhood apraxia of speech",
+    "link": "https://www.mayoclinic.org/diseases-conditions/childhood-apraxia-of-speech/symptoms-causes/syc-20352045"
+  },
+  {
+    "name": "Childhood asthma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/childhood-asthma/symptoms-causes/syc-20351507"
+  },
+  {
+    "name": "Childhood obesity",
+    "link": "https://www.mayoclinic.org/diseases-conditions/childhood-obesity/symptoms-causes/syc-20354827"
+  },
+  {
+    "name": "Childhood schizophrenia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/childhood-schizophrenia/symptoms-causes/syc-20354483"
+  },
+  {
+    "name": "Chlamydia trachomatis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chlamydia/symptoms-causes/syc-20355349"
+  },
+  {
+    "name": "Cholangiocarcinoma (bile duct cancer)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cholangiocarcinoma/symptoms-causes/syc-20352408"
+  },
+  {
+    "name": "Cholecystitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867"
+  },
+  {
+    "name": "Cholera",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cholera/symptoms-causes/syc-20355287"
+  },
+  {
+    "name": "Cholestasis of pregnancy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/symptoms-causes/syc-20363257"
+  },
+  {
+    "name": "Chondrosarcoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chondrosarcoma/symptoms-causes/syc-20354196"
+  },
+  {
+    "name": "Choroid plexus carcinoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/choroid-plexus-carcinoma/symptoms-causes/syc-20578760"
+  },
+  {
+    "name": "Chronic cough",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-cough/symptoms-causes/syc-20351575"
+  },
+  {
+    "name": "Chronic daily headaches",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-daily-headaches/symptoms-causes/syc-20370891"
+  },
+  {
+    "name": "Chronic exertional compartment syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-exertional-compartment-syndrome/symptoms-causes/syc-20350830"
+  },
+  {
+    "name": "Chronic granulomatous disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-granulomatous-disease/symptoms-causes/syc-20355817"
+  },
+  {
+    "name": "Chronic hives",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-hives/symptoms-causes/syc-20352719"
+  },
+  {
+    "name": "Chronic kidney disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521"
+  },
+  {
+    "name": "Chronic lymphocytic leukemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-lymphocytic-leukemia/symptoms-causes/syc-20352428"
+  },
+  {
+    "name": "Chronic myelogenous leukemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-myelogenous-leukemia/symptoms-causes/syc-20352417"
+  },
+  {
+    "name": "Chronic pelvic pain",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-pelvic-pain/symptoms-causes/syc-20354368"
+  },
+  {
+    "name": "Chronic sinusitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-sinusitis/symptoms-causes/syc-20351661"
+  },
+  {
+    "name": "Chronic traumatic encephalopathy",
+    "link": "https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921"
+  },
+  {
+    "name": "Churg-Strauss syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/churg-strauss-syndrome/symptoms-causes/syc-20353760"
+  },
+  {
+    "name": "Cirrhosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487"
+  },
+  {
+    "name": "Claudication",
+    "link": "https://www.mayoclinic.org/diseases-conditions/claudication/symptoms-causes/syc-20370952"
+  },
+  {
+    "name": "Cleft lip and cleft palate",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cleft-palate/symptoms-causes/syc-20370985"
+  },
+  {
+    "name": "Clubfoot",
+    "link": "https://www.mayoclinic.org/diseases-conditions/clubfoot/symptoms-causes/syc-20350860"
+  },
+  {
+    "name": "Cluster headache",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cluster-headache/symptoms-causes/syc-20352080"
+  },
+  {
+    "name": "Coarctation of the aorta",
+    "link": "https://www.mayoclinic.org/diseases-conditions/coarctation-of-the-aorta/symptoms-causes/syc-20352529"
+  },
+  {
+    "name": "Cold sore",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cold-sore/symptoms-causes/syc-20371017"
+  },
+  {
+    "name": "Cold urticaria",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cold-urticaria/symptoms-causes/syc-20371046"
+  },
+  {
+    "name": "Colic",
+    "link": "https://www.mayoclinic.org/diseases-conditions/colic/symptoms-causes/syc-20371074"
+  },
+  {
+    "name": "Colon cancer",
+    "link": "https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669"
+  },
+  {
+    "name": "Colon polyps",
+    "link": "https://www.mayoclinic.org/diseases-conditions/colon-polyps/symptoms-causes/syc-20352875"
+  },
+  {
+    "name": "Color blindness",
+    "link": "https://www.mayoclinic.org/diseases-conditions/color-blindness/symptoms-causes/syc-20354988"
+  },
+  {
+    "name": "Coma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/coma/symptoms-causes/syc-20371099"
+  },
+  {
+    "name": "Common cold",
+    "link": "https://www.mayoclinic.org/diseases-conditions/common-cold/symptoms-causes/syc-20351605"
+  },
+  {
+    "name": "Common cold in babies",
+    "link": "https://www.mayoclinic.org/diseases-conditions/common-cold-in-babies/symptoms-causes/syc-20351651"
+  },
+  {
+    "name": "Common variable immunodeficiency",
+    "link": "https://www.mayoclinic.org/diseases-conditions/common-variable-immunodeficiency/symptoms-causes/syc-20355821"
+  },
+  {
+    "name": "Common warts",
+    "link": "https://www.mayoclinic.org/diseases-conditions/common-warts/symptoms-causes/syc-20371125"
+  },
+  {
+    "name": "Complex regional pain syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/crps-complex-regional-pain-syndrome/symptoms-causes/syc-20371151"
+  },
+  {
+    "name": "Complicated grief",
+    "link": "https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374"
+  },
+  {
+    "name": "Compulsive gambling",
+    "link": "https://www.mayoclinic.org/diseases-conditions/compulsive-gambling/symptoms-causes/syc-20355178"
+  },
+  {
+    "name": "Compulsive sexual behavior",
+    "link": "https://www.mayoclinic.org/diseases-conditions/compulsive-sexual-behavior/symptoms-causes/syc-20360434"
+  },
+  {
+    "name": "Concussion",
+    "link": "https://www.mayoclinic.org/diseases-conditions/concussion/symptoms-causes/syc-20355594"
+  },
+  {
+    "name": "Congenital adrenal hyperplasia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/congenital-adrenal-hyperplasia/symptoms-causes/syc-20355205"
+  },
+  {
+    "name": "Congenital diaphragmatic hernia (CDH)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/congenital-diaphragmatic-hernia/symptoms-causes/syc-20544249"
+  },
+  {
+    "name": "Congenital heart defects in children",
+    "link": "https://www.mayoclinic.org/diseases-conditions/congenital-heart-defects-children/symptoms-causes/syc-20350074"
+  },
+  {
+    "name": "Congenital heart disease in adults",
+    "link": "https://www.mayoclinic.org/diseases-conditions/adult-congenital-heart-disease/symptoms-causes/syc-20355456"
+  },
+  {
+    "name": "Congenital myasthenic syndromes",
+    "link": "https://www.mayoclinic.org/diseases-conditions/congenital-myasthenic-syndrome/symptoms-causes/syc-20354754"
+  },
+  {
+    "name": "Conjoined twins",
+    "link": "https://www.mayoclinic.org/diseases-conditions/conjoined-twins/symptoms-causes/syc-20353910"
+  },
+  {
+    "name": "Constipation",
+    "link": "https://www.mayoclinic.org/diseases-conditions/constipation/symptoms-causes/syc-20354253"
+  },
+  {
+    "name": "Constipation in children",
+    "link": "https://www.mayoclinic.org/diseases-conditions/constipation-in-children/symptoms-causes/syc-20354242"
+  },
+  {
+    "name": "Contact dermatitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/contact-dermatitis/symptoms-causes/syc-20352742"
+  },
+  {
+    "name": "COPD",
+    "link": "https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679"
+  },
+  {
+    "name": "Corns and calluses",
+    "link": "https://www.mayoclinic.org/diseases-conditions/corns-and-calluses/symptoms-causes/syc-20355946"
+  },
+  {
+    "name": "Coronary artery disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613"
+  },
+  {
+    "name": "Coronavirus disease 2019 (COVID-19)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+  },
+  {
+    "name": "Corticobasal degeneration (corticobasal syndrome)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/corticobasal-degeneration/symptoms-causes/syc-20354767"
+  },
+  {
+    "name": "Costochondritis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/costochondritis/symptoms-causes/syc-20371175"
+  },
+  {
+    "name": "Cough headaches",
+    "link": "https://www.mayoclinic.org/diseases-conditions/primary-cough-headaches/symptoms-causes/syc-20371200"
+  },
+  {
+    "name": "Cradle cap",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cradle-cap/symptoms-causes/syc-20350396"
+  },
+  {
+    "name": "Craniosynostosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/craniosynostosis/symptoms-causes/syc-20354513"
+  },
+  {
+    "name": "Creutzfeldt-Jakob disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/creutzfeldt-jakob-disease/symptoms-causes/syc-20371226"
+  },
+  {
+    "name": "Crohn's disease",
+    "link": "https://www.mayoclinic.org/diseases-conditions/crohns-disease/symptoms-causes/syc-20353304"
+  },
+  {
+    "name": "Croup",
+    "link": "https://www.mayoclinic.org/diseases-conditions/croup/symptoms-causes/syc-20350348"
+  },
+  {
+    "name": "Cryoglobulinemia",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cryoglobulinemia/symptoms-causes/syc-20371244"
+  },
+  {
+    "name": "CSF leak (Cerebrospinal fluid leak)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/csf-leak/symptoms-causes/syc-20522246"
+  },
+  {
+    "name": "Cushing syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cushing-syndrome/symptoms-causes/syc-20351310"
+  },
+  {
+    "name": "Cutaneous B-cell lymphoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cutaneous-b-cell-lymphoma/symptoms-causes/syc-20577439"
+  },
+  {
+    "name": "Cutaneous T-cell lymphoma",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cutaneous-t-cell-lymphoma/symptoms-causes/syc-20351056"
+  },
+  {
+    "name": "Cyclic vomiting syndrome",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cyclic-vomiting-syndrome/symptoms-causes/syc-20352161"
+  },
+  {
+    "name": "Cyclothymia (cyclothymic disorder)",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cyclothymia/symptoms-causes/syc-20371275"
+  },
+  {
+    "name": "Cystic fibrosis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cystic-fibrosis/symptoms-causes/syc-20353700"
+  },
+  {
+    "name": "Cystitis",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cystitis/symptoms-causes/syc-20371306"
+  },
+  {
+    "name": "Cytomegalovirus (CMV) infection",
+    "link": "https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358"
+  }
+]

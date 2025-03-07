@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const collectedDataDir = "./collected_data";
-const outputFile = "./drug_details.json";
+const collectedDataDir = "./mayo_json";
+const outputFile = "./mayo_diseases.json";
 
 async function mergeJsonFiles() {
   try {
